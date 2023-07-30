@@ -33,7 +33,7 @@ At the end of this tutorial is a prompt that can be used to have ChatGPT-4 gener
 These cards use Markdown, and will automatically place an HTML `<br>` after singular new lines.
 
 **@Information**  
-Markdown text goes here until end-of-file or the next @Information or @Lesson.
+Markdown text goes here until end-of-file or the next @Information or @Sentence.
 
 #### Example
 ```
