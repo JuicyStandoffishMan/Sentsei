@@ -20,7 +20,7 @@ Next, make sure you have [Python](https://www.python.org/downloads/) installed. 
 Start by gathering the sentences you want to use. You can gather them from a visual novel, find them online, have ChatGPT generate some, or write them yourself.
 
 ## 3. Create lesson.txt
-This file contains your actual lesson data. There are two types of cards that:
+This file contains your actual lesson data. There are two types of cards:
 
 - Information - This is for displaying a lesson overview and giving instructions, if you want that sort of thing.
 - Sentence - This is a sentence entry.
