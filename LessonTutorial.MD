@@ -62,7 +62,7 @@ Japanese word A - Translation (type): Description
 Japanese word B - Translation (type): Description
 
 **@Lesson**  
-Markdown text goes here until end-of-file or @Lesson.
+Markdown text goes here until end-of-file or the next @Information or @Sentence.
 
 #### Example
 
