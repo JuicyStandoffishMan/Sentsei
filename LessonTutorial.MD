@@ -18,7 +18,7 @@ Next, make sure you have [Python](https://www.python.org/downloads/) installed. 
 
 **Note:** If you're not running the server locally and just testing via zip file, you can create the folder wherever. Later sections cover using this method.
 
-## 2. Gathering your sentences
+## 2. Gather your sentences
 Start by gathering the sentences you want to use. You can gather them from a visual novel, find them online, have ChatGPT generate some, or write them yourself.
 
 ## 3. Create lesson.txt
