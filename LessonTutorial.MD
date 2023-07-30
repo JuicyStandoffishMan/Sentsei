@@ -211,6 +211,13 @@ You can change this if you want by replacing this line in the `convert.py` scrip
 audio = replace_kanji_with_furigana(japanese).replace('、', '').replace('…','').replace(' は ', ' わ ')
 ```
 
+and these ones in the `audio_part4.py` script:
+
+```py
+if word.split('*')[0] == 'は':
+    recomposed_audio += silence + ha_audio
+```
+
 ## 8. Deployment
 Assuming everything is working okay, you're done! If you wish to share this lesson with others, there are 2 options:
 
