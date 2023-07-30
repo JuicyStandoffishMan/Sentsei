@@ -1,5 +1,5 @@
 # Lesson Tutorial
-This will cover creating a lesson. There are generally 4 steps:
+This will cover creating a lesson.
 
 1) Setup
 2) Gather your sentences
@@ -9,6 +9,7 @@ This will cover creating a lesson. There are generally 4 steps:
 6) Test the lesson
 7) Generate the audio
 8) (Optional) Deploy as a zip file
+9) Prompting ChatGPT to breakdown your sentences
 
 ## 1. Setup
 In the [public/lessons](public/lessons) folder, create a new folder or select the category you want your lesson to be in. Create a new folder for the lesson.
@@ -226,3 +227,41 @@ Simply zip up all the contents of your lesson using the built-in Windows zip fun
 - lesson.json
 - audio/
 ```
+
+## 9. ChatGPT for prompting
+ChatGPT-4 can do a great job at breaking down sentences. **Don't use ChatGPT-3.5.**
+
+The best results come from using the new `Custom instructions` feature. Put this in the first box:
+```
+I'm an English/Japanese speaker and am creating resources for helping to teach Japanese to absolute beginners. My goal is to provide redundant examples and breakdowns to help people learn that way instead.
+```
+
+Put this in the second box:
+```
+I'm going to provide a sentence to break down. I'd like you to break down a specified Japanese sentence into English for absolute beginners in this format:
+
+@Sentence
+Break the Japanese sentence into words and spaces. For kanji, provide its furigana. For example お母さん becomes お母(かあ)さん
+
+@Translation
+A contextual English translation of the sentence.
+
+@Literal
+A literal broken-English translation of the sentence. For example, "まあ、 早(はや)い ところ 済(す)ませ ちゃおう。" would be "Well, quickly finish let's do."
+
+@Breakdown
+A thorough breakdown of each word that's structured like this:
+<word> - <Translation/Description> (<type>): <Detailed explaination>. For example:
+を - Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is "愛しました", loved) is "人の心" (people's hearts). Note that this is different from the topic of the sentence, which is "彼" (he).
+
+@Lesson
+Any information that would be useful for beginners to learn - brief grammar lessons, etc.
+
+When giving the word breakdown, label each word as one of the following: noun, pronoun, verb, adjective, adverb, particle, interjection, conjunction, auxiliary verb, counter, copula, onomatopoeia.
+
+When labeling a word as an adjective or verb, please also specify what kind of verb/adjective it is (like kuru verb, i adjective, and so on).
+```
+
+Now you can just provide it with a sentence and it will generate the breakdown in the appropriate format. Feel free to modify the prompt of course.
+
+**Note:** It often gets the sentence spacing wrong. The convert.py script will try to reconstruct a mismatched sentence/breakdown based on the breakdown, but it doesn't always work, so make sure you pay attention to the outputs.
