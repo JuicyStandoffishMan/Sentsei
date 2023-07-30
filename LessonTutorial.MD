@@ -271,4 +271,4 @@ When labeling a word as an adjective or verb, please also specify what kind of v
 
 Now you can just provide it with a sentence and it will generate the breakdown in the appropriate format. Feel free to modify the prompt of course.
 
-**Note:** It often gets the sentence spacing wrong. The convert.py script will try to reconstruct a mismatched sentence/breakdown based on the breakdown, but it doesn't always work, so make sure you pay attention to the outputs.
+**Note:** It often gets the sentence spacing wrong. The convert.py script will try to reconstruct a mismatched sentence/breakdown based on the breakdown, but it doesn't always work, so make sure you pay attention to the outputs. And of course, ChatGPT isn't perfect, so YMMV and just be wary of some of the nuances, like the type labeling and literal breakdowns.
