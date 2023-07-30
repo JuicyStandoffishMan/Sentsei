@@ -24,16 +24,24 @@ a {
   text-align: justify;
   margin-left: 1em;
   margin-right: 1em;
+  margin-top: 1.5em;
 }
 
 .lesson_link:hover {
   text-decoration: none;
 }
 
+input[type="file"] {
+  display: none;
+  margin: 1em;
+}
+
 .upload {
+  position: relative;
   font-size: 1em;
-  padding: 10px 20px;
-  margin: 20px;
+  padding: 0.3em;
+  top: 1em;
+  margin: 1em;
   background-color: #414b61;
   color: #ebebeb;
   border: 0.1em solid #222833;

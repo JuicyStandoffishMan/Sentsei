@@ -31,30 +31,20 @@ function TitleScreen() {
   
   const [lessons, setLessons] = useState([]);
 
-  const uploadFile = async () => {
+  const uploadFile = async (e) => {
     try 
     {
-      if(!('showOpenFilePicker' in window))
-      {
-        window.alert("Your browser does not support File System API. Please use a different browser.");
-        return;
-      }
-      const [fileHandle] = await window.showOpenFilePicker();
+      const fileHandle = e.target.files[0]; // Get the first file user selected
       const fileName = fileHandle.name.split('.')[0]; // Assuming no dots in filename except for the extension
       setFile(fileHandle);
       navigate(`lessons/local/${fileName}/1`); // navigate after file selection
     } 
     catch (err) 
     {
-      if (err.name === 'AbortError') 
-      {
-      } 
-      else 
-      {
-        console.error("Error uploading file: " + err);
-      }
+      console.error("Error uploading file: " + err);
     }
   };
+
   
 
   useEffect(() => {
@@ -99,7 +89,8 @@ function TitleScreen() {
 
   return (
     <div className="title-screen">
-      <button onClick={uploadFile} className="upload">Select Local</button>
+      <label for="upload_file" className="upload">Upload Local Lesson</label>
+      <input id="upload_file" type="file" onChange={uploadFile} accept=".zip" className="upload"/>
       <LessonList lessons={lessons} />
     </div>
   );
@@ -255,8 +246,13 @@ function Lesson({file}) {
       {
         try
         {
-          const fileData = await file.getFile();
-          const arrayBuffer = await fileData.arrayBuffer();
+          const arrayBuffer = await new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onloadend = () => resolve(reader.result);
+            reader.onerror = reject;
+            reader.readAsArrayBuffer(file);
+          });
+
           const zip = new JSZip();
           const zipData = await zip.loadAsync(arrayBuffer);
           await loadAudioFiles(zipData);
@@ -286,6 +282,8 @@ function Lesson({file}) {
     setActiveSentenceIndex(ind);
     setSentence(lessonJson[ind]);
   };
+
+
 
   useEffect(() => {
     if (category === 'local' && !file)
