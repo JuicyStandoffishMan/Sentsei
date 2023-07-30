@@ -16,6 +16,8 @@ In the [public/lessons](public/lessons) folder, create a new folder or select th
 
 Next, make sure you have [Python](https://www.python.org/downloads/) installed. Copy all of the .py scripts from the [public/py_scripts/](public/py_scripts/) folder into your folder.
 
+**Note:** If you're not running the server locally and just testing via zip file, you can create the folder wherever. Later sections cover using this method.
+
 ## 2. Gathering your sentences
 Start by gathering the sentences you want to use. You can gather them from a visual novel, find them online, have ChatGPT generate some, or write them yourself.
 
