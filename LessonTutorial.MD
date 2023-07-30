@@ -118,7 +118,7 @@ Once you've added all of it, run this command:
 python fix_furigana.py
 ```
 
-This will scan the file and report you of any missing Furigana. If you've specified it elsewhere in the file, it will use that and report entries it couldn't find.
+This will scan the file and report any missing Furigana. If you've specified it elsewhere in the file, it will use that and report entries it couldn't find.
 
 Updates will modify lesson.txt once this is complete, so it's not a bad idea to backup your lesson.txt just in case. It's highly recommended to make sure you have Furigana on all the Kanji in the sentence and breakdown for audio generation's sake.
 
