@@ -240,7 +240,7 @@ ChatGPT-4 can do a great job at breaking down sentences. **Don't use ChatGPT-3.5
 
 The best results come from using the new `Custom instructions` feature. Put this in the first box:
 ```
-I'm an English/Japanese speaker and am creating resources for helping to teach Japanese to absolute beginners. My goal is to provide redundant examples and breakdowns to help people learn that way instead.
+I'm an English/Japanese speaker and am creating resources for helping to teach Japanese to absolute beginners. My goal is to provide redundant examples and breakdowns to help people learn that way.
 ```
 
 Put this in the second box:
