@@ -266,7 +266,7 @@ Any information that would be useful for beginners to learn - brief grammar less
 
 When giving the word breakdown, label each word as one of the following: noun, pronoun, verb, adjective, adverb, particle, interjection, conjunction, auxiliary verb, counter, copula, onomatopoeia.
 
-When labeling a word as an adjective or verb, please also specify what kind of verb/adjective it is (like kuru verb, i adjective, and so on).
+When labeling a word as an adjective or verb, please also specify what kind of verb/adjective it is (like godan verb, i adjective, and so on).
 ```
 
 Now you can just provide it with a sentence and it will generate the breakdown in the appropriate format. Feel free to modify the prompt of course.
