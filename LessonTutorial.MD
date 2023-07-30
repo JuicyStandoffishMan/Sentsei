@@ -10,6 +10,9 @@ This will cover creating a lesson. There are generally 4 steps:
 7) (Optional) Deploy as a zip file
 
 ## Setup
+In the public/lessons folder, create a new folder or select the category you want your lesson to be in. Create a new folder for the lesson.
+
+Next, make sure you have [Python](https://www.python.org/downloads/) installed.
 
 ## Gathering your sentences
 Start by gathering the sentences you want to use. You can gather them from a visual novel, find them online, have ChatGPT generate some, or write them yourself.
