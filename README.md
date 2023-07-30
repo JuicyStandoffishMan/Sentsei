@@ -24,10 +24,13 @@ This project doesn't solve that - it's merely a set of tools to enable a rich in
 
 ## Quickstart
 This is a ReactJS app, so you'll need [node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed. Then just run this:
-```git clone https://github.com/JuicyStandoffishMan/Sentsei.git
+
+```
+git clone https://github.com/JuicyStandoffishMan/Sentsei.git
 cd Sentsei
 npm install
-npm run```
+npm run
+```
 
 ## Creating your own lessons
 ### [Lesson Tutorial](LessonTutorial.MD)
