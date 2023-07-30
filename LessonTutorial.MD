@@ -66,7 +66,7 @@ Markdown text goes here until end-of-file or @Lesson.
 
 ```
 @Sentence
-それは何(なん)ですか？
+それ は 何(なん) ですか？
 
 @Translation
 What is that?
