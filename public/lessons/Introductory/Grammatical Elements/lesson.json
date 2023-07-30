@@ -1,0 +1,152 @@
+[
+    {
+        "type": "information",
+        "content": "# Grammatical Elements  \n---  \nThis lesson covers the following 12 grammatical elements:  \n  \n- {名詞|めいし}: Noun  \n- {代名詞|だいめいし}: Pronoun  \n- {動詞|どうし}: Verb  \n- {副詞|ふくし}: Adverb  \n- {形容詞|けいようし}/{形容動詞|けいようどうし}: Adjective  \n- {助詞|じょし}: Particle  \n- {感動詞|かんどうし}: Interjection  \n- {接続詞|せつぞくし}: Conjunction  \n- {助動詞|じょどうし}: Auxiliary Verb  \n- {助数詞|じょすうし}: Counter  \n- {連語|れんご}: Copula"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{名詞|めいし}",
+        "english": "",
+        "literal": "",
+        "audio": "めいし",
+        "audio_slow": "めいし",
+        "breakdown": {
+            "名詞*0*": "Noun||noun"
+        },
+        "lesson": "Like English, Japanese has nouns that represent people, places, things, and ideas.\nOne significant difference is that Japanese nouns do not have grammatical number, gender or article.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{代名詞|だいめいし}",
+        "english": "",
+        "literal": "",
+        "audio": "だいめいし",
+        "audio_slow": "だいめいし",
+        "breakdown": {
+            "{代名詞|だいめいし}*0*": "Pronoun||pronoun"
+        },
+        "lesson": "Japanese has pronouns, but they are used less frequently than in English. It's common in Japanese to drop the subject of the sentence if it's understood from context.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{動詞|どうし}",
+        "english": "",
+        "literal": "",
+        "audio": "どうし",
+        "audio_slow": "どうし",
+        "breakdown": {
+            "{動詞|どうし}*0*": "Verb||verb"
+        },
+        "lesson": "Verbs in Japanese are conjugated, but differently from English. They are altered based on tense, mood, voice, and politeness level. They always come at the end of a sentence or clause.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{副詞|ふくし}",
+        "english": "",
+        "literal": "",
+        "audio": "ふくし",
+        "audio_slow": "ふくし",
+        "breakdown": {
+            "{副詞|ふくし}*0*": "Adverb||adverb"
+        },
+        "lesson": "Like English, Japanese has adverbs that modify verbs, adjectives, and other adverbs.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{形容詞|けいようし} {形容動詞|けいようどうし}",
+        "english": "",
+        "literal": "",
+        "audio": "けいようし けいようどうし",
+        "audio_slow": "けいようし。けいようどうし",
+        "breakdown": {
+            "{形容詞|けいようし}*0*": "Adjective||adjective",
+            "{形容動詞|けいようどうし}*1*": "Adjective||adjective"
+        },
+        "lesson": "Japanese has two types of adjectives. One behaves similarly to English adjectives, while the other, known as 'na-adjectives' or 'adjectival nouns,' behaves more like nouns and requires a form of the copula to connect it to a noun.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{助詞|じょし}",
+        "english": "",
+        "literal": "",
+        "audio": "じょし",
+        "audio_slow": "じょし",
+        "breakdown": {
+            "{助詞|じょし}*0*": "Particle||particle"
+        },
+        "lesson": "Particles are small words that indicate the relationship of a word, a phrase, or a clause to the rest of the sentence. They often signify case, direction, time, location, manner, reason, or degree. They are a unique and critical aspect of Japanese grammar.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{感動詞|かんどうし}",
+        "english": "",
+        "literal": "",
+        "audio": "かんどうし",
+        "audio_slow": "かんどうし",
+        "breakdown": {
+            "{感動詞|かんどうし}*0*": "Interjection||interjection"
+        },
+        "lesson": "These are words or expressions that represent emotion or sudden bursts of feelings.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{接続詞|せつぞくし}",
+        "english": "",
+        "literal": "",
+        "audio": "せつぞくし",
+        "audio_slow": "せつぞくし",
+        "breakdown": {
+            "{接続詞|せつぞくし}*0*": "Conjunction||conjunction"
+        },
+        "lesson": "These words connect words, phrases, or sentences.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{助動詞|じょどうし}",
+        "english": "",
+        "literal": "",
+        "audio": "じょどうし",
+        "audio_slow": "じょどうし",
+        "breakdown": {
+            "{助動詞|じょどうし}*0*": "Auxiliary Verb||auxiliary verb"
+        },
+        "lesson": "These are used in conjunction with the main verb to express various states or to add nuance to the sentence.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{助数詞|じょすうし}",
+        "english": "",
+        "literal": "",
+        "audio": "じょすうし",
+        "audio_slow": "じょすうし",
+        "breakdown": {
+            "{助数詞|じょすうし}*0*": "Counter||counter"
+        },
+        "lesson": "Japanese uses specific counter words when counting different types of objects, actions, or events. The type of counter that is used depends on the characteristics of the thing being counted (for example, flat objects, round objects, animals, people, and time all have different counters).@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{連語|れんご}",
+        "english": "",
+        "literal": "",
+        "audio": "れんご",
+        "audio_slow": "れんご",
+        "breakdown": {
+            "{連語|れんご}*0*": "Copula||copula"
+        },
+        "lesson": "A copula is a word used to link the subject of a sentence with a predicate. The most common Japanese copula is です (desu), but there are others, each with its own nuances.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{擬音語|ぎおんご} {擬態語|ぎたいご}",
+        "english": "",
+        "literal": "",
+        "audio": "ぎおんご ぎたいご",
+        "audio_slow": "ぎおんご。ぎたいご",
+        "breakdown": {
+            "{擬音語|ぎおんご}*0*": "Onomatopoeia word||onomatopoeia",
+            "{擬態語|ぎたいご}*1*": "Mimetic word||mimetic"
+        },
+        "lesson": "Japanese has a rich collection of sound symbolism or onomatopoeic expressions that represent sounds or states/conditions. These are often used to add expressiveness to speech or writing.@Literal"
+    }
+]

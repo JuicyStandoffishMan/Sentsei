@@ -1,0 +1,1013 @@
+[
+    {
+        "type": "information",
+        "content": "# Lesson Overview: Understanding です (Desu) and だ (Da) in Japanese Language   \n  \n## Lesson Goal:  \nIn this lesson, you will learn about the essential copulas です (desu) and だ (da), often translated as \"is,\" \"am,\" or \"are\" in English. We will explore their uses, their role in creating simple sentences, and variations in different tenses.   \n  \n## What will you learn?  \n- Basic understanding of the copulas です (desu) and だ (da).  \n- Sentence formation using the です/だ structure: X は Y です/だ (X (noun) is Y (noun)).  \n- The use of です/だ in past and future contexts.  \n- Basic vocabulary with beginner-level Kanji.  \n- The difference in formality between です (desu) and だ (da).  \n  \n## Lesson Content:  \n  \n1. **です and だ in Present Tense**: The lesson starts with basic sentences using です (desu) and だ (da) in the present tense. This will help you to master the structure of sentences like \"This is a pen\" or \"I am a student,\" using a range of vocabulary.  \n  \n2. **です and だ in Past Tense**: Once you understand the present tense structure, we will proceed to learn the past form でした (deshita) and だった (datta). This will help you express sentences in the past like \"It was a book\" or \"He was a doctor.\"  \n  \n3. **です and だ in Future Tense**: While Japanese doesn't have a specific future tense, we will learn how to convey future meanings using time phrases like \"tomorrow\" ({明日|あした}) and certain structures with になります/になる.  \n  \n4. **Using Different Pronouns**: We will also practice the use of different pronouns like {私|わたし} (I) and {俺|おれ} (I, masculine informal), which can be used interchangeably depending on the context.  \n  \n5. **Formality Levels**: The importance of understanding the formality level differences between using です (desu) and だ (da) will be emphasized, with practical examples to illustrate their usage in different contexts.  \n  \nBy the end of this lesson, you should be able to construct simple sentences using です (desu) and だ (da) and their variants, enriching your skills in expressing present, past, and future situations in Japanese while understanding appropriate context for formal and informal speech.  \n  \n## Particles: 3  \n- は  \n- の  \n- に  \n  \n## Words: 18  \n- これ  \n- ペン  \n- あれ  \n- でした  \n- だった  \n- あなた  \n- ケキ  \n- ジョン  \n- なります  \n- りんご  \n- それ  \n- ジュス  \n- だ  \n- この  \n- リンゴ  \n- なる  \n- です  \n- その  \n  \n## Kanji Words: 80 (94 unique Kanji)  \n- {赤|あか}い  \n- {学校|がっこう}  \n- {私|わたし}  \n- {家族|かぞく}  \n- {子供|こども}  \n- {夢|ゆめ}  \n- {友達|ともだち}  \n- {暑|あつ}かった。  \n- {彼|かれ}  \n- {美味|おい}しい  \n- {卵|たまご}  \n- {町|まち}  \n- {警官|けいかん}  \n- {田中|たなか}  \n- {面白|おもしろ}かった。  \n- {雪|ゆき}  \n- {夕食|ゆうしょく}  \n- {速|はや}かった。  \n- {今日|きょう}  \n- {車|くるま}  \n- {魚|さかな}  \n- {仕事|しごと}  \n- {緑色|みどりいろ}  \n- {朝|あさ}  \n- {明日|あした}  \n- {学者|がくしゃ}  \n- {桜|さくら}  \n- {僕|ぼく}  \n- {私|わたし}たち  \n- {紙|かみ}  \n- {日曜日|にちようび}  \n- {白|しろ}  \n- {火曜日|かようび}  \n- {動物|どうぶつ}  \n- {東京|とうきょう}  \n- {更|さら}に  \n- {来年|らいねん}  \n- {教師|きょうし}  \n- {鳥|とり}  \n- {氷|こおり}  \n- {教师|きょうし}  \n- {雨|あめ}  \n- {水|みず}  \n- {元気|げんき}  \n- {犬|いぬ}  \n- {猫|ねこ}  \n- {大|おお}きな  \n- {昼|ひる}  \n- {佐藤|さとう}  \n- {大|おお}きかった。  \n- {俺|おれ}  \n- {警察官|けいさつかん}  \n- {小|ちい}さな  \n- {夜|よる}  \n- {都市|とし}  \n- {来月|らいげつ}  \n- {父|ちち}  \n- {人|ひと}  \n- {名前|なまえ}  \n- {水曜日|すいようび}  \n- {日本|にほん}  \n- お{茶|ちゃ}  \n- お{寿司|すし}  \n- {先生|せんせい}  \n- {花|はな}  \n- {黒|くろ}  \n- {木|き}  \n- ご{飯|はん}  \n- {医者|いしゃ}  \n- {学生|がくせい}  \n- {海|うみ}  \n- {月曜日|げつようび}  \n- {種|たね}  \n- {天気|てんき}  \n- {本|ほん}  \n- お{昼|ひる}  \n- {彼女|かのじょ}  \n- {大人|おとな}  \n- {昨日|きのう}  \n- {最初|さいしょ}"
+    },
+    {
+        "type": "information",
+        "content": "## です and だ in Present Tense  \n  \n### Basic Grammar and Sentence Structure  \n  \nJapanese generally follows a Subject-Object-Verb (SOV) order, different from English's Subject-Verb-Object (SVO) structure. However, in our simple sentence structure for this lesson, Noun1 は Noun2 です/だ, it could be considered as following the SVO structure.  \n  \nIn this structure:  \n  \n- Noun1 is the subject/topic.  \n- The particle は (wa), pronounced as \"wa\" in this context, is a topic marker.  \n- Noun2 is the information we want to express about the subject.  \n- です (desu) or だ (da) is the copula which connects the subject with the rest of the sentence.   \n  \nFor example, in the sentence {私|わたし} は {先生|せんせい} です/だ, {私|わたし} is Noun1 or the subject (I), は is the topic marker, {先生|せんせい} is Noun2 or the information about the subject (teacher), and です/だ is the copula (am). So, the sentence translates to \"I am a teacher\".  \n  \n### Word Order  \n  \nIn Japanese, the predicate (verb or verb phrase) usually comes at the end of the sentence. The order of the other components can be flexible, but the common structure is \"Topic - Other details - Predicate\". The use of です (desu) versus だ (da) in this structure will depend on the level of formality required by the context."
+    },
+    {
+        "type": "sentence",
+        "japanese": "これ は ペン です。",
+        "english": "This is a pen.",
+        "literal": "As for this, pen is.",
+        "audio": "これ わ ペン です。",
+        "audio_slow": "これ。は。ペン。です。",
+        "breakdown": {
+            "これ*0*": "Pronoun: This pronoun refers to something that is close to the speaker. In this case, it is the subject of the sentence.||pronoun",
+            "は*1*": "Particle: This is the topic marker particle. It indicates that the noun (or pronoun, in this case \"これ\") just before it is the topic of the sentence.||particle",
+            "ペン*2*": "Noun: This is a loanword from English and it means \"pen\".||noun",
+            "です*3*": "Copula: This is the polite form of the copula \"だ\" and can be translated as \"is\". It is used to indicate that the subject (これ) is the predicate (ペン).||copula"
+        },
+        "lesson": "In Japanese, the sentence structure is typically subject-object-verb, but in sentences that involve stating or equating things, the structure often becomes subject-predicate-copula, which is the case here with \"これはペンです\". Here, the subject \"これ\" is equated with the predicate \"ペン\" using the copula \"です\".\n\nThe topic marker は is often used to introduce a topic or change the topic of conversation. It does not always correspond to the subject of the sentence, unlike in English. \n\nThe pronoun \"これ\" is used when the object or person being referred to is close to the speaker. There are other similar words, such as \"それ\" (that, close to listener) and \"あれ\" (that, away from both speaker and listener), which are used depending on the spatial relationship between the speaker, listener, and the object or person being referred to. \n\n\"です\" is the polite form of \"だ\". Japanese has various levels of politeness, and \"です\" is often used in formal or polite conversation."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} は {先生|せんせい} です。",
+        "english": "I am a teacher.",
+        "literal": "As for me, teacher is.",
+        "audio": "わたし わ せんせい です。",
+        "audio_slow": "わたし。は。せんせい。です。",
+        "breakdown": {
+            "{私|わたし}*0*": "Pronoun: This is a first-person pronoun meaning \"I\".||pronoun",
+            "は*1*": "Particle: This is the topic marker, indicating that \"{私|わたし}\" (I) is the topic of the sentence.||particle",
+            "{先生|せんせい}*2*": "Noun: This means \"teacher\". In this sentence, it is what the speaker is identifying themselves as.||noun",
+            "です*3*": "Copula: This is the polite form of \"to be\". It connects the subject \"{私|わたし}\" (I) to the predicate \"{先生|せんせい}\" (teacher), creating the statement \"I am a teacher\".||copula"
+        },
+        "lesson": "In Japanese, the subject and the topic of a sentence are not always the same. Here, \"{私|わたし}\" (I) is both the subject and the topic, but in other sentences, they may differ. The particle \"は\" is a topic marker, used to indicate what the sentence is about. Meanwhile, \"です\" is a copula, a word used to link the subject of a sentence to a predicate. It is often translated as \"is\" or \"am\" in English. Note that \"です\" is used in formal or polite contexts. The plain form \"だ\" is used in more casual or informal situations."
+    },
+    {
+        "type": "sentence",
+        "japanese": "あなた は {学生|がくせい} です。",
+        "english": "You are a student.",
+        "literal": "As for you, student is.",
+        "audio": "あなた わ がくせい です。",
+        "audio_slow": "あなた。は。がくせい。です。",
+        "breakdown": {
+            "あなた*0*": "Pronoun: This is the standard way of saying \"you\" in Japanese.||pronoun",
+            "は*1*": "Particle: This is the topic marker in Japanese. It is used to indicate the topic of the sentence. In this case, \"あなた\" (you) is the topic.||particle",
+            "{学生|がくせい}*2*": "Noun: This means \"student\" in Japanese.||noun",
+            "です*3*": "Copula: This is a form of the Japanese \"to be\" verb. It is used to link the subject of the sentence (in this case, \"あなた\", you) with the predicate (in this case, \"{学生|がくせい}\", student).||copula"
+        },
+        "lesson": "In Japanese, the order of sentence components can be different from English. Instead of the English subject-verb-object (SVO) order, Japanese typically uses subject-object-verb (SOV). However, in this sentence, there is no object and the verb is represented by the copula \"です\", so the order is subject-predicate. Also, note the use of the \"は\" particle to mark the topic of the sentence. This structure is very common in Japanese, so get comfortable with the pattern [Topic]は[Comment]です."
+    },
+    {
+        "type": "sentence",
+        "japanese": "あれ は {猫|ねこ} です。",
+        "english": "That is a cat.",
+        "literal": "As for that over there, cat is.",
+        "audio": "あれ わ ねこ です。",
+        "audio_slow": "あれ。は。ねこ。です。",
+        "breakdown": {
+            "あれ*0*": "Pronoun: This means \"that\" in English. It is used to refer to something or someone that is far from both the speaker and the listener.||pronoun",
+            "は*1*": "Particle: This is the topic marker. It is used to mark the main topic of the sentence. In this case, the topic is \"あれ\" (that).||particle",
+            "{猫|ねこ}*2*": "Noun: This means \"cat\" in English. It is the subject of the sentence.||noun",
+            "です*3*": "Copula: This is a state-of-being verb. In English, it can be understood as \"is\", \"am\", or \"are\". Here, it is used to affirm the fact that \"あれ\" (that) is a \"{猫|ねこ}\" (cat).||copula"
+        },
+        "lesson": "In Japanese, sentences often begin with the topic (in this case \"あれ\", meaning \"that\"), followed by the は particle to denote the subject of the sentence. Then comes the predicate, which in this sentence is \"{猫|ねこ}です\" (is a cat). \n\nThe です at the end of the sentence can be seen as equivalent to \"is\" in English. However, it doesn't have a tense on its own. The tense of the sentence is inferred from the context or other words in the sentence (but in this sentence, there are no other tense indicators, so it is present tense). \n\nKeep in mind, \"は\" does not always translate to \"is\". The function of \"は\" is to mark the topic of the sentence, which can be the subject but could also be something else. It depends on the sentence. \n\nThe pronoun \"あれ\" is often used to refer to something that is not in close proximity to both the speaker and the listener. If the cat was close to the speaker, they would use \"これ\" (this), and if the cat was close to the listener, they would use \"それ\" (that)."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{今日|きょう} は {月曜日|げつようび} です。",
+        "english": "Today is Monday.",
+        "literal": "As for today, Monday is.",
+        "audio": "きょう わ げつようび です。",
+        "audio_slow": "きょう。は。げつようび。です。",
+        "breakdown": {
+            "{今日|きょう}*0*": "Noun: This is the Japanese word for \"today\".||noun",
+            "は*1*": "Particle: This is the topic marker particle in Japanese. It tells us what we are talking about. In this sentence, {今日|きょう} is the topic of the sentence.||particle",
+            "{月曜日|げつようび}*2*": "Noun: This is the Japanese word for \"Monday\".||noun",
+            "です*3*": "Copula: This is a form of the Japanese \"to be\" verb. It is used at the end of sentences to confirm or declare the state of something. Here, it is used to declare that today is Monday.||copula"
+        },
+        "lesson": "The は particle is used to establish the topic of a sentence, which is what the sentence is about. When you see this particle, you can think of it as setting the scene for what's to come in the sentence. The word before the は is the topic, and what comes after is the comment about that topic. In this case, the topic is {今日|きょう}, \"today\", and the comment about today is that it is {月曜日|げつようび}, \"Monday\". The copula です is a polite way to confirm or declare the state of something. In this case, it's confirming that \"today\" is \"Monday\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "これ は {私|わたし} の {本|ほん} です。",
+        "english": "This is my book.",
+        "literal": "As for this, my book is.",
+        "audio": "これ わ わたし の ほん です。",
+        "audio_slow": "これ。は。わたし。の。ほん。です。",
+        "breakdown": {
+            "これ*0*": "Pronoun: This word means \"this\" and is used to refer to something that is near the speaker. It's acting as the topic of the sentence.||pronoun",
+            "は*1*": "Particle: This is the topic marker particle. It marks the previous word, \"これ\" (this), as the topic of the sentence. The speaker is about to give some information related to \"this\".||particle",
+            "{私|わたし}*2*": "Pronoun: This word means \"I\" or \"me\". It's used to indicate the speaker or the person who is doing an action. In this context, it shows possession.||pronoun",
+            "の*3*": "Particle: This is the possessive particle. It connects two nouns together and shows that the first noun possesses the second noun. In this case, it shows that the \"book\" belongs to \"me\".||particle",
+            "{本|ほん}*4*": "Noun: This word means \"book\". It is the object that \"I\" possess.||noun",
+            "です*5*": "Copula: This is the copula, a verb-like part of speech that's used to link the subject of a sentence (in this case, \"これ\", this) with its predicate (in this case, \"{私|わたし}の{本|ほん}\", my book). In English, the copula is usually a form of \"to be\", like \"is\" or \"am\". In this sentence, it can be translated as \"is\".||copula"
+        },
+        "lesson": "This sentence provides a simple example of using the possessive particle \"の\" to indicate ownership or possession. This is a fundamental aspect of Japanese grammar. Also, remember that in Japanese the subject of a sentence often comes at the beginning, and the verb or copula comes at the end. The topic marker particle \"は\" is frequently used in Japanese sentences to indicate what the sentence is about."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {彼|かれ} の {車|くるま} です。",
+        "english": "That is his car.",
+        "literal": "As for that, his car is.",
+        "audio": "それ わ かれ の くるま です。",
+        "audio_slow": "それ。は。かれ。の。くるま。です。",
+        "breakdown": {
+            "それ*0*": "Pronoun: This word means \"that\" in English. It refers to something the speaker and listener both know about, and that is distant from both of them.||pronoun",
+            "は*1*": "Particle: This is the topic marker. It designates what the main topic of the sentence is. Here, the topic is \"それ\" (that).||particle",
+            "{彼|かれ}*2*": "Noun: This means \"he\" or \"him\" in English. But in this context, it is used to denote possession, so it is equivalent to \"his\" in English.||noun",
+            "の*3*": "Particle: This is the possessive particle. It shows that something belongs to someone or something. In this case, it shows that the car belongs to \"{彼|かれ}\" (him).||particle",
+            "{車|くるま}*4*": "Noun: This word means \"car\" in English.||noun",
+            "です*5*": "Copula: This is the basic copula verb in Japanese. It links the subject and predicate of a sentence together. In this case, it denotes that \"それ\" (that) is \"{彼|かれ}の{車|くるま}\" (his car).||copula"
+        },
+        "lesson": "In Japanese, the particle \"の\" is often used to indicate possession, similar to 's in English. For example, \"{彼|かれ}の{車|くるま}\" would mean \"his car\". The subject of the sentence is often followed by the particle \"は\" which is the topic marker. Also, \"それ\" is one of the three demonstrative pronouns in Japanese, the others being \"これ\" (this) and \"あれ\" (that over there). Remember that \"それ\" refers to something that is not close to either the speaker or the listener."
+    },
+    {
+        "type": "sentence",
+        "japanese": "この りんご は {赤|あか}い です。",
+        "english": "This apple is red.",
+        "literal": "As for this apple, red is.",
+        "audio": "この りんご わ あかい です。",
+        "audio_slow": "この。りんご。は。あかい。です。",
+        "breakdown": {
+            "この*0*": "Demonstrative adjective: \"This.\" It indicates a specific item that is close to the speaker.||adjective",
+            "りんご*1*": "Noun: \"Apple.\" It's the subject of the sentence.||noun",
+            "は*2*": "Particle: This is the topic marker. It marks \"りんご\" (apple) as the topic of the sentence.||particle",
+            "{赤|あか}い*3*": "I-adjective: \"Red.\" It describes a characteristic of the subject, in this case, the color of the apple.||adjective",
+            "です*4*": "Copula: This is a polite form to end a sentence. It does not have a direct English equivalent, but can be thought of as \"is\" or \"are\" in this context.||copula"
+        },
+        "lesson": "In Japanese, the subject or topic of the sentence often comes at the beginning, and the verb or descriptive word (like an adjective) comes at the end. The particle \"は\" is used to indicate the topic of the sentence. \"この\" is a demonstrative adjective used to specify things close to the speaker, and \"{赤|あか}い\" is an i-adjective used to describe things. The copula \"です\" is often used at the end of the sentence to make it polite."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし}たち は {家族|かぞく} です。",
+        "english": "We are a family.",
+        "literal": "As for us, family is.",
+        "audio": "わたしたち わ かぞく です。",
+        "audio_slow": "わたしたち。は。かぞく。です。",
+        "breakdown": {
+            "{私|わたし}たち*0*": "Pronoun: This is a first person pronoun, often translated as \"I\" or \"me\". However, in this context, it is combined with \"たち\" to indicate a group including the speaker. So, \"{私|わたし}たち\" means \"we\" or \"us\".||pronoun",
+            "は*1*": "Particle: This is a topic marker. It indicates the topic of the sentence, which in this case is \"{私|わたし}たち\" (we).||particle",
+            "{家族|かぞく}*2*": "Noun: This word means \"family\". It is the predicate of this sentence, referring to what \"we\" are.||noun",
+            "です*3*": "Copula: This is the polite form of the copula verb. It's similar to \"is\" or \"are\" in English and is used to link the subject and predicate of a sentence. Here, it's linking \"we\" ({私|わたし}たち) to \"family\" ({家族|かぞく}).||copula"
+        },
+        "lesson": "In Japanese, the subject or topic of the sentence often comes at the beginning, followed by the object, and the verb or predicate comes at the end. Also, in Japanese, personal pronouns like \"I\" or \"you\" are often omitted when it's clear from the context who is being talked about. In this case, \"{私|わたし}たち\" is included for emphasis or clarification. The \"は\" particle, called a topic marker, is often used after the subject of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{東京|とうきょう} は {日本|にほん} の {都市|とし} だ。",
+        "english": "Tokyo is a city of Japan.",
+        "literal": "As for Tokyo, Japan's city is.",
+        "audio": "とうきょう わ にほん の とし だ。",
+        "audio_slow": "とうきょう。は。にほん。の。とし。だ。",
+        "breakdown": {
+            "{東京|とうきょう}*0*": "Noun: This is the word for Tokyo, the capital city of Japan.||noun",
+            "は*1*": "Particle: This is the topic marker. It's used to indicate the topic of the sentence. In this case, the topic is \"Tokyo\".||particle",
+            "{日本|にほん}*2*": "Noun: This is the word for Japan, the country in which Tokyo is located.||noun",
+            "の*3*": "Particle: This is the possessive particle, similar to the English \"of\". It's used here to connect \"Japan\" and \"city\" to create the concept of a \"city of Japan\".||particle",
+            "{都市|とし}*4*": "Noun: This is the word for city.||noun",
+            "だ*5*": "Copula: This is the declarative copula, similar to the English \"is\". It's used to indicate the assertion or declaration about the topic. Here it is stating that \"Tokyo\" is a \"city of Japan\".||copula"
+        },
+        "lesson": "The sentence structure here is pretty basic: [Topic] は [Description] だ. This sentence structure is very common in Japanese and is usually translated to English as \"[Topic] is [Description]\". \n\nThe particle の is often used to show a relationship of possession or attribution. In this case, it's used to attribute the noun \"{都市|とし}\" (city) to \"{日本|にほん}\" (Japan), making it a \"city of Japan\".\n\nThe copula だ is used at the end of sentences to declare or affirm the state of something. It's similar to the English \"is\" or \"are\". Note that だ is informal; in more formal speech or writing, you might see です instead."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} は {医者|いしゃ} だ。",
+        "english": "She is a doctor.",
+        "literal": "As for her, doctor is.",
+        "audio": "かのじょ わ いしゃ だ。",
+        "audio_slow": "かのじょ。は。いしゃ。だ。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Pronoun: This is a third-person pronoun that is often used to mean \"she\" or \"girlfriend.\" In this case, it's translated as \"she.\"||pronoun",
+            "は*1*": "Particle: This is the topic marker particle. It's used to mark the topic of the sentence, which is \"{彼女|かのじょ}\" (she) in this case.||particle",
+            "{医者|いしゃ}*2*": "Noun: This word means \"doctor.\" It refers to someone who practices medicine, typically a physician or surgeon.||noun",
+            "だ*3*": "Copula: This is a declarative copula, similar to the English \"is\" or \"am.\" It's used to affirm or declare the state of being. In this case, it's asserting that \"{彼女|かのじょ}\" (she) is a \"{医者|いしゃ}\" (doctor).||copula"
+        },
+        "lesson": "In Japanese, the subject or topic of the sentence often comes at the beginning, followed by the topic marker は. The copula だ is commonly used in informal speech to affirm or declare the state of being. It's similar to \"is\" or \"am\" in English. Note that in formal or polite speech, you'd often use です instead of だ."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {学者|がくしゃ} だ。",
+        "english": "He is a scholar.",
+        "literal": "As for him, scholar is.",
+        "audio": "かれ わ がくしゃ だ。",
+        "audio_slow": "かれ。は。がくしゃ。だ。",
+        "breakdown": {
+            "{彼|かれ}*0*": "Pronoun: This pronoun translates to \"he\" in English.||pronoun",
+            "は*1*": "Particle: This is a topic marker particle. It denotes the topic of the sentence. In this case, the topic is \"{彼|かれ}\" (he).||particle",
+            "{学者|がくしゃ}*2*": "Noun: This word translates to \"scholar\" in English.||noun",
+            "だ*3*": "Copula: This is a copula (a word used to link the subject of a sentence with a predicate). It translates to \"is\" in English. It's stating the fact or defining the state of the subject.||copula"
+        },
+        "lesson": "The sentence structure here is very simple and common in Japanese. It's a basic Subject-Verb (or in this case, Subject-Copula) structure, which is similar to the sentence structure in English. It's important for beginners to get familiar with this basic structure, and the particles like は that are frequently used in the language. Also, this sentence introduces the copula だ, which is used to affirmatively declare something in informal language. The formal version of this copula is です."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{明日|あした} は {水曜日|すいようび} だ。",
+        "english": "Tomorrow is Wednesday.",
+        "literal": "As for tomorrow, Wednesday is.",
+        "audio": "あした わ すいようび だ。",
+        "audio_slow": "あした。は。すいようび。だ。",
+        "breakdown": {
+            "{明日|あした}*0*": "Noun: This means \"tomorrow.\" It's the subject of the sentence.||noun",
+            "は*1*": "Particle: This is the topic marker. It is used to indicate the topic of the sentence. In this case, the topic is \"{明日|あした}\" (tomorrow).||particle",
+            "{水曜日|すいようび}*2*": "Noun: This means \"Wednesday.\" It's the predicate of the sentence.||noun",
+            "だ*3*": "Copula: This is the informal present tense copula. It's used to equate the subject and the predicate. In this case, it equates \"{明日|あした}\" (tomorrow) and \"{水曜日|すいようび}\" (Wednesday).||copula"
+        },
+        "lesson": "The particle \"は\" (wa) is an important particle in Japanese that's often used to denote the topic of a sentence. It's not necessarily marking the grammatical subject of the sentence but rather what the sentence is about. In many sentences, it functions similarly to the English word \"as for.\" For example, in the sentence \"As for tomorrow, it's Wednesday,\" \"As for tomorrow\" is what the sentence is about, and it's marked by the topic marker \"は\". This is a fundamental aspect of Japanese grammar.\n\nAlso, the \"だ\" (da) is the plain form of the copula verb \"です\" (desu). It is used to link the subject of the sentence (in this case, \"{明日|あした}\", or \"tomorrow\") with the predicate (here, \"{水曜日|すいようび}\", or \"Wednesday\"). It's less formal than \"です\" (desu), so it's commonly used in casual speech."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{父|ちち} は {警官|けいかん} だ。",
+        "english": "My father is a police officer.",
+        "literal": "As for father, police officer is.",
+        "audio": "ちち わ けいかん だ。",
+        "audio_slow": "ちち。は。けいかん。だ。",
+        "breakdown": {
+            "{父|ちち}*0*": "Noun: This word translates to \"father\". In this context, it refers to the speaker's father.||noun",
+            "は*1*": "Particle: This is the topic marker. It is used to mark the subject or topic of the sentence. In this case, the topic is \"{父|ちち}\" or \"father\".||particle",
+            "{警官|けいかん}*2*": "Noun: This means \"police officer\". This is what the father is, according to the sentence.||noun",
+            "だ*3*": "Copula: This is the declarative copula \"da\", similar to the English \"is\" or \"am\". It's used here to connect the subject \"{父|ちち}\" with the complement \"{警官|けいかん}\" to make a statement.||copula"
+        },
+        "lesson": "The particle \"は\" is often translated as \"is\" or \"are\" in English, but it doesn't exactly mean that. It serves to mark the topic or subject of the sentence. Also, \"だ\" is the plain form of the copula \"です\". It's used in casual speech and informal writing. Remember, \"です\" and \"だ\" are often left out in conversation or writing when the context is clear. This may seem confusing at first, but with practice and exposure to the language, you'll get used to it."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{桜|さくら} は {日本|にほん} の {花|はな} だ。",
+        "english": "The cherry blossom is a flower of Japan.",
+        "literal": "As for cherry blossoms, Japan's flower is.",
+        "audio": "さくら わ にほん の はな だ。",
+        "audio_slow": "さくら。は。にほん。の。はな。だ。",
+        "breakdown": {
+            "{桜|さくら}*0*": "Cherry blossom (noun): The word \"{桜|さくら}\" (さくら) refers to cherry blossoms, which are a type of flower known for their beauty and brief blooming period. They are closely associated with Japan and its culture.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic is \"{桜|さくら}\" (cherry blossom).||particle",
+            "{日本|にほん}*2*": "Japan (noun): The word \"{日本|にほん}\" refers to Japan, the country. In the context of this sentence, it's used to describe the origin or affiliation of the cherry blossom.||noun",
+            "の*3*": "Possessive marker (particle): This particle is used to indicate a relationship of possession or attribution. In this case, it shows that the \"flower\" belongs to or is associated with \"Japan\".||particle",
+            "{花|はな}*4*": "Flower (noun): The word \"{花|はな}\" refers to a flower. Here it is used to categorize what kind of thing a cherry blossom is.||noun",
+            "だ*5*": "Copula: This is the plain form of the copula, which is similar to the English \"is\". It indicates that the subject (cherry blossom) is the predicate (a flower of Japan).||copula"
+        },
+        "lesson": "This sentence is a simple declarative sentence and illustrates the basic sentence structure of Japanese, which is Subject-Object-Verb, as opposed to English, which is Subject-Verb-Object. In this case, the subject is \"{桜|さくら}\" (cherry blossom), and the copula \"だ\" is at the end of the sentence. This kind of sentence structure is common in Japanese.\n\nMoreover, the use of the possessive marker \"の\" to indicate attribution (as in \"{日本|にほん}の{花|はな}\") is an important concept in Japanese. It's used in a variety of contexts and not only to indicate possession but also a characteristic or attribute. In this sentence, \"{日本|にほん}の{花|はな}\" can be literally translated as \"Japan's flower\" or more contextually translated as \"a flower of Japan\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "お{茶|ちゃ} は {緑色|みどりいろ} だ。",
+        "english": "The tea is green.",
+        "literal": "As for tea, green color is.",
+        "audio": "おちゃ わ みどりいろ だ。",
+        "audio_slow": "おちゃ。は。みどりいろ。だ。",
+        "breakdown": {
+            "お{茶|ちゃ}*0*": "Noun: This is the word for \"tea.\" The \"お\" is an honorific prefix commonly used in Japanese to show respect.||noun",
+            "は*1*": "Particle: This is the topic marker. It indicates that what comes before it (in this case, \"お{茶|ちゃ}\") is the topic of the sentence.||particle",
+            "{緑色|みどりいろ}*2*": "Noun: This is the word for \"green.\" It's a compound of \"{緑|みどり}\" (green) and \"{色|いろ}\" (color).||noun",
+            "だ*3*": "Copula: This is the plain form of the copula, used for assertion or confirmation. In this case, it's used to confirm or state that the tea is green.||copula"
+        },
+        "lesson": "The sentence provides an example of a simple subject-comment structure that is very common in Japanese. The subject (お{茶|ちゃ}, tea) is introduced with the topic marker は, and the comment ({緑色|みどりいろ}だ, is green) follows. In English, this would be similar to saying \"As for the tea, it is green.\" The copula だ is used in informal or plain style speech to connect a subject with a predicate. It can be replaced with です in more polite or formal situations."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} の {名前|なまえ} は {田中|たなか} だ。",
+        "english": "My name is Tanaka.",
+        "literal": "As for my name, Tanaka is.",
+        "audio": "わたし の なまえ わ たなか だ。",
+        "audio_slow": "わたし。の。なまえ。は。たなか。だ。",
+        "breakdown": {
+            "{私|わたし}*0*": "Pronoun: This is the first person pronoun, meaning \"I\" or \"me.\"||pronoun",
+            "の*1*": "Particle: This is the possessive particle, similar to 's in English. It connects two nouns, indicating that the first belongs to the second. In this case, \"{私|わたし}の\" means \"my.\"||particle",
+            "{名前|なまえ}*2*": "Noun: This word means \"name.\"||noun",
+            "は*3*": "Particle: This is the topic marker. It identifies what the speaker is talking about. In this case, the topic of the sentence is \"my name.\"||particle",
+            "{田中|たなか}*4*": "Noun: This is a common Japanese surname. It literally means \"rice field middle.\"||noun",
+            "だ*5*": "Copula: This is the informal copula, equivalent to \"is\" in English. It is used to link the subject of the sentence (in this case, \"my name\") with the predicate (in this case, \"Tanaka\").||copula"
+        },
+        "lesson": "This is a simple sentence structure for self-introduction in Japanese. It follows the pattern \"{私|わたし}の{名前|なまえ}は___だ\" which translates to \"My name is ___.\" Remember that the verb \"to be\" (だ in this case) is used at the end of the sentence in Japanese, which is a different structure than in English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{魚|さかな} は {海|うみ} の {動物|どうぶつ} だ。",
+        "english": "Fish are sea animals.",
+        "literal": "As for fish, sea's animal is.",
+        "audio": "さかな わ うみ の どうぶつ だ。",
+        "audio_slow": "さかな。は。うみ。の。どうぶつ。だ。",
+        "breakdown": {
+            "{魚|さかな}*0*": "Noun: This word means \"fish\".||noun",
+            "は*1*": "Particle: This is the topic marker particle. It is used to indicate the subject or topic of the sentence. Here, \"{魚|さかな}\" (fish) is the topic.||particle",
+            "{海|うみ}*2*": "Noun: This word means \"sea\" or \"ocean\".||noun",
+            "の*3*": "Particle: This is a possessive particle that links two nouns together. In this context, it is used to express that the \"{動物|どうぶつ}\" (animals) are from the \"{海|うみ}\" (sea), thereby making \"{海|うみ}の{動物|どうぶつ}\" mean \"sea animals\".||particle",
+            "{動物|どうぶつ}*4*": "Noun: This word means \"animal\".||noun",
+            "だ*5*": "Copula: This is the informal present form of the copula verb \"です\". A copula is a type of verb used to link the subject of a sentence with a predicate. It's like \"is\" or \"are\" in English. Here it is saying that the \"fish\" is/are \"sea animals\".||copula"
+        },
+        "lesson": "In this sentence, we see the use of the particles は and の. The particle は is a topic marker and is very common in Japanese sentences. Understanding how to use it will help in both understanding and constructing sentences in Japanese. The の particle is a very versatile one and can show possession, attribute, or origin, among other relationships between two nouns. \n\nAlso, the copula だ is used at the end of sentences to affirm or state a fact. This is a very basic and important part of Japanese grammar that beginners will use frequently. The sentence \"{魚|さかな}は{海|うみ}の{動物|どうぶつ}だ\" is a simple and straightforward sentence that is very helpful for beginners to understand the structure of Japanese sentences."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{犬|いぬ} は {友達|ともだち} だ。",
+        "english": "The dog is a friend.",
+        "literal": "As for dog, friend is.",
+        "audio": "いぬ わ ともだち だ。",
+        "audio_slow": "いぬ。は。ともだち。だ。",
+        "breakdown": {
+            "{犬|いぬ}*0*": "Noun: This means \"dog.\"||noun",
+            "は*1*": "Particle: This is the topic marker, marking \"{犬|いぬ}\" (dog) as the topic of the sentence.||particle",
+            "{友達|ともだち}*2*": "Noun: This means \"friend.\"||noun",
+            "だ*3*": "Copula: This is the plain form of \"です\" (is), and it's used to assert or state the identity or category of the preceding noun.||copula"
+        },
+        "lesson": "The は particle is often used to set the topic of the sentence, not necessarily the subject in the English sense. It helps to define what you are talking about. In this sentence, it marks \"{犬|いぬ}\" (dog) as the topic.\n\nThe copula \"だ\" is used in informal speech to affirm or declare something. It's the plain (informal) form of \"です\". So, \"{友達|ともだち}だ\" means \"is a friend.\" When speaking more formally or politely, you might use \"です\" instead of \"だ\". For instance, \"{犬|いぬ}は{友達|ともだち}です\" would mean \"The dog is a friend\" in a more polite or formal context."
+    },
+    {
+        "type": "information",
+        "content": "## です and だ in Past Tense  \n  \n### Basic Grammar and Sentence Structure  \n  \nThe past form of です (desu) is でした (deshita), and the past form of だ (da) is だった (datta). To express past actions or situations, we can simply replace です (desu) or だ (da) with でした (deshita) or だった (datta) in our structure, Noun1 は Noun2 です/だ.  \n  \nFor example, the sentence {私|わたし} は {先生|せんせい} でした/だった means \"I was a teacher\".  \n  \n### Word Order  \n  \nThe word order in past tense sentences remains the same as in the present tense. The predicate (in this case, でした/だった - was) still comes at the end of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {昨日|きのう} {私|わたし} の {本|ほん} でした。",
+        "english": "That was my book yesterday.",
+        "literal": "As for that, yesterday my book was.",
+        "audio": "それ わ きのう わたし の ほん でした。",
+        "audio_slow": "それ。は。きのう。わたし。の。ほん。でした。",
+        "breakdown": {
+            "それ*0*": "Pronoun: It refers to an object or a concept that both the speaker and the listener are aware of. In this context, \"それ\" is the subject of the sentence, which is \"that\" in English.||pronoun",
+            "は*1*": "Particle: This is the topic marker in Japanese, which is used to indicate the topic of the sentence. In this case, \"それ\" (that) is the topic.||particle",
+            "{昨日|きのう}*2*": "Noun: It means \"yesterday\". In this context, it's used to describe when the book was the speaker's.||noun",
+            "{私|わたし}*3*": "Pronoun: This is a first-person pronoun, meaning \"I\" or \"me\". Here it's used to denote ownership - \"my\".||pronoun",
+            "の*4*": "Particle: This is the possessive particle in Japanese, which is similar to 's in English. It shows that the book belongs to \"{私|わたし}\" (me).||particle",
+            "{本|ほん}*5*": "Noun: It means \"book\".||noun",
+            "でした*6*": "Copula: This is the past form of \"です\". It's used to indicate a state of being, in this case, was.||copula"
+        },
+        "lesson": "In this sentence, we see the use of は, the topic marker particle, and の, the possessive particle. Understanding how particles work in Japanese is crucial to mastering the language. This sentence also gives an example of how to express past tense in Japanese, using でした. Also, note the order of words in Japanese can be quite different from English. The time word ({昨日|きのう}) comes before the subject and the object."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{俺|おれ} は {学生|がくせい} でした。",
+        "english": "I was a student.",
+        "literal": "As for me, student was.",
+        "audio": "おれ わ がくせい でした。",
+        "audio_slow": "おれ。は。がくせい。でした。",
+        "breakdown": {
+            "- {俺|おれ}*0*": "Pronoun: This is a masculine way to say \"I\". It's often used in casual speech by males.||pronoun",
+            "- は*1*": "Particle: This is the topic marker. It indicates that \"{俺|おれ}\" (I) is the topic of the sentence.||particle",
+            "- {学生|がくせい}*2*": "Noun: This means \"student\".||noun",
+            "- でした*3*": "Copula: This is the past tense of \"です\" and it indicates that the subject (\"{俺|おれ}\") was in the state of the complement (\"{学生|がくせい}\"). In English, it translates as \"was\".||copula"
+        },
+        "lesson": "- The word \"{俺|おれ}\" is a first-person pronoun that is often used by males in casual or informal speech. It can come across as rough or informal, so it is generally not used in formal or polite situations.\n- The particle \"は\" is a topic marker. It is used to show what the topic of the sentence is. It doesn't always correspond directly to the English word \"is\", but it can often be helpful to think of it that way when you are first learning.\n- The noun \"{学生|がくせい}\" means \"student\". It's made up of two kanji: \"{学|がく}\" which means \"study\" or \"learning\", and \"{生|せい}\" which means \"life\". It refers to someone who is in a period of their life dedicated to learning.\n- The copula \"でした\" is the past tense of \"です\". It's used to indicate that something was a certain way in the past. In this sentence, it's used to say that \"I\" was a \"student\". The structure is [Noun] + でした."
+    },
+    {
+        "type": "sentence",
+        "japanese": "これ は {赤|あか}い りんご でした。",
+        "english": "This was a red apple.",
+        "literal": "As for this, red apple was.",
+        "audio": "これ わ あかい りんご でした。",
+        "audio_slow": "これ。は。あかい。りんご。でした。",
+        "breakdown": {
+            "これ*0*": "Pronoun: This is a demonstrative pronoun meaning \"this.\" It is often used to point out something in the speaker's proximity.||pronoun",
+            "は*1*": "Particle: This is the topic marker particle in Japanese. It is used to mark the subject or topic of the sentence, which in this case is \"これ\" (this).||particle",
+            "{赤|あか}い*2*": "Adjective (i-adjective): This is an adjective that means \"red.\" In Japanese, there are two types of adjectives: i-adjectives and na-adjectives. \"{赤|あか}い\" is an i-adjective, which are adjectives that end with \"い\" in their plain present form.||adjective",
+            "りんご*3*": "Noun: This is a noun that means \"apple.\"||noun",
+            "でした*4*": "Copula (past form of です): This is the past tense form of \"です,\" a copula (a verb equivalent to the English \"is\" or \"are\"). It's used here to indicate that the statement is in the past, signifying that \"this\" was a red apple.||copula"
+        },
+        "lesson": "In Japanese, adjectives such as \"{赤|あか}い\" can directly modify nouns, as in \"{赤|あか}いりんご\" (red apple). Remember that i-adjectives, like \"{赤|あか}い,\" do not require a particle to connect to the noun they modify. Lastly, the topic marker \"は\" is not necessarily marking the subject as in English sentences, but rather the topic of discussion within the context of a conversation or text."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{昨日|きのう} は {日曜日|にちようび} でした。",
+        "english": "Yesterday was Sunday.",
+        "literal": "As for yesterday, Sunday was.",
+        "audio": "きのう わ にちようび でした。",
+        "audio_slow": "きのう。は。にちようび。でした。",
+        "breakdown": {
+            "{昨日|きのう}*0*": "Noun: This means \"yesterday\".||noun",
+            "は*1*": "Particle: This is a topic marker, indicating that the topic of the sentence is \"yesterday\".||particle",
+            "{日曜日|にちようび}*2*": "Noun: This means \"Sunday\".||noun",
+            "でした*3*": "Copula: This is the past form of the copula \"です\". It is used to state that something was the case in the past. Here, it shows that \"yesterday\" was \"Sunday\".||copula"
+        },
+        "lesson": "In Japanese, the particle \"は\" (pronounced \"wa\") is used to mark the topic of the sentence. The topic is the thing that the rest of the sentence is about. In this sentence, \"{昨日|きのう}\" (yesterday) is the topic.\n\n\"でした\" is the past tense form of the copula \"です\" (is), and it's used to state that something was the case in the past. For example, \"{昨日|きのう}は{日曜日|にちようび}でした\" translates to \"Yesterday was Sunday\". When you want to talk about something that was the case in the past, you can use \"でした\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {医者|いしゃ} でした。",
+        "english": "He was a doctor.",
+        "literal": "As for him, doctor was.",
+        "audio": "かれ わ いしゃ でした。",
+        "audio_slow": "かれ。は。いしゃ。でした。",
+        "breakdown": {
+            "{彼|かれ}*0*": "Pronoun: This means \"he\". It is the subject of the sentence in this context.||pronoun",
+            "は*1*": "Particle: This is a topic marker. It's often used to highlight what the sentence is about. In this case, the topic is \"{彼|かれ}\" (he).||particle",
+            "{医者|いしゃ}*2*": "Noun: This means \"doctor\". In this sentence, it is the complement to the copula でした (was).||noun",
+            "でした*3*": "Copula: This is the past tense of the copula です. It translates to \"was\" in English and is used to describe a state of being in the past.||copula"
+        },
+        "lesson": "This sentence is a simple example of a past tense sentence in Japanese, using the past form of the copula です, which is でした. Note how the topic of the sentence ({彼|かれ}) is followed by the topic marker (は), then the state of being ({医者|いしゃ}) and finally the copula (でした) to indicate that \"he was a doctor\". It's a basic sentence structure that's quite common in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {人|ひと} は {警察官|けいさつかん} でした。",
+        "english": "That person was a police officer.",
+        "literal": "As for that person, police officer was.",
+        "audio": "その ひと わ けいさつかん でした。",
+        "audio_slow": "その。ひと。は。けいさつかん。でした。",
+        "breakdown": {
+            "その*0*": "Demonstrative adjective: It translates to \"that\" in English and it's used to indicate something physically or psychologically distant from the speaker. Here, it's used to refer to a specific person which is distant from the speaker in some context.||adjective",
+            "{人|ひと}*1*": "Noun: It translates to \"person\" in English. Here, combined with the demonstrative adjective \"その\", it refers to \"that person\".||noun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic is \"その{人|ひと}\" (that person).||particle",
+            "{警察官|けいさつかん}*3*": "Noun: It translates to \"police officer\" in English. In this sentence, it is the state or condition that the topic (\"その{人|ひと}\", that person) was in.||noun",
+            "でした*4*": "Copula: This is the past tense of the copula \"です\". A copula is a word used to link the subject of a sentence with a predicate (a subject complement). It's often translated as \"was\" or \"were\" in English. Here, it indicates that \"その{人|ひと}\" (that person) was in the state or condition of being a \"{警察官|けいさつかん}\" (police officer).||copula"
+        },
+        "lesson": "In this sentence, we're introduced to a very basic structure of Japanese sentences, which is \"[Subject] は [Predicate] です\", the equivalent of \"[Subject] is [Predicate]\" in English. Here, \"です\" is in its past form \"でした\", so the structure translates to \"[Subject] was [Predicate]\". \n\nAlso, it's important to know that while \"は\" is generally translated as \"is\", it doesn't have a meaning on its own. Rather, it's a grammatical particle that marks the topic of the sentence. Similarly, \"その\" is a demonstrative adjective that describes the noun \"{人|ひと}\" (person), indicating that the person is somewhat distant from the speaker."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{俺|おれ} の {父|ちち} は {教師|きょうし} でした。",
+        "english": "My father was a teacher.",
+        "literal": "As for my father, teacher was.",
+        "audio": "おれ の ちち わ きょうし でした。",
+        "audio_slow": "おれ。の。ちち。は。きょうし。でした。",
+        "breakdown": {
+            "{俺|おれ}*0*": "Pronoun: This is a first-person pronoun, meaning \"I\" or \"me\". It's often used by men in informal speech.||pronoun",
+            "の*1*": "Particle: This is the possessive particle. It connects two nouns to show ownership or affiliation. Here, it's connecting \"{俺|おれ}\" (me) and \"{父|ちち}\" (father) to mean \"my father\".||particle",
+            "{父|ちち}*2*": "Noun: This word means \"father\".||noun",
+            "は*3*": "Particle: This is the topic marker particle. It is used to specify the topic of the sentence. Here, \"{父|ちち}\" (father) is the topic.||particle",
+            "{教師|きょうし}*4*": "Noun: This word means \"teacher\".||noun",
+            "でした*5*": "Copula: This is the past tense form of です (desu), which is a copula, a word used to link the subject of a sentence (in this case, \"{父|ちち}\", father) with a predicate (in this case, \"{教師|きょうし}\", teacher). By using the past tense form でした (deshita), the sentence is saying that the father \"was\" a teacher.||copula"
+        },
+        "lesson": "1. This sentence provides a good example of how possession is expressed in Japanese, using the の particle. This can be used not only to show ownership (as in \"my father\"), but also in other contexts where we would use \"of\" in English (as in \"the color of the apple\").\n2. This sentence also shows how to use です/でした to describe a state of being. です is used for the present state, while でした is used for past states. \n3. You can see the usage of the topic marker は. In many Japanese sentences, the topic of the sentence (what the sentence is about) is marked with the particle は. It doesn't always correspond directly with the subject of a sentence in the English sense. In this sentence, the topic is \"{父|ちち}\" (father). \n4. Note the usage of the pronoun \"{俺|おれ}\". It is a masculine way to say \"I\" or \"me\", commonly used in informal contexts or casual speech."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{東京|とうきょう} は {小|ちい}さな {町|まち} でした。",
+        "english": "Tokyo was a small town.",
+        "literal": "As for Tokyo, small town was.",
+        "audio": "とうきょう わ ちいさな まち でした。",
+        "audio_slow": "とうきょう。は。ちいさな。まち。でした。",
+        "breakdown": {
+            "{東京|とうきょう}*0*": "Noun: This is the name of Japan's capital city, Tokyo.||noun",
+            "は*1*": "Particle: This is the topic marker, indicating that Tokyo is the topic of the sentence.||particle",
+            "{小|ちい}さな*2*": "Adjective (na-adjective): This is an adjective that means \"small\". It describes the noun that follows it, in this case, \"{町|まち}\" (town).||adjective",
+            "{町|まち}*3*": "Noun: This word means \"town\".||noun",
+            "でした*4*": "Copula: This is the past form of \"です\" (is), indicating that the action happened in the past.||copula"
+        },
+        "lesson": "The sentence structure here is pretty straightforward, using the standard subject (topic)-adjective-object structure common in Japanese sentences. The topic marker は sets the topic of the sentence (Tokyo), then we have an adjective ({小|ちい}さな, small) describing the noun ({町|まち}, town), and finally the copula でした indicating past tense. \n\nRemember, adjectives in Japanese come before the noun they modify, not after as in English. Also, でした is the past form of です, used to indicate a state of being in the past. It can be used with both nouns and na-adjectives, like {小|ちい}さな here. The particle は is used to indicate the topic of the sentence, which is different from the subject in English. In this sentence, Tokyo is the topic, and the sentence tells us something about Tokyo."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {俺|おれ} の {車|くるま} でした。",
+        "english": "That was my car.",
+        "literal": "As for that, my car was.",
+        "audio": "それ わ おれ の くるま でした。",
+        "audio_slow": "それ。は。おれ。の。くるま。でした。",
+        "breakdown": {
+            "それ*0*": "Pronoun: \"That\". It refers to a thing or things close to the listener.||pronoun",
+            "は*1*": "Particle: This is the topic marker. It indicates that the phrase before it, \"それ\" (that), is the topic of the sentence.||particle",
+            "{俺|おれ}*2*": "Noun: \"I\" or \"me\". It's a very informal, masculine way to refer to oneself.||noun",
+            "の*3*": "Particle: This is a possessive particle. It is used to indicate a relationship of possession or attribution between two nouns, in this case, \"{俺|おれ}\" (me) and \"{車|くるま}\" (car).||particle",
+            "{車|くるま}*4*": "Noun: \"Car\". This is the object that \"{俺|おれ}\" (me) possesses.||noun",
+            "でした*5*": "Copula: This is the past form of the copula \"です\". It is used to express that something was the case, in this case, that the car belonged to \"{俺|おれ}\" (me).||copula"
+        },
+        "lesson": "This sentence provides an example of how to use the possessive particle の. It connects two nouns to express a relationship of possession. In this case, the sentence is expressing that the car belonged to the speaker. \n\nIt also demonstrates the use of the topic particle は. In Japanese sentences, the topic often comes at the beginning, and it is typically something the speaker wants to talk about.\n\nThe word {俺|おれ} is a very informal first-person pronoun often used by males. It’s important to note that the level of formality in Japanese can change the words you use. For instance, other words for \"I\" include {私|わたし} (わたし), {僕|ぼく} (ぼく), and so on, with each having a different nuance and level of formality.\n\nLastly, the copula でした is the past tense of です, which is a copula used to link the subject of a sentence with a predicate. It's similar to the English word \"is\" or \"was\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} の {名前|なまえ} は {佐藤|さとう} でした。",
+        "english": "My name was Sato.",
+        "literal": "As for my name, Sato was.",
+        "audio": "わたし の なまえ わ さとう でした。",
+        "audio_slow": "わたし。の。なまえ。は。さとう。でした。",
+        "breakdown": {
+            "{私|わたし}*0*": "Pronoun: This is the pronoun for \"I\" or \"me\".||pronoun",
+            "の*1*": "Particle: This particle is a possessive marker, similar to 's or \"of\" in English. It indicates that the next word \"{名前|なまえ}\" (name) belongs to \"{私|わたし}\" (I).||particle",
+            "{名前|なまえ}*2*": "Noun: This means \"name\".||noun",
+            "は*3*": "Particle: This particle is a topic marker. It specifies the topic of the sentence, in this case, \"{私|わたし}の{名前|なまえ}\" (my name).||particle",
+            "{佐藤|さとう}*4*": "Noun: This is a common Japanese surname, \"Sato\".||noun",
+            "でした*5*": "Copula: This is the past form of \"です\" which is a copula (a word used to link the subject of a sentence with a predicate). It indicates that \"{私|わたし}の{名前|なまえ}\" (my name) was \"{佐藤|さとう}\" (Sato).||copula"
+        },
+        "lesson": "The sentence \"{私|わたし}の{名前|なまえ}は{佐藤|さとう}でした。\" is a basic Japanese sentence structure that you'll frequently see. The structure is \"Subject + は + Predicate\", where \"は\" is the topic marker. The use of \"でした\" at the end of the sentence indicates that the statement is in the past tense. This structure is useful for stating facts or giving self-introduction in the past context. You can replace \"{佐藤|さとう}\" with your own name or any other noun to practice this sentence structure."
+    },
+    {
+        "type": "sentence",
+        "japanese": "あれ は {昨日|きのう} の {夕食|ゆうしょく} だった。",
+        "english": "That was yesterday's dinner.",
+        "literal": "As for that over there, yesterday's dinner was.",
+        "audio": "あれ わ きのう の ゆうしょく だった。",
+        "audio_slow": "あれ。は。きのう。の。ゆうしょく。だった。",
+        "breakdown": {
+            "あれ*0*": "Pronoun: This is a demonstrative pronoun that refers to something that is distant from both the speaker and the listener. It's equivalent to \"that\" in English.||pronoun",
+            "は*1*": "Particle: This is the topic marker in Japanese. It tells us what the sentence is about. In this case, the topic is \"あれ\" (that).||particle",
+            "{昨日|きのう}*2*": "Noun: This means \"yesterday\".||noun",
+            "の*3*": "Particle: This is a possessive particle, similar to \"'s\" in English. It shows the relationship between two nouns, and in this case, it's showing that the \"{夕食|ゆうしょく}\" (dinner) belongs to \"{昨日|きのう}\" (yesterday).||particle",
+            "{夕食|ゆうしょく}*4*": "Noun: This means \"dinner\".||noun",
+            "だった*5*": "Copula: This is the past form of \"だ\", which is a plain form copula (a word used to link the subject of a sentence with a predicate). It's similar to \"was\" in English.||copula"
+        },
+        "lesson": "This sentence is a good example of the structure [Topic] は [Subject] だ (in the past tense, だ becomes だった). This is a very common structure in Japanese. The topic is often the thing you want to talk about, and the subject is the information about the topic. In this sentence, \"あれ\" (that) is the topic, and \"{昨日|きのう}の{夕食|ゆうしょく}\" (yesterday's dinner) is the subject. The sentence literally translates to \"As for that, it was yesterday's dinner.\""
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} の {友達|ともだち} は {元気|げんき} だった。",
+        "english": "My friend was energetic.",
+        "literal": "As for my friend, energetic was.",
+        "audio": "わたし の ともだち わ げんき だった。",
+        "audio_slow": "わたし。の。ともだち。は。げんき。だった。",
+        "breakdown": {
+            "{私|わたし}*0*": "Noun: This word translates to \"I\" or \"me\" in English. It is used as the subject of the sentence to denote who is speaking.||noun",
+            "の*1*": "Particle: This is a possessive particle that links two nouns together. It is similar to the English possessive marker \"'s\". In this case, it links \"{私|わたし}\" (I/me) with \"{友達|ともだち}\" (friend) to form the phrase \"{私|わたし}の{友達|ともだち}\" (my friend).||particle",
+            "{友達|ともだち}*2*": "Noun: This word translates to \"friend\". The previous word \"{私|わたし}の\" makes it \"my friend\".||noun",
+            "は*3*": "Topic marker (particle): This particle marks the topic of the sentence, which in this case is \"{私|わたし}の{友達|ともだち}\" (my friend). The rest of the sentence gives information about this topic.||particle",
+            "{元気|げんき}*4*": "Noun: This word translates to \"energy\", \"health\", or \"spirit\". In this context, it indicates that the friend was energetic or in good spirits.||noun",
+            "だった*5*": "Copula: This is the past tense of the copula だ (is). It indicates that the sentence's subject ({私|わたし}の{友達|ともだち}, my friend) was in the state described by the preceding word ({元気|げんき}, energetic/healthy).||copula"
+        },
+        "lesson": "This sentence is a good example of a simple past tense structure in Japanese. Japanese verbs, adjectives, and the copula can all be put into the past tense. In this case, the copula だ becomes だった to indicate a past state. The structure is straightforward: [Subject] は [Object/State] だった which translates to [Subject] was [Object/State]."
+    },
+    {
+        "type": "sentence",
+        "japanese": "これ は {美味|おい}しい ケーキ だった。",
+        "english": "This was a delicious cake.",
+        "literal": "As for this, delicious cake was.",
+        "audio": "これ わ おいしい ケーキ だった。",
+        "audio_slow": "これ。は。おいしい。ケーキ。だった。",
+        "breakdown": {
+            "これ*0*": "Pronoun: This is a pronoun that can mean \"this\" or \"this one.\" In this context, it refers to the cake.||pronoun",
+            "は*1*": "Particle: This is the topic marker. It indicates that the topic of the sentence is \"これ\" (this).||particle",
+            "{美味|おい}しい*2*": "i-adjective: This is an i-adjective meaning \"delicious.\" i-adjectives can modify nouns directly and can also change tense. In this case, it modifies \"ケーキ\" (cake).||adjective",
+            "ケーキ*3*": "Noun: This is a loan word from English, and it means \"cake.\"||noun",
+            "だった*4*": "Copula: This is the past tense form of the copula \"だ.\" It is used to link the subject and predicate of a sentence, and in this case, it indicates the past tense, meaning \"was.\"||copula"
+        },
+        "lesson": "Japanese sentences often rely on context, and pronouns like \"これ\" (this) can refer to something mentioned earlier in a conversation or something physically nearby. Remember that the particle \"は\" indicates the topic of the sentence, not necessarily the subject in the English sense. The copula \"だ\" can be changed to \"だった\" to indicate past tense. Lastly, \"{美味|おい}しい\" is an i-adjective, and it modifies the noun directly."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {猫|ねこ} は {黒|くろ} だった。",
+        "english": "That cat was black.",
+        "literal": "As for that cat, black was.",
+        "audio": "その ねこ わ くろ だった。",
+        "audio_slow": "その。ねこ。は。くろ。だった。",
+        "breakdown": {
+            "その*0*": "Demonstrative adjective: This adjective is used to refer to a specific item that is neither near the speaker nor listener. It's like saying \"that\" in English. In this case, it's referring to \"{猫|ねこ}\" (cat).||adjective",
+            "{猫|ねこ}*1*": "Noun: The word for \"cat\".||noun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence, which is the thing or concept that the sentence is about. Here, the topic of the sentence is \"その{猫|ねこ}\" (that cat).||particle",
+            "{黒|くろ}*3*": "Noun (used adjectivally): This word means \"black\". In Japanese, colors are nouns that can be used to modify other nouns directly or with the help of the copula.||noun",
+            "だった*4*": "Past form of the copula だ (it is): The copula in Japanese works a bit like \"to be\" in English, linking the subject of the sentence (in this case, \"その{猫|ねこ}\", that cat) with a description (in this case, \"{黒|くろ}\", black). The past form, だった, is used to express that something was a certain way in the past. So \"その{猫|ねこ}は{黒|くろ}だった\" means \"That cat was black\".||copula"
+        },
+        "lesson": "In Japanese, there is a system of demonstrative adjectives (this, that, that over there) which changes based on the distance from the speaker and the listener. \"その\" is used when the speaker is talking about something that is near the listener or something that the speaker and listener are both aware of.\n\nAlso, color words in Japanese are usually nouns and they can be used to describe other nouns. When doing this, the copula (like \"だ\") is used to link the color word with the noun it is describing. The past form \"だった\" is used to talk about the past, similar to the English \"was\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{僕|ぼく} の {夢|ゆめ} は {医者|いしゃ} だった。",
+        "english": "My dream was to become a doctor.",
+        "literal": "As for my dream, doctor was.",
+        "audio": "ぼく の ゆめ わ いしゃ だった。",
+        "audio_slow": "ぼく。の。ゆめ。は。いしゃ。だった。",
+        "breakdown": {
+            "{僕|ぼく}*0*": "Noun: This is a first-person pronoun often used by males in casual conversation. It translates to \"I\" or \"me\" in English.||noun",
+            "の*1*": "Particle: This particle is used to indicate possession or attribution. It can be translated as \"of\" or \"'s\" in English. In this case, it links \"{僕|ぼく}\" (I/me) to \"{夢|ゆめ}\" (dream), indicating that the dream belongs to \"I/me\" (hence, \"my dream\").||particle",
+            "{夢|ゆめ}*2*": "Noun: This word translates to \"dream\" in English. In this context, it refers to a personal aspiration or ambition.||noun",
+            "は*3*": "Particle: This particle is often referred to as the topic marker. It's used to indicate the main topic of the sentence. In this case, \"{夢|ゆめ}\" (dream) is the topic of the sentence.||particle",
+            "{医者|いしゃ}*4*": "Noun: This word translates to \"doctor\" in English. In this context, it refers to the occupation the speaker aspired to in their dream.||noun",
+            "だった*5*": "Copula: This is the past form of the copula \"だ\". It's used to affirm the state or condition expressed in the sentence. In this context, it indicates that the speaker's dream of becoming a doctor was in the past (hence, \"was\").||copula"
+        },
+        "lesson": "This sentence provides a great opportunity to understand how the particles \"の\" and \"は\" function in a sentence. Notice how \"の\" shows the relationship between the speaker \"{僕|ぼく}\" and the \"{夢|ゆめ}\", indicating possession. Meanwhile, \"は\" introduces the topic of the sentence, which in this case is the \"{夢|ゆめ}\". Lastly, \"だった\" is a common way to indicate past tense for non-action verbs in Japanese. Learning to use these elements correctly will help you form a wide range of sentences in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{昨日|きのう} の {天気|てんき} は {暑|あつ}かった。",
+        "english": "Yesterday's weather was hot.",
+        "literal": "As for yesterday's weather, hot was.",
+        "audio": "きのう の てんき わ あつかった。",
+        "audio_slow": "きのう。の。てんき。は。あつかった。",
+        "breakdown": {
+            "{昨日|きのう}*0*": "Noun: Means \"yesterday\". In this sentence, it specifies the time when the action or the state (which is \"was hot\") occurred.||noun",
+            "の*1*": "Particle: This is a possessive particle, similar to \"'s\" in English. It is used to show relationships between two nouns, like ownership or characteristic. In this case, it links \"{昨日|きのう}\" (yesterday) and \"{天気|てんき}\" (weather), forming the phrase \"yesterday's weather\".||particle",
+            "{天気|てんき}*2*": "Noun: Means \"weather\". Combined with \"{昨日|きのう}の\" (yesterday's) and the particle \"の\", it becomes \"yesterday's weather\".||noun",
+            "は*3*": "Topic marker (particle): This particle is used to mark the topic of the sentence. The topic is often the subject of the sentence, but not always. In this case, the topic of the sentence is \"{昨日|きのう}の{天気|てんき}\" (Yesterday's weather).||particle",
+            "{暑|あつ}かった*4*": "Past tense of the い-adjective \"{暑|あつ}い\" (hot):  This adjective is used to describe a state or quality. Here it is describing the state of the weather yesterday. The past tense is used to indicate that this state occurred in the past, so \"{暑|あつ}かった\" translates to \"was hot\".||adjective"
+        },
+        "lesson": "In this sentence, we encounter the possessive particle \"の\" and the topic marker \"は\". Learning how to use these particles is crucial in Japanese because they're often used to form basic sentences.\n\nAlso, you see the past tense of an い-adjective \"{暑|あつ}い\". To change い-adjectives into the past tense, you remove the final \"い\" and add \"かった\". So \"{暑|あつ}い\" becomes \"{暑|あつ}かった\" in the past tense. This applies to most い-adjectives."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} の {名前|なまえ} は ジョン だった。",
+        "english": "His name was John.",
+        "literal": "As for his name, John was.",
+        "audio": "かれ の なまえ わ ジョン だった。",
+        "audio_slow": "かれ。の。なまえ。は。ジョン。だった。",
+        "breakdown": {
+            "{彼|かれ}*0*": "Pronoun: This is the third person singular pronoun \"he.\" In this context, it is used to refer to a male individual.||pronoun",
+            "の*1*": "Particle: This is the possessive particle, equivalent to \"'s\" in English. It indicates that the noun that follows (in this case, \"name\") belongs to or is associated with the noun that precedes it (in this case, \"he\").||particle",
+            "{名前|なまえ}*2*": "Noun: This word means \"name.\" So \"{彼|かれ}の{名前|なまえ}\" means \"his name.\"||noun",
+            "は*3*": "Particle: This is the topic marker. It's used to mark the topic of the sentence. In this case, the topic is \"his name.\"||particle",
+            "ジョン*4*": "Noun: This is a proper noun, \"John.\" It's a common male given name in English-speaking countries.||noun",
+            "だった*5*": "Copula: This is the past form of the copula verb \"だ\" (is). It's used to indicate that the subject was or used to be something. In this case, it's used to indicate that his name was John.||copula"
+        },
+        "lesson": "One important concept in Japanese is the use of particles such as \"の\" and \"は\". The \"の\" particle is often used to indicate possession or attribution, similar to 's in English. The \"は\" particle, on the other hand, is used to set the topic of the sentence, which is often (but not always) the subject in an English sentence. Also, \"だ\" is a plain form copula that connects a subject and predicate in informal speech. Its past form, \"だった\", is used to indicate past tense."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {本|ほん} は {面白|おもしろ}かった。",
+        "english": "That book was interesting.",
+        "literal": "As for that book, interesting was.",
+        "audio": "その ほん わ おもしろかった。",
+        "audio_slow": "その。ほん。は。おもしろかった。",
+        "breakdown": {
+            "その*0*": "Demonstrative adjective: This is used to indicate an object that is close to the listener. In this case, \"その\" refers to \"{本|ほん}\" (book).||adjective",
+            "{本|ほん}*1*": "Noun: This is the word for \"book\".||noun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. Here, it's indicating that the sentence's topic is \"その{本|ほん}\" (that book).||particle",
+            "{面白|おもしろ}かった*3*": "Past tense i-adjective: The adjective \"{面白|おもしろ}い\" means \"interesting\", and the \"かった\" at the end turns it into the past tense, \"was interesting\".||adjective"
+        },
+        "lesson": "In Japanese, the subject or topic of a sentence is often indicated by the particle \"は\". Additionally, adjectives in Japanese can change form to show tense. The \"-かった\" ending indicates past tense for \"i-adjectives\". In this sentence, \"{面白|おもしろ}い\" (interesting) becomes \"{面白|おもしろ}かった\" (was interesting) to indicate that the speaker found the book interesting in the past."
+    },
+    {
+        "type": "sentence",
+        "japanese": "お{昼|ひる} の ご{飯|はん} は お{寿司|すし} だった。",
+        "english": "The lunch was sushi.",
+        "literal": "As for lunch, sushi was.",
+        "audio": "おひる の ごはん わ おすし だった。",
+        "audio_slow": "おひる。の。ごはん。は。おすし。だった。",
+        "breakdown": {
+            "お{昼|ひる}*0*": "Noun: This word means \"lunch\". The \"お\" in front is a prefix used to show respect or politeness.||noun",
+            "の*1*": "Particle: The \"no\" particle is a connecting particle. It's used to show possession or attribution. In this case, it is connecting \"lunch\" with \"meal\", forming the phrase \"lunch meal\".||particle",
+            "ご{飯|はん}*2*": "Noun: This word means \"meal\" or \"rice\". When used with \"お{昼|ひる}\", it refers to the meal at lunchtime.||noun",
+            "は*3*": "Particle: The \"wa\" particle is a topic marker. It's used to introduce the topic of the sentence. Here, \"お{昼|ひる}のご{飯|はん}\" (lunch) is the topic.||particle",
+            "お{寿司|すし}*4*": "Noun: This word means \"sushi\". Again, the \"お\" prefix is used to show respect or politeness.||noun",
+            "だった*5*": "Copula: This is the past form of \"だ\" (is/am/are). It's used to connect a subject with a predicate, and in this case, it's indicating that the \"lunch\" was \"sushi\".||copula"
+        },
+        "lesson": "In Japanese, the verb or copula often comes at the end of the sentence. Also, note that \"の\" can be used to link nouns together, showing possession or attribution. The prefix \"お\" is often added before certain words to show respect. The particle \"は\" is a topic marker, indicating the topic of the sentence, and it's different from the subject in English. Lastly, the copula \"だった\" is used to denote past tense."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} の {学校|がっこう} は {大|おお}きかった。",
+        "english": "My school was big.",
+        "literal": "As for my school, big was.",
+        "audio": "わたし の がっこう わ おおきかった。",
+        "audio_slow": "わたし。の。がっこう。は。おおきかった。",
+        "breakdown": {
+            "{私|わたし}*0*": "Pronoun: This is the first-person singular pronoun \"I\" or \"me\". It's used to refer to oneself.||pronoun",
+            "の*1*": "Particle: This is a possessive particle. It's used to indicate that the noun before it ({私|わたし}, me) possesses the noun after it ({学校|がっこう}, school). Together, {私|わたし}の means \"my\".||particle",
+            "{学校|がっこう}*2*": "Noun: This is the word for \"school\".||noun",
+            "は*3*": "Particle: This is the topic marker particle. It's used to indicate the topic of the sentence. Here, the topic is \"my school\" ({私|わたし}の{学校|がっこう}).||particle",
+            "{大|おお}きかった*4*": "Past form of an I-adjective: {大|おお}きい (big) is an \"i\" adjective, which describes qualities or states of being. The past form {大|おお}きかった is used to say that something \"was big\".||adjective"
+        },
+        "lesson": "In this simple sentence, we see the usage of both the possessive particle \"の\" and the topic marker \"は\". This combination is often used to say something about one's own possessions or affiliations (like my school, my dog, etc). \n\nThe adjective {大|おお}きい is a common \"i\" adjective. To make an \"i\" adjective past tense, you replace the final \"い\" with \"かった\". This is a general rule for turning \"i\" adjectives into the past tense. So, {大|おお}きい becomes {大|おお}きかった, meaning \"was big\". This past tense form is used in a statement of fact about a past condition."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{最初|さいしょ} の {仕事|しごと} は {教師|きょうし} だった。",
+        "english": "My first job was a teacher.",
+        "literal": "As for first job, teacher was.",
+        "audio": "さいしょ の しごと わ きょうし だった。",
+        "audio_slow": "さいしょ。の。しごと。は。きょうし。だった。",
+        "breakdown": {
+            "{最初|さいしょ}*0*": "Noun: This word means \"first\" or \"beginning\". It is used here to refer to the first job the speaker had.||noun",
+            "の*1*": "Particle: This is the possessive particle, connecting \"{最初|さいしょ}\" (first) and \"{仕事|しごと}\" (job) to mean \"first job\".||particle",
+            "{仕事|しごと}*2*": "Noun: This word means \"job\" or \"work\". Together with \"{最初|さいしょ}の\", it refers to the \"first job\".||noun",
+            "は*3*": "Particle: This is the topic marker. It is used to indicate the topic of the sentence. In this case, the topic is \"{最初|さいしょ}の{仕事|しごと}\" (first job).||particle",
+            "{教師|きょうし}*4*": "Noun: This word means \"teacher\". This is what the speaker's first job was.||noun",
+            "だった*5*": "Copula: This is the past tense of the copula \"だ\". It is used to link the subject \"{最初|さいしょ}の{仕事|しごと}\" (first job) with the complement \"{教師|きょうし}\" (teacher), indicating that the first job was being a teacher.||copula"
+        },
+        "lesson": "In Japanese, you can use の to show possession or to connect two ideas. Here, it's used to connect \"{最初|さいしょ}\" (first) and \"{仕事|しごと}\" (job) to create the idea of \"first job\". The particle は indicates the topic of the sentence, which in this case is \"{最初|さいしょ}の{仕事|しごと}\" (first job). The copula だった indicates that this is a statement about the past - specifically, it's saying that the first job was being a teacher."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} の {犬|いぬ} は {白|しろ} だった。",
+        "english": "Her dog was white.",
+        "literal": "As for her dog, white was.",
+        "audio": "かのじょ の いぬ わ しろ だった。",
+        "audio_slow": "かのじょ。の。いぬ。は。しろ。だった。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Pronoun: This is the word for \"she\" or \"her\" in Japanese.||pronoun",
+            "の*1*": "Particle: The \"の\" particle is used here to indicate possession. It's similar to 's in English. So \"{彼女|かのじょ}の\" means \"her\" (possessive).||particle",
+            "{犬|いぬ}*2*": "Noun: This is the word for \"dog\".||noun",
+            "は*3*": "Particle: The \"は\" particle is used here to denote the topic of the sentence. The topic is what the sentence is about, and it is not necessarily the subject of the sentence. In this case, \"{犬|いぬ}は\" indicates that the sentence is about the dog.||particle",
+            "{白|しろ}*4*": "Noun: This is the word for \"white\". In Japanese, colors can be nouns, and in this context, it acts as the predicate of the sentence.||noun",
+            "だった*5*": "Copula: This is the past form of \"だ\" (is), which means \"was\". It's used here to indicate that the sentence is in the past tense.||copula"
+        },
+        "lesson": "This sentence demonstrates a basic sentence structure in Japanese, where a noun (\"dog\") is described with another noun (\"white\"). The copula \"だ\" (is) is used to link the two nouns, and in this case it's in its past form \"だった\" (was), showing that this sentence is talking about something in the past. The topic of the sentence is marked by the particle \"は\", and the possession is shown by the particle \"の\". In Japanese, the possession structure is reversed compared to English. It's not \"dog's her\" but \"her dog\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {車|くるま} は {速|はや}かった。",
+        "english": "That car was fast.",
+        "literal": "As for that car, fast was.",
+        "audio": "その くるま わ はやかった。",
+        "audio_slow": "その。くるま。は。はやかった。",
+        "breakdown": {
+            "その*0*": "Demonstrative adjective (this/that): This word is used to indicate a specific thing near the speaker or the listener, or something that has been mentioned before. Here, it refers to \"the car\" ({車|くるま}).||adjective",
+            "{車|くるま}*1*": "Noun: This means \"car.\" It is the subject of the sentence, the thing we are talking about.||noun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic is \"その{車|くるま}\" (that car).||particle",
+            "{速|はや}かった*3*": "Past form of an i-adjective: The adjective \"{速|はや}い\" means \"fast.\" Here, it's in its past form, \"{速|はや}かった,\" meaning \"was fast.\" The past form of i-adjectives is created by replacing the final \"い\" with \"かった.\"||adjective"
+        },
+        "lesson": "This sentence is a good example of a simple past tense statement in Japanese. It involves an i-adjective, which is used to describe something, in this case, a car. Note the usage of \"その\" to refer to a specific car that the speaker and listener are both aware of. \"は\" is a very common particle that's used to mark the topic of the sentence. Finally, the past form of an i-adjective is used here. To form the past tense of an i-adjective, replace the final \"い\" with \"かった.\""
+    },
+    {
+        "type": "information",
+        "content": "## です and だ in Future Tense  \n  \n### Basic Grammar and Sentence Structure  \n  \nIn Japanese, the future isn't typically distinguished from the present, so です (desu) and だ (da) can be used to describe future situations as well. However, to explicitly express future actions or changes, we use に なります (polite) or に なる (casual).  \n  \nFor instance, the sentence {私|わたし} は {明日|あした} {先生|せんせい} に なります/なる means \"I will become a teacher tomorrow\". Here, {明日|あした} means \"tomorrow\", {先生|せんせい} is \"teacher\", and に なります/なる is \"will become\".  \n  \n### Word Order  \n  \nThe word order remains the same as in present and past tenses. The predicate (in this case, に なります/なる - will become) comes at the end of the sentence. Time-related words (like {明日|あした} - tomorrow) can be placed at the beginning or in the middle of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "これ は {明日|あした} {私|わたし} の {本|ほん} に なります。",
+        "english": "This will become my book tomorrow.",
+        "literal": "As for this, tomorrow my book will become.",
+        "audio": "これ わ あした わたし の ほん に なります。",
+        "audio_slow": "これ。は。あした。わたし。の。ほん。に。なります。",
+        "breakdown": {
+            "これ*0*": "Pronoun: It means \"this.\" This pronoun is used to point to something that is close to the speaker.||pronoun",
+            "は*1*": "Particle: The topic marker. It shows that \"これ\" (this) is the topic of the sentence.||particle",
+            "{明日|あした}*2*": "Noun: It means \"tomorrow.\"||noun",
+            "{私|わたし}*3*": "Pronoun: It means \"I\" or \"me.\" Here, it indicates the ownership of the book.||pronoun",
+            "の*4*": "Particle: The possessive particle. It shows that the \"{本|ほん}\" (book) belongs to \"{私|わたし}\" (I/me).||particle",
+            "{本|ほん}*5*": "Noun: It means \"book.\"||noun",
+            "に*6*": "Particle: This is a destination particle. It shows the result of the change that is happening in the sentence. In this case, \"これ\" (this) is changing into \"{私|わたし} の {本|ほん}\" (my book).||particle",
+            "なります*7*": "Verb (Naru verb): The verb \"なる\" means \"to become\". In this context, it is in its polite future form \"なります\", indicating the action of becoming something in the future, i.e., \"will become\".||verb"
+        },
+        "lesson": "In Japanese, the verb typically comes at the end of the sentence, and the object of the verb is usually marked with the particle \"を.\" However, in this sentence, the verb \"なる\" (to become) is being used, which indicates a change of state. When used with the particle \"に,\" it indicates the result of that change. Also, \"ます\" is often used in formal or polite contexts, and when attached to the stem form of a verb, it indicates that the action will take place in the future. So \"なります\" means \"will become.\""
+    },
+    {
+        "type": "sentence",
+        "japanese": "{俺|おれ} は {来年|らいねん} {医者|いしゃ} に なります。",
+        "english": "I will become a doctor next year.",
+        "literal": "As for me, next year doctor will become.",
+        "audio": "おれ わ らいねん いしゃ に なります。",
+        "audio_slow": "おれ。は。らいねん。いしゃ。に。なります。",
+        "breakdown": {
+            "{俺|おれ}*0*": "Pronoun: This is a first-person pronoun, often used by males, that means \"I\".||pronoun",
+            "は*1*": "Particle: The topic marker in Japanese. It's used to denote the main topic of the sentence. In this case, \"{俺|おれ}\" (I) is the topic.||particle",
+            "{来年|らいねん}*2*": "Noun: It means \"next year\". In this context, it specifies the time when the action (becoming a doctor) will take place.||noun",
+            "{医者|いしゃ}*3*": "Noun: It means \"doctor\". This is the profession the speaker intends to enter.||noun",
+            "に*4*": "Particle: This is a target particle, marking the goal or destination of an action. In this case, it's showing the state the speaker will reach, i.e., \"doctor\".||particle",
+            "なります*5*": "Verb (Naru verb): The verb \"なる\" means \"to become\". In this context, it is in its polite future form \"なります\", indicating the action of becoming something in the future, i.e., \"will become\".||verb"
+        },
+        "lesson": "This sentence is a simple declarative sentence indicating a future event. The structure of the sentence is \"subject ({俺|おれ}) + time indicator ({来年|らいねん}) + object/goal ({医者|いしゃ}) + verb (なります)\". Note how the verb \"なる\" is used to express a change in state or condition. Here, the speaker is indicating a future change in their profession. The use of the particle \"に\" with \"なる\" is a common grammar pattern, indicating the state or condition that something or someone will become."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {明日|あした} {赤|あか}い りんご に なります。",
+        "english": "That will become a red apple tomorrow.",
+        "literal": "As for that, tomorrow red apple will become.",
+        "audio": "それ わ あした あかい りんご に なります。",
+        "audio_slow": "それ。は。あした。あかい。りんご。に。なります。",
+        "breakdown": {
+            "それ*0*": "Pronoun: \"That\". It's used to refer to something previously mentioned or something the speaker and listener both know.||pronoun",
+            "は*1*": "Particle: The topic marker. It's used to introduce the topic of the sentence, which in this case is \"それ\" (That).||particle",
+            "{明日|あした}*2*": "Noun: \"Tomorrow\". It indicates the time when the action will take place.||noun",
+            "{赤|あか}い*3*": "I-adjective: \"Red\". This adjective is describing the color of the apple.||adjective",
+            "りんご*4*": "Noun: \"Apple\". It's what \"それ\" (That) will become.||noun",
+            "に*5*": "Particle: In this context, it's the destination marker. It indicates the end state or goal of an action. Here, it shows what \"それ\" (That) will become (\"{赤|あか}いりんご\", a red apple).||particle",
+            "なります*6*": "Verb: The polite form of なる (\"to become\"). It's indicating a change, showing what \"それ\" (That) will transform into. This is a godan verb.||verb"
+        },
+        "lesson": "The word \"なります\" (becomes) is a very common verb in Japanese. It is used to express a change or transformation, similar to how we use \"become\" in English. Also, note the use of the particle \"に\" before \"なります\". In this context, \"に\" is used to indicate the end result of the transformation.\n\nAdjectives in Japanese come before the noun they modify, like in English. \"{赤|あか}い\" (red) is an i-adjective, one type of adjective in Japanese. This is in contrast to na-adjectives, the other main type. I-adjectives always end in い in their dictionary form.\n\nThe particle \"は\" is commonly used to set the topic of a sentence, and it is usually translated as \"as for\" or \"speaking of\" in English. The topic of the sentence doesn't have to be the subject, it's just the thing that the sentence is about. In this case, \"それ\" (That) is the topic of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{明日|あした} は {火曜日|かようび} に なります。",
+        "english": "Tomorrow will be Tuesday.",
+        "literal": "As for tomorrow, Tuesday will become.",
+        "audio": "あした わ かようび に なります。",
+        "audio_slow": "あした。は。かようび。に。なります。",
+        "breakdown": {
+            "{明日|あした}*0*": "Noun: It means \"tomorrow\".||noun",
+            "は*1*": "Particle: This is the topic marker in Japanese, marking \"{明日|あした}\", or \"tomorrow\", as the topic of the sentence.||particle",
+            "{火曜日|かようび}*2*": "Noun: It means \"Tuesday\".||noun",
+            "に*3*": "Particle: This is a target particle, indicating the direction or goal of an action, in this case, \"becomes\".||particle",
+            "なります*4*": "Verb (naru verb): This is the polite form of the verb \"なる\" (naru) which means \"to become\". In this sentence, it is used to express that tomorrow will \"become\" or \"be\" Tuesday.||verb"
+        },
+        "lesson": "1. In Japanese, time and date are often the topics of the sentence, marked by the particle は. \n\n2. The verb \"なる\" is commonly used to describe something becoming something else. In this case, \"tomorrow\" is becoming \"Tuesday\". \n\n3. Notice that verbs in Japanese go at the end of the sentence, unlike in English.\n\n4. Days of the week in Japanese are nouns formed by a combination of the elements of nature (sun, moon, fire, water, wood, metal, earth) and {曜日|ようび}, meaning \"day of the week\". Fire is used for Tuesday, thus {火曜日|かようび} (kayōbi)."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {来年|らいねん} {教师|きょうし} に なります。",
+        "english": "He will become a teacher next year.",
+        "literal": "As for him, next year teacher will become.",
+        "audio": "かれ わ らいねん きょうし に なります。",
+        "audio_slow": "かれ。は。らいねん。きょうし。に。なります。",
+        "breakdown": {
+            "{彼|かれ}*0*": "Pronoun: This word means \"he.\" In this case, it's the subject of the sentence.||pronoun",
+            "は*1*": "Particle: This is the topic marker. It signifies what the rest of the sentence will be about, which is \"{彼|かれ}\" (he).||particle",
+            "{来年|らいねん}*2*": "Noun: This means \"next year.\" It's providing the time frame in which the action (becoming a teacher) will take place.||noun",
+            "{教師|きょうし}*3*": "Noun: This word means \"teacher.\" This is the role that \"{彼|かれ}\" (he) is expected to take on.||noun",
+            "に*4*": "Particle: This is the target/direction marker. In this context, it's used to mark the role or status that someone or something will become. \"{彼|かれ}\" (he) will become \"{教師|きょうし}\" (a teacher).||particle",
+            "なります*5*": "Verb (Naru verb): This is the polite future form of the verb \"naru,\" which means \"to become.\" In this case, it's used to express what \"{彼|かれ}\" (he) will become in the future.||verb"
+        },
+        "lesson": "In this sentence, you can see how the verb \"naru\" (to become) is used in conjunction with the particle \"に\" to express the idea of becoming something. This is a common usage you'll see quite often in Japanese. Also note the usage of \"は\" to denote the topic of the sentence. Unlike in English, where the subject is often the focus, in Japanese, sentences are often constructed around a topic, which may or may not be the subject itself."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {人|ひと} は {来月|らいげつ} {警察官|けいさつかん} に なります。",
+        "english": "That person will become a police officer next month.",
+        "literal": "As for that person, next month police officer will become.",
+        "audio": "その ひと わ らいげつ けいさつかん に なります。",
+        "audio_slow": "その。ひと。は。らいげつ。けいさつかん。に。なります。",
+        "breakdown": {
+            "その*0*": "Demonstrative pronoun: This word translates to \"that\" in English. It is used here to refer to a specific person previously mentioned or known to the speaker and listener.||pronoun",
+            "{人|ひと}*1*": "Noun: This word translates to \"person\" in English. Combined with \"その\", it refers to \"that person\".||noun",
+            "は*2*": "Particle: This is the topic marker in Japanese. It is used here to set \"その{人|ひと}\" (\"that person\") as the topic of the sentence.||particle",
+            "{来月|らいげつ}*3*": "Noun: This translates to \"next month\" in English.||noun",
+            "{警察官|けいさつかん}*4*": "Noun: This translates to \"police officer\" in English.||noun",
+            "に*5*": "Particle: In this context, this particle is used to indicate a resulting state or condition. It is similar to the English word \"to\". The person is going to become \"to\" a police officer.||particle",
+            "なります*6*": "Verb: This is the future tense form of the verb \"なる\", which translates to \"become\" in English. This indicates an action that will take place in the future. In this case, it means the person will \"become\" a police officer.||verb"
+        },
+        "lesson": "This sentence presents a basic structure of a future tense sentence in Japanese. The structure is: [Subject] は [Time Reference] [Resulting State] に [Verb indicating change]. It's important to note that the verb \"なる\" (to become) is used with the particle \"に\" to indicate the resulting state of something or someone in the future."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{東京|とうきょう} は {来年|らいねん} {更|さら}に {大|おお}きな {都市|とし} に なります。",
+        "english": "Tokyo will become an even bigger city next year.",
+        "literal": "As for Tokyo, next year even bigger city will become.",
+        "audio": "とうきょう わ らいねん さらに おおきな とし に なります。",
+        "audio_slow": "とうきょう。は。らいねん。さらに。おおきな。とし。に。なります。",
+        "breakdown": {
+            "{東京|とうきょう}*0*": "Noun: This is the name of Japan's capital city, Tokyo.||noun",
+            "は*1*": "Particle: This is the topic marker in Japanese. It indicates the topic of the sentence, which in this case is \"Tokyo\".||particle",
+            "{来年|らいねん}*2*": "Noun: This word means \"next year\".||noun",
+            "{更|さら}に*3*": "Adverb: This word is used to mean \"even more\" or \"further\". It emphasizes the adjective that follows it, which in this case is \"{大|おお}きな\".||adverb",
+            "{大|おお}きな*4*": "Adjective: This is a prenominal adjective (na-adjective), which means it always comes before a noun. It translates to \"big\" or \"large\" in English. In this sentence, it is describing \"{都市|とし}\" (city).||adjective",
+            "{都市|とし}*5*": "Noun: This word means \"city\".||noun",
+            "に*6*": "Particle: This is the direction/target marker. In this case, it marks the result of the change or transformation.||particle",
+            "なります*7*": "Verb: This is the polite form of \"なる\" (to become). It is a godan verb.||verb"
+        },
+        "lesson": "This sentence provides a good example of how to express a change or transformation in Japanese using the verb なる (to become). Also note how the particle に is used to mark the result of the transformation (in this case, \"{大|おお}きな{都市|とし}\" or \"big city\"). The word \"{更|さら}に\" is a useful adverb for emphasizing an adjective, similar to \"even more\" in English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {明日|あした} {俺|おれ} の {車|くるま} に なります。",
+        "english": "That will become my car tomorrow.",
+        "literal": "As for that, tomorrow my car will become.",
+        "audio": "それ わ あした おれ の くるま に なります。",
+        "audio_slow": "それ。は。あした。おれ。の。くるま。に。なります。",
+        "breakdown": {
+            "それ*0*": "Pronoun: \"That\". It is the topic of the sentence, marked by the particle は.||pronoun",
+            "は*1*": "Particle: The topic marker. It denotes the topic of the sentence, which is \"それ\" (that).||particle",
+            "{明日|あした}*2*": "Noun: \"Tomorrow\". This specifies when the action will occur.||noun",
+            "{俺|おれ}*3*": "Pronoun: \"I\" or \"me\", but in a rough, masculine speech. This pronoun is typically used by males in informal contexts.||pronoun",
+            "の*4*": "Particle: The possessive particle. It indicates that the noun that follows it (\"{車|くるま}\") belongs to or is associated with the noun that precedes it (\"{俺|おれ}\").||particle",
+            "{車|くるま}*5*": "Noun: \"Car\". This is what will become the possession of \"{俺|おれ}\" (me) tomorrow.||noun",
+            "に*6*": "Particle: The direction/target particle. In this context, it is used to indicate the result or outcome of a change or transformation.||particle",
+            "なります*7*": "Verb (Naru verb): \"Become\". It is in the polite form here. The verb \"なる\" is often used with \"に\" to express becoming or turning into something.||verb"
+        },
+        "lesson": "In this sentence, we see the use of なります, the polite form of なる, which means \"to become\". Note that when you want to express that something is becoming or will become a certain way, you typically use になる, as in {車|くるま}になります (\"become a car\"). The structure of this sentence can be used to express various types of transformations or changes in state. For example, if you want to say \"I will become a teacher\", you can say {私|わたし}は{先生|せんせい}になります. Also, the use of {俺|おれ} is less formal and is typically used by males in informal settings. The gender and level of politeness of pronouns can vary quite a bit in Japanese, so it's something to pay attention to as you learn."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} の {名前|なまえ} は {来年|らいねん} {佐藤|さとう} に なります。",
+        "english": "My name will become Sato next year.",
+        "literal": "As for my name, next year Sato will become.",
+        "audio": "わたし の なまえ わ らいねん さとう に なります。",
+        "audio_slow": "わたし。の。なまえ。は。らいねん。さとう。に。なります。",
+        "breakdown": {
+            "{私|わたし}*0*": "Pronoun: It translates to \"I\" or \"me\". It is used by the speaker to refer to themselves.||pronoun",
+            "の*1*": "Particle: This is a possessive marker used to indicate a relationship of possession or attribution between two elements. In this case, it links the pronoun \"{私|わたし}\" (I/me) to \"{名前|なまえ}\" (name) to mean \"my name\".||particle",
+            "{名前|なまえ}*2*": "Noun: It translates to \"name\".||noun",
+            "は*3*": "Particle: This is the topic marker. It's used to specify what is being talked about in the sentence. Here, the topic is \"{私|わたし}の{名前|なまえ}\" (my name).||particle",
+            "{来年|らいねん}*4*": "Noun: It translates to \"next year\".||noun",
+            "{佐藤|さとう}*5*": "Noun: \"Sato\" is a common Japanese surname. Here it is the new name that the speaker will have next year.||noun",
+            "に*6*": "Particle: It's a target particle, indicating the direction or goal of an action. In this case, it marks the endpoint of the transformation, i.e., becoming \"Sato\".||particle",
+            "なります*7*": "Verb (naru verb): This is the polite future tense of the verb \"なる\" (to become). It indicates that the action of becoming will occur in the future.||verb"
+        },
+        "lesson": "In this sentence, the speaker is stating that their name will change to Sato next year. This could suggest many different things such as a marriage, adoption, or other event where someone's name might change. The verb なる (to become) is used in future tense, showing that the action will happen in the future. Also, it's worth noting the use of the particle に to indicate the end result of the transformation. This sentence structure can be used to talk about any kind of change that is going to happen in the future."
+    },
+    {
+        "type": "sentence",
+        "japanese": "リンゴ は ジュース に なる。",
+        "english": "Apples become juice.",
+        "literal": "As for apple, juice becomes.",
+        "audio": "リンゴ わ ジュース に なる。",
+        "audio_slow": "リンゴ。は。ジュース。に。なる。",
+        "breakdown": {
+            "リンゴ (ringo)*0*": "Noun: This means \"apple\" in English. It's the subject of this sentence.||noun",
+            "は (wa)*1*": "Particle: This is the topic marker. It is used to indicate the topic of the sentence, which in this case is \"リンゴ\" (apple).||particle",
+            "ジュース (jūsu)*2*": "Noun: This is the Japanese word for \"juice\". It's what the apple is becoming in this sentence.||noun",
+            "に (ni)*3*": "Particle: This particle indicates a direction or goal. In this case, it indicates what the apple is transforming into, which is juice.||particle",
+            "なる (narimasu)*4*": "Verb (naru verb): This means \"to become\". It indicates the transformation of the apple into juice.||verb"
+        },
+        "lesson": "In this sentence, we are seeing the verb \"naru\" (to become) used with the particle \"に\" (ni) to indicate a change of state or transformation. The structure is [noun] は [noun] に なる, which translates to \"[noun] becomes [noun]\". This is a common sentence pattern for expressing change or transformation in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{木|き} は {紙|かみ} に なる。",
+        "english": "The wood becomes paper.",
+        "literal": "As for tree, paper becomes.",
+        "audio": "き わ かみ に なる。",
+        "audio_slow": "き。は。かみ。に。なる。",
+        "breakdown": {
+            "{木|き}*0*": "Noun: This word means \"wood\" or \"tree\". It's the subject of the sentence.||noun",
+            "は*1*": "Particle: This is the topic marker. It indicates the topic of the sentence, which is \"{木|き}\" (wood).||particle",
+            "{紙|かみ}*2*": "Noun: This word means \"paper\". It is what the wood becomes.||noun",
+            "に*3*": "Particle: This is the target particle. It's used to indicate a change in state or transformation. In this sentence, it indicates that the wood is transformed into \"{紙|かみ}\" (paper).||particle",
+            "なる*4*": "Verb (naru verb): This is the verb \"to become\". It expresses a change of state or condition. In this sentence, it tells us that the wood is transformed (becomes) into paper.||verb"
+        },
+        "lesson": "This sentence is a good example of using the verb \"なる\" (to become) to indicate a change in state or condition. When using \"なる\" with a noun, you use the particle \"に\" to show what the subject is changing into. The format is [Subject] は [Object] に なる. For example, \"{私|わたし}は{医者|いしゃ}になる\" (I will become a doctor). This sentence structure is useful for expressing future plans or transformations."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{学生|がくせい} は {先生|せんせい} に なる。",
+        "english": "The student will become a teacher.",
+        "literal": "As for student, teacher becomes.",
+        "audio": "がくせい わ せんせい に なる。",
+        "audio_slow": "がくせい。は。せんせい。に。なる。",
+        "breakdown": {
+            "{学生|がくせい}*0*": "Noun: Student. This is the subject of the sentence.||noun",
+            "は*1*": "Particle: The topic marker. It is used to mark the topic of the sentence, which in this case is \"{学生|がくせい}\" (student).||particle",
+            "{先生|せんせい}*2*": "Noun: Teacher. This is what the student will become.||noun",
+            "に*3*": "Particle: A direction marker. In this case, it is used to indicate transformation or change. It denotes the result or outcome of the change, which here is \"{先生|せんせい}\" (teacher).||particle",
+            "なる*4*": "Verb (Naru verb): This means \"to become\". Here, it denotes the future action of the student becoming a teacher.||verb"
+        },
+        "lesson": "The particle に has many uses in Japanese. In this context, it is used to indicate a change or transformation. The verb なる (to become) is often used with this particle to indicate the result of the change. For instance, {学生|がくせい}は{先生|せんせい}になる (The student will become a teacher). \n\nAlso, notice the use of は as the topic marker. Even though it's pronounced \"ha\", when used as a particle, it's pronounced \"wa\". It is used to set the topic of the sentence. Here, the topic is \"{学生|がくせい}\" (student)."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{朝|あさ} は {昼|ひる} に なる。",
+        "english": "Morning becomes noon.",
+        "literal": "As for morning, noon becomes.",
+        "audio": "あさ わ ひる に なる。",
+        "audio_slow": "あさ。は。ひる。に。なる。",
+        "breakdown": {
+            "{朝|あさ}*0*": "Noun: This is the word for \"morning.\"||noun",
+            "は*1*": "Particle: This is the topic marker, indicating that \"morning\" is the subject of the sentence.||particle",
+            "{昼|ひる}*2*": "Noun: This is the word for \"noon\" or \"daytime.\"||noun",
+            "に*3*": "Particle: This is the destination particle, used to indicate a change in state or place. In this case, it's used to show the change from morning to noon.||particle",
+            "なる*4*": "Verb (Godan verb): This is the present/future verb which means \"to become\" (to become). It's indicating that morning will become (changes into) noon.||verb"
+        },
+        "lesson": "In Japanese, the particle は is often used to indicate the topic of the sentence, which is slightly different from the subject in English. The topic is the thing that the rest of the sentence comments on or describes.\n\nAlso, the particle に is used in a variety of ways. Here, it's used to indicate a change in state (from morning to noon). It's commonly used in a sentence that describes a transformation or a change, paired with the verb なる (to become).\n\nThe verb なる means \"to become\". In Japanese, there are two forms of verbs: plain form and polite form. The polite form is often used in formal settings, or when speaking with someone of higher status. It's a good idea to learn both forms as you'll encounter both in different contexts."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{子供|こども} は {大人|おとな} に なる。",
+        "english": "Children become adults.",
+        "literal": "As for child, adult becomes.",
+        "audio": "こども わ おとな に なる。",
+        "audio_slow": "こども。は。おとな。に。なる。",
+        "breakdown": {
+            "- {子供|こども}*0*": "Noun: The term \"{子供|こども}\" means \"children\". It's the topic of the sentence.||noun",
+            "- は*1*": "Particle: The particle \"は\" is a topic marker, indicating what the sentence is talking about. Here it is marking \"{子供|こども}\" as the topic.||particle",
+            "- {大人|おとな}*2*": "Noun: The term \"{大人|おとな}\" means \"adults\". It's what \"{子供|こども}\" (children) become.||noun",
+            "- に*3*": "Particle: The particle \"に\" is a directional particle, indicating a transformation or a change in state. Here it is showing the change from \"{子供|こども}\" (children) to \"{大人|おとな}\" (adults).||particle",
+            "- なる*4*": "Verb: The term \"なる\" means \"to become\". It's showing the change or transformation that's happening to the \"{子供|こども}\" (children).||verb"
+        },
+        "lesson": "This sentence provides a clear example of the verb \"なる\" (to become). The particle \"に\" is commonly used with \"なる\" to indicate the state or condition that something or someone is becoming. Remember, \"は\" is a topic marker, used to set the subject of the sentence. Also, the structure of this sentence is very common and can be used with different nouns to describe various transformations or changes. For example, {学生|がくせい}は{卒業生|そつぎょうせい}になる (Students become graduates)."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{種|たね} は {花|はな} に なる。",
+        "english": "The seed becomes a flower.",
+        "literal": "As for seed, flower becomes.",
+        "audio": "たね わ はな に なる。",
+        "audio_slow": "たね。は。はな。に。なる。",
+        "breakdown": {
+            "{種|たね}*0*": "Noun: Seed. In this context, it's the subject of the sentence.||noun",
+            "は*1*": "Particle: The topic marker. It designates the previous word, \"{種|たね}\", as the topic of the sentence.||particle",
+            "{花|はな}*2*": "Noun: Flower. In this context, it is what the \"{種|たね}\" becomes.||noun",
+            "に*3*": "Particle: It is often used to indicate a target or a direction. In this sentence, it indicates the end result or state the \"{種|たね}\" will become.||particle",
+            "なる*4*": "Verb (Naru verb): to become. It tells us that the \"{種|たね}\" is changing into the \"{花|はな}\".||verb"
+        },
+        "lesson": "This sentence uses the structure \"[noun1]は[noun2]になる\", which is a common way to express that something (noun1) becomes something else (noun2). Here, the verb \"なる\" (to become) is in its normal, casual form. Notice the use of the particle \"に\" before \"なる\". When used with this verb, it indicates the result or end state of the transformation."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{雨|あめ} は {雪|ゆき} に なる。",
+        "english": "The rain will become snow.",
+        "literal": "As for rain, snow becomes.",
+        "audio": "あめ わ ゆき に なる。",
+        "audio_slow": "あめ。は。ゆき。に。なる。",
+        "breakdown": {
+            "{雨|あめ}*0*": "Rain (Noun): \"{雨|あめ}\" means rain.||noun",
+            "は*1*": "Topic marker (Particle): This particle is used to mark the topic of the sentence. In this case, the topic is \"{雨|あめ}\" (rain).||particle",
+            "{雪|ゆき}*2*": "Snow (Noun): \"{雪|ゆき}\" means snow.||noun",
+            "に*3*": "Direction marker (Particle): This particle can have different uses. In this sentence, it's used to denote transformation or change, indicating what the rain will become.||particle",
+            "なる*4*": "Will become (Verb): This is the future form of the verb \"なる\" (to become). It indicates a change or transformation from one state to another. It is an u-verb or godan verb, which changes its form based on the grammatical situation.||verb"
+        },
+        "lesson": "The sentence provides a basic example of how the particles \"は\" (topic marker) and \"に\" (direction marker) are used in a sentence. The verb \"なる\" (to become) is used here to express the transformation of one state (rain) into another (snow). This is a common verb to know and it's an u-verb (godan verb), which changes its form based on the grammatical situation. The future form \"なる\" is used here to indicate an event that will happen in the future."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{卵|たまご} は {鳥|とり} に なる。",
+        "english": "The egg will become a bird.",
+        "literal": "As for egg, bird becomes.",
+        "audio": "たまご わ とり に なる。",
+        "audio_slow": "たまご。は。とり。に。なる。",
+        "breakdown": {
+            "- {卵|たまご}*0*": "Noun: This is the Japanese word for \"egg\".||noun",
+            "- は*1*": "Particle: Known as the topic marker, this indicates that the sentence's main topic is what comes before it. In this case, the topic is \"{卵|たまご}\" (egg).||particle",
+            "- {鳥|とり}*2*": "Noun: This is the Japanese word for \"bird\".||noun",
+            "- に*3*": "Particle: In this context, it is used as a destination or result particle, marking the result of a transformation. Here, it indicates that the egg ({卵|たまご}) will turn into something else, specifically a bird ({鳥|とり}).||particle",
+            "- なる*4*": "Verb (godan verb): to become. It indicates that something will become or result in something else. Here, it's showing that the egg ({卵|たまご}) will become a bird ({鳥|とり}).||verb"
+        },
+        "lesson": "In Japanese, particles are used to show the relationship between words and how they function in a sentence. Here, the \"は\" particle is used to indicate the topic of the sentence, and the \"に\" particle is showing the end result of a transformation. \n\nThe verb \"なる\" (to become) is used to describe a change or transformation. It indicates future action - in this case, that the egg will become a bird. Notice that the future tense in Japanese can be quite straightforward, especially compared to some languages that require a more complex structure to express the future tense."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{水|みず} は {氷|こおり} に なる。",
+        "english": "Water becomes ice.",
+        "literal": "As for water, ice becomes.",
+        "audio": "みず わ こおり に なる。",
+        "audio_slow": "みず。は。こおり。に。なる。",
+        "breakdown": {
+            "{水|みず}*0*": "Noun: Water.||noun",
+            "は*1*": "Particle: This particle is used to mark the topic of a sentence. In this case, the topic is \"{水|みず}\" (water).||particle",
+            "{氷|こおり}*2*": "Noun: Ice.||noun",
+            "に*3*": "Particle: This particle is used to indicate a direction, goal, or target. Here, it indicates the transformation destination, which is \"{氷|こおり}\" (ice).||particle",
+            "なる*4*": "Verb (Naru verb): This is the non-past verb that means \"to become\".||verb"
+        },
+        "lesson": "This sentence provides an example of a transformation, showing the change from water to ice. In Japanese, the verb なる is used to express the concept of \"becoming\". In this case, water \"becomes\" ice. The particle に is used to show the end state or goal of a transformation. \n\nAlso, the particle は is a topic marker, used to indicate the main subject of the sentence. Here it is marking {氷|こおり}, water, as the topic. \n\nIn Japanese, verbs typically come at the end of the sentence. This is one of the fundamental differences between Japanese and English sentence structures."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{昼|ひる} は {夜|よる} に なる。",
+        "english": "Day becomes night.",
+        "literal": "As for day, night becomes.",
+        "audio": "ひる わ よる に なる。",
+        "audio_slow": "ひる。は。よる。に。なる。",
+        "breakdown": {
+            "{昼|ひる}*0*": "Noun: It means \"day\" or \"daytime.\"||noun",
+            "は*1*": "Particle: This is the topic marker, which is used to indicate the topic of the sentence. Here, it indicates that \"{昼|ひる}\" or \"day\" is the topic.||particle",
+            "{夜|よる}*2*": "Noun: It means \"night.\"||noun",
+            "に*3*": "Particle: This is the target or direction marker. In this sentence, it is used to indicate the direction or end result of the transformation.||particle",
+            "なる*4*": "Verb (Naru verb): This is verb that means (to become). It shows transformation or change. In this sentence, it's used to indicate the transformation from \"{昼|ひる}\" (day) to \"{夜|よる}\" (night).||verb"
+        },
+        "lesson": "This sentence is a great example of how the verb \"なる\" is used to show transformation or change. Note the usage of the particles \"は\" and \"に\". The particle \"は\" generally points to the topic of the sentence - in this case, \"{昼|ひる}\" or \"day\". The particle \"に\" indicates the direction or end result of the transformation in this context, but keep in mind that \"に\" has various other uses depending on the context."
+    }
+]

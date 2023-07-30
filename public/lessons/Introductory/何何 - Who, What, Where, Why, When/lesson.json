@@ -1,0 +1,897 @@
+[
+    {
+        "type": "information",
+        "content": "## Lesson Overview: {何|なに}  \n  \nIn this lesson, we will delve into the Japanese word {何|なに} and its usage. You will learn the difference between {何|なに} and {何|なん} as well as understand situations where you can't use {何|なに} after \"は\".  \n  \n### Introduction  \n  \n{何|なに} is a Japanese word which is used to mean \"what\". It is one of the first words one learns when studying Japanese. However, depending on the context, the pronunciation of {何|なに} can change.  \n  \n### Difference between {何|なに} and {何|なん}  \n  \n{何|なに} and {何|なん} have the same meaning but are used differently depending on the grammatical situation:  \n  \n- {何|なに} is generally used at the end of a sentence or just before a noun with no counter. For example:   \n    - これは{何|なに}ですか？ (What is this?)  \n    - {何|なに}が{好|す}きですか？ (What do you like?)  \n  \n- {何|なん} is generally used before counters and the question word ですか. For example:  \n    - {何|なん}{時|じ}に{行|い}きますか？ (What time will you go?)  \n    - {何|なん}{人|り}いますか？ (How many people are there?)  \n  \n### {何|なに} can't come after \"は\"  \n  \nOne important point to remember is that {何|なに} cannot directly follow the topic particle \"は\". In this case, the \"は\" would need to be replaced by \"が\". For example:  \n  \n- Correct: {何|なん}が{好|す}きですか？ (What it is that you like?)  \n- Incorrect: {何|なん}は{好|す}きですか？  (Speaking of what, you like?)  \n  \nThis rule, however, is not limited to {何|なに} alone, and applies to other interrogative words like \"{誰|だれ}\" (who), \"どこ\" (where), and \"いつ\" (when).   \n  \n- {誰|だれ} (Who)  \n- どこ (Where)  \n- いつ (When)  \n  \nThese rules might seem tricky at first, but with enough practice, they will start to feel more natural.  \n  \n## Examples  \n  \n1. あなたの{名前|なまえ}は{何|なん}ですか？ - What is your name?  \n2. あれは{何|なに}ですか？ - What is that over there?  \n3. {何|なん}{時|じ}に{仕事|しごと}に{行|い}きますか？  \n4. {何|なん}{冊|さつ}の{本|ほん}がありますか？  \n  \nRemember, understanding the difference between {何|なに} and {何|なん}, as well as knowing when not to use {何|なに} after \"は\" can help you sound more natural and proficient in Japanese. Practice as much as possible, and soon these rules will become second nature to you."
+    },
+    {
+        "type": "sentence",
+        "japanese": "それ は {何|なん} です か？",
+        "english": "What is that?",
+        "literal": "That is what?",
+        "audio": "それ わ なん です か？",
+        "audio_slow": "それ。は。なん。です。か？",
+        "breakdown": {
+            "それ*0*": "That (pronoun): This pronoun is used to indicate something or someone that is not close to the speaker, nor to the listener.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of a sentence. In this case, the topic of the sentence is \"それ\" (that).||particle",
+            "{何|なん}*2*": "What (pronoun): This is a pronoun used to ask about something. It is used to inquire about the identity, nature, or value of an object or matter.||pronoun",
+            "です*3*": "Is (copula): This is a copula used to link the subject of a sentence (in this case, \"それ\", that) with the predicate (in this case, \"{何|なに}\", what). It's often used in formal or neutral register and its basic function is to assert the predicate of a sentence.||copula",
+            "か*4*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the verb or verb phrase generally comes at the end of the sentence. This includes copulas like です (is). Also, the subject of the sentence often comes at the beginning. However, unlike in English, the subject can often be omitted if it's clear from the context. In the case of the sentence \"それは{何|なん}ですか？\", the subject isn't stated, but the topic is \"それ\" (that). The sentence is asking about the identity or nature of \"それ\" (that). \n\nThe particle は is a very fundamental part of Japanese sentence structure. It's often translated as \"is\" in English, but it's actually a bit more complex than that. It can be used to mark the topic of the sentence, to contrast two things, or to emphasize the subject or object. \n\nFinally, the particle か turns any sentence into a question. It's similar to the question mark in English, but it's a part of the sentence itself in Japanese. It's often placed at the end of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} が {好|す}き です か？",
+        "english": "What do you like?",
+        "literal": "What is liked?",
+        "audio": "なに が すき です か？",
+        "audio_slow": "なに。が。すき。です。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (pronoun): {何|なに} is a common pronoun used to ask \"what\" in Japanese.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to identify the subject of a sentence. In this case, \"{何|なに}\" (what) is the subject of the sentence.||particle",
+            "{好|す}き*2*": "Liked/like (na-adjective): {好|す}き is a na-adjective that describes something/someone being liked or favored. In Japanese, the concept of \"liking\" is often expressed as a state of being rather than an action, so \"{好|す}き\" is treated like an adjective.||adjective",
+            "です*3*": "Is (copula): This is a copula verb used in Japanese to indicate that something is, or as a way of creating equivalence between two items. In this case, it's making \"{何|なに}\" (what) equivalent to \"{好|す}き\" (liked/like).||copula",
+            "か*4*": "Question marker (particle): This particle is placed at the end of a sentence to turn it into a question.||particle"
+        },
+        "lesson": "This sentence structure is common in Japanese when asking about preferences. Notice that \"が\" is used instead of \"を\". This is because \"{好|す}き\" is not a verb but a na-adjective, and thus \"が\" is the appropriate particle to use. Also, in Japanese, the question word (in this case, \"{何|なに}\") comes first, unlike in English where it typically comes later (\"You like what?\" vs. \"What do you like?\")."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} が {食|た}べたい です か？",
+        "english": "What do you want to eat?",
+        "literal": "What want to eat is it?",
+        "audio": "なに が たべたい です か？",
+        "audio_slow": "なに。が。たべたい。です。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (interrogative pronoun): This is an interrogative pronoun used to ask about things. In this case, it's asking about the thing that the person wants to eat.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence. Here, \"{何|なに}\" (what) is the subject of the action \"{食|た}べたい\" (want to eat).||particle",
+            "{食|た}べたい*2*": "Want to eat (i-adjective verb): This is an i-adjective verb. It is formed by taking the verb \"{食|た}べる\" (to eat) and replacing the \"る\" with \"たい\" to express a desire to perform the action. In this case, it expresses a desire to eat.||adjective",
+            "です*3*": "Is (copula): This is a copula, a kind of word used to link the subject of a sentence with a predicate. In this case, it links \"{何|なに}が{食|た}べたい\" (what is it that want to eat) to an implied subject (you, the listener).||copula",
+            "か*4*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question. It turns \"{何|なに}が{食|た}べたいです\" (what is it that want to eat) into \"{何|なに}が{食|た}べたいですか\" (what is it that you want to eat?).||particle"
+        },
+        "lesson": "The structure of this sentence is a common one for asking what someone wants. The phrase \"Xが{食|た}べたい\" means \"I/you/someone wants to eat X,\" where X is what you want to eat. The \"{何|なに}\" replaces the X to turn it into a question. The verb \"{食|た}べる\" is made into \"{食|た}べたい\" to express wanting to eat. The \"です\" is a formal marker often used in polite speech, and \"か\" turns the sentence into a question."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{今|いま}、 {何|なに} を しています か？",
+        "english": "What are you doing now?",
+        "literal": "Now, what doing?",
+        "audio": "いま なに を しています か？",
+        "audio_slow": "いま。なに。を。しています。か？",
+        "breakdown": {
+            "{今|いま}*0*": "Now (adverb): This is a adverb that signifies the present time or moment. It is often used to inquire about someone's current state or actions.||adverb",
+            "{何|なに}*1*": "What (pronoun): This is a pronoun used to ask about something unspecified. Here, it's being used to ask about the object of the action, i.e., what is being done.||pronoun",
+            "を*2*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"しています\", doing) is \"{何|なに}\" (what).||particle",
+            "しています*3*": "Doing (verb, te-form of する): This is the present progressive form of the verb する (to do), and is used to express ongoing action. The te-form is used with います to create this effect. Here, it is used to ask about the ongoing action of the person being spoken to.||verb",
+            "か*4*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "This sentence is a good example of how to ask a question about someone's current actions in Japanese. The particle を is a crucial part of Japanese grammar, marking the direct object of a verb. Also, the te-form plus います is a common way to express ongoing action, similar to the \"-ing\" form of verbs in English. The sentence ends with か, which marks it as a question, much like a question mark in English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} が {起|お}こりました か？",
+        "english": "What happened?",
+        "literal": "What has happened?",
+        "audio": "なに が おこりました か？",
+        "audio_slow": "なに。が。おこりました。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (pronoun): This is a question word used to ask about an object or event.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to indicate the subject of a sentence or clause. Here, it's marking \"{何|なに}\" (what) as the subject.||particle",
+            "{起|お}こりました*2*": "Happened (verb, -masu form): This is the past tense of the verb {起|お}こる (おこる, to happen). In Japanese, verbs are placed at the end of a sentence or clause.||verb",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to indicate a question.||particle"
+        },
+        "lesson": "In Japanese, the word order is typically Subject-Object-Verb (SOV), which can be different from English's Subject-Verb-Object (SVO) order. Notice how the verb \"{起|お}こりました\" (happened) is at the end of the sentence. This is a characteristic of Japanese syntax.\n\nThe use of the が particle here is also worth noting. While it's often translated as \"but\" in English when used between two clauses, in this context, it marks the subject of the sentence. The が particle often accompanies question words like {何|なに} (what).\n\nAlso, note the usage of the question marker か. Unlike in English, where questions can be identified by their word order and intonation, in Japanese, the か particle is used to clearly mark a sentence as a question. \n\nLastly, the verb {起|お}こる is an u-verb or godan verb. In its past tense form, the \"u\" ending changes to an \"i\" ending, followed by \"ました\" to indicate past tense in a polite form. For godan verbs like this, the last kana will go up the vowel chart from \"u\" to \"i\" before adding \"ました\". For example, \"{起|お}こる\" becomes \"{起|お}こりました\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{私|わたし} は {何|なに} を やっている？",
+        "english": "What am I doing?",
+        "literal": "I what doing is?",
+        "audio": "わたし わ なに を やっている？",
+        "audio_slow": "わたし。は。なに。を。やっている？",
+        "breakdown": {
+            "{私|わたし}*0*": "I (pronoun): This is the first person pronoun \"I\". In Japanese, pronouns are often dropped when the context makes it clear who the subject is, but in this case, it is included for clarity.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. Here, it's showing that \"{私|わたし}\" (I) is the topic.||particle",
+            "{何|なに}*2*": "What (pronoun): This is a question word used to ask about something. In this case, it's asking about the action that the speaker is performing.||pronoun",
+            "を*3*": "Object marker (particle): This particle is used to indicate the direct object of a verb. In this case, the verb is \"やっている\", and the object is \"{何|なに}\" (what), which is the thing that the speaker is doing.||particle",
+            "やっている*4*": "Doing (verb, Te-iru form): This is the Te-iru form of the verb \"やる\", which means \"to do\". The Te-iru form is used to indicate an ongoing action, similar to the English present progressive tense (is doing, are eating, etc.). In this case, \"やっている\" means \"am doing\".||verb"
+        },
+        "lesson": "The sentence \"{私|わたし}は{何|なに}をやっている？\" is a good example of a basic question in Japanese. It contains the essential elements of a sentence: a subject ({私|わたし}), a verb (やっている), and an object ({何|なに}). It also shows the use of particles (は and を) to indicate the function of these elements in the sentence. The word order of Japanese is different from English. Instead of the subject-verb-object order that you would see in English, Japanese typically uses a subject-object-verb order. Also, Japanese questions often end with a verb, unlike in English where they often begin with a verb."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {何|なに} を {飲|の}みます か？",
+        "english": "What will he drink?",
+        "literal": "He what to drink is?",
+        "audio": "かれ わ なに を のみます か？",
+        "audio_slow": "かれ。は。なに。を。のみます。か？",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): This is a common third person singular pronoun referring to a male person. In this context, it is the subject of the sentence.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, it indicates that \"{彼|かれ}\" (he) is the subject that we are talking about.||particle",
+            "{何|なに}*2*": "What (pronoun): This is an interrogative pronoun, used to ask questions. It is asking about the object \"he\" will drink.||pronoun",
+            "を*3*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, it is marking \"{何|なに}\" (what) as the object that the verb \"{飲|の}みます\" (will drink) will act upon.||particle",
+            "{飲|の}みます*4*": "Will drink (verb - masu form): This is the polite future tense of the verb \"{飲|の}む\" (to drink). It indicates an action that will occur. It is an u-verb.||verb",
+            "か*5*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the verb usually comes at the end of the sentence. Also, particles like \"は\" and \"を\" are important in understanding the roles of different words in the sentence. The particle \"は\" is the topic marker and \"を\" is the object marker. When asking questions in Japanese, the question word (like \"{何|なに}\") usually comes before the verb and the sentence ends with a \"か\". The \"ます\" form of a verb is used to make the sentence polite, and when used with the base form of the verb, it indicates future tense. For example, \"{飲|の}みます\" means \"will drink\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} が {欲|ほ}しい です か？",
+        "english": "What do you want?",
+        "literal": "What want is?",
+        "audio": "なに が ほしい です か？",
+        "audio_slow": "なに。が。ほしい。です。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (pronoun): This is a question word used to ask for specific information. In this case, it's asking for the object that is desired.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to identify the subject of the sentence. Here, it is marking \"{何|なに}\" (What) as the subject.||particle",
+            "{欲|ほ}しい*2*": "Want (i-adjective): This is an i-adjective that expresses desire for something. It is used to describe the speaker's or listener's wants. Note that \"{欲|ほ}しい\" is used with the object that one wants.||adjective",
+            "です*3*": "Is (copula): This is the basic copula in Japanese, it's used to link the subject with the predicate of the sentence. Here it's being used to link the subject (What) to the action (want).||copula",
+            "か*4*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it's a question. It turns \"{何|なに}が {欲|ほ}しい です\" (You want what) into \"{何|なに}が {欲|ほ}しい ですか？\" (What do you want?).||particle"
+        },
+        "lesson": "The structure of this sentence is a great example of a basic question in Japanese, where a question word ({何|なに}) is used in conjunction with a verb or adjective ({欲|ほ}しい) and the copula (です). Remember, the question marker \"か\" must be used at the end of the sentence to indicate that it is a question. The subject-marker particle \"が\" is used here because the speaker is asking about a specific, undefined thing—the thing the listener wants.\nThe adjective \"{欲|ほ}しい\" is important to learn, as it's a common way to express desire or want for something. Note that it is an i-adjective, which have their own rules for conjugation and usage."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} が あった ん です か？",
+        "english": "What happened?",
+        "literal": "What happened is it?",
+        "audio": "なに が あった ん です か？",
+        "audio_slow": "なに。が。あった。ん。です。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (pronoun): This is a question word used to ask about something. In this case, it's asking about what happened.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence. Here, \"{何|なに}\" (what) is the subject.||particle",
+            "あった*2*": "Happened (verb, ta-form of an u-verb \"ある\"): This is the past tense of the verb \"ある\" (to happen or to be, inanimate). It indicates that something occurred.||verb",
+            "ん*3*": "Explaining (auxiliary verb): This is a contraction of の which is often used in casual speech to explain or request an explanation. In formal speech or writing, it can be expressed as \"のです\" or \"のだ\".||auxiliary verb",
+            "です*4*": "Is (copula): This is the polite form of the copula verb \"だ\". It does not have a particular meaning but is used to indicate the state of being.||copula",
+            "か*5*": "Question marker (particle): This particle is used at the end of a sentence to indicate a question.||particle"
+        },
+        "lesson": "In Japanese, the order of words in a sentence is often different from English. The sentence structure usually follows the pattern of Subject-Object-Verb, and you can see this structure in this sentence too ({何|なに}-あった). Another point to notice is the use of \"んですか\". This is a very common phrase in Japanese used to ask for explanations or reasons. It's often used in situations where the speaker expects that there is some specific information not yet revealed."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{何|なに} を {食|た}べました か？",
+        "english": "What did you eat?",
+        "literal": "What eat did?",
+        "audio": "なに を たべました か？",
+        "audio_slow": "なに。を。たべました。か？",
+        "breakdown": {
+            "{何|なに}*0*": "What (pronoun): This is a question word used to ask about specific information that the speaker does not know. Here it's asking about the object, or what was eaten.||pronoun",
+            "を*1*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"{食|た}べました\", ate) is \"{何|なに}\" (what). Note that this is different from the topic of the sentence, which is implied to be \"you\" or the person being asked.||particle",
+            "{食|た}べました*2*": "Ate (verb, past tense, ru verb): This is the polite past tense form of the verb \"{食|た}べる\" (to eat). It's used to describe an action that has been completed. In this context, it is inquiring about what the person has already eaten.||verb",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to make it a question. It is used in both formal and informal language.||particle"
+        },
+        "lesson": "In Japanese, the order of the sentence can often be very different from English. The object often comes before the verb, unlike in English where the verb comes before the object. Also, unlike English, the subject is often omitted if it's understood from context. In this sentence, the subject (you, the person being asked the question) is not stated but understood.\n\nThe verb \"{食|た}べる\" is a \"ru\" verb. These verbs are also known as \"ichidan\" verbs. To make the polite past tense form, you simply replace \"る\" with \"ました\". So \"{食|た}べる\" becomes \"{食|た}べました\", which means \"ate\"."
+    },
+    {
+        "type": "information",
+        "content": "## Lesson Overview: なぜ, なんで, and どうして (Why)  \n  \nIn this lesson, we'll learn about the Japanese words for \"why\": なぜ, なんで, and どうして. We'll discuss their usages and nuances to enhance your understanding and expressiveness in the Japanese language.  \n  \nWhen asking the reason or cause for something in Japanese, we can use なぜ, なんで, and どうして. All three words mean \"why\", but they're used in slightly different situations.  \n  \n### なぜ  \n  \nなぜ is often used in formal or written Japanese. It's also commonly used in news broadcasts, articles, and academic discussions. Here's an example:  \n  \n- なぜ{遅|おく}れましたか？ (Why were you late?)  \n  \n### なんで  \n  \nなんで is a more casual form of \"why\" and is frequently used in everyday conversations. However, it can also mean \"how\" in certain contexts, so be careful with its usage. Here's an example:  \n  \n- なんで{学校|がっこう}に{行|い}かなかったの？ (Why didn't you go to school?)  \n  \n### どうして  \n  \nどうして can be used both in formal and casual situations. It's often the go-to choice for learners due to its versatile nature. Here's an example:  \n  \n- どうして{泣|な}いているの？ (Why are you crying?)  \n  \n## Examples  \n  \nNow, let's put these words into practice with some sentences.  \n  \n1. なぜ{日本語|にほんご}を{勉強|べんきょう}していますか？ - Why are you studying Japanese?  \n2. なんでこのレストランを{選|えら}んだの？ - Why did you choose this restaurant?  \n3. どうして{空|そら}は{青|あお}いの？ - Why is the sky blue?  \n  \nUnderstanding the nuances between なぜ, なんで, and どうして can help you to better express and comprehend the reason behind things in Japanese. Remember to keep practicing and experimenting with these words in different contexts to improve your fluency. Happy learning!  \n  \n---  \n  \nI hope this meets your needs! Please let me know if there's anything else you'd like included or explained in a different way!"
+    },
+    {
+        "type": "sentence",
+        "japanese": "なんで？",
+        "english": "Why?",
+        "literal": "Why?",
+        "audio": "なんで？",
+        "audio_slow": "なんで？",
+        "breakdown": {
+            "なんで*0*": "Why (adverb): This adverb is often used in spoken Japanese to ask the reason or cause for something. It can be roughly translated as \"for what reason\" or \"why\". The term is informal and more casual than なぜ or どうして, which also mean \"why\".||adverb"
+        },
+        "lesson": "There are a few ways to say \"why\" in Japanese, each with a slightly different nuance:\n\n1. なぜ: This is a more formal or literary way of saying \"why\". You might find it in written texts or formal speeches.\n2. どうして: This is the standard way of saying \"why\", and it can be used in both formal and informal contexts.\n3. なんで: This is a more casual or informal way of saying \"why\", often used in spoken Japanese.\n\nEach can be used in most situations, but the level of formality and context may dictate which one you choose."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なぜ です か？",
+        "english": "Why is it?",
+        "literal": "Why is?",
+        "audio": "なぜ です か？",
+        "audio_slow": "なぜ。です。か？",
+        "breakdown": {
+            "なぜ*0*": "Why (Adverb): This word is used to ask the reason or cause of something. It's an adverb that modifies the verb. In this case, the verb is \"です\".||adverb",
+            "です*1*": "is (Copula): This is the polite form of the copula \"だ\". A copula is a word used to link the subject of a sentence with a predicate. It is similar to the English word \"is\".||copula",
+            "か*2*": "(Particle): This is the question marking particle. In Japanese, questions are often formed by adding \"か\" at the end of the sentence. It is similar to the question mark in English.||particle"
+        },
+        "lesson": "In Japanese, the verb typically comes at the end of the sentence. In this case, \"です\" is the verb and it comes at the end, after \"なぜ\". Also, when forming questions in Japanese, \"か\" is added at the end. This structure is different from English, where we typically start questions with words like \"why\", \"what\", \"where\", etc. Understanding this difference in structure is key to understanding and forming Japanese sentences. Additionally, note the lack of a subject in this sentence. Japanese often omits subjects when they're understood from context, another key difference from English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どうした の？",
+        "english": "What's wrong?",
+        "literal": "What happened?",
+        "audio": "どうした の？",
+        "audio_slow": "どうした。の？",
+        "breakdown": {
+            "どうした*0*": "What happened (verb, u-verb): This is the past tense of the verb \"する\" (to do) with \"どう\" (how), which in this context, translates to \"What happened\". This is an informal question about the state or condition of someone or something.||verb",
+            "の*1*": "(particle, explanatory tone): The の particle is used to add an explanatory tone or to ask for explanation in this context. It is often translated as \"What's up with...?\" or \"What's wrong with...?\"||particle"
+        },
+        "lesson": "The word \"どうした\" is a common phrase used to inquire about a problem or issue that someone appears to be having. It's a good phrase to remember as it can be used in many situations. Additionally, the の particle can be used to add an explanatory tone or ask for an explanation. It is not always translated directly into English but affects the tone and nuance of the sentence. When の is used at the end of a sentence, it often creates a more casual, conversational feel."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なぜ {彼|かれ} は {遅|おく}れました か？",
+        "english": "Why was he late?",
+        "literal": "Why he late was?",
+        "audio": "なぜ かれ わ おくれました か？",
+        "audio_slow": "なぜ。かれ。は。おくれました。か？",
+        "breakdown": {
+            "なぜ*0*": "Why (interjection): This is an interjection that is used to ask the reason for something. In this case, it is asking the reason for \"{彼|かれ}\" (he) being \"{遅|おく}れました\" (late).||interjection",
+            "{彼|かれ}*1*": "He (pronoun): This is a pronoun that is used to refer to a male individual. In this context, it is referring to the person who was late.||pronoun",
+            "は*2*": "Topic marker (particle): This is a particle used to denote the topic of a sentence. Here, the topic of the sentence is \"{彼|かれ}\" (he), and we are discussing something about him - namely, why he was late.||particle",
+            "{遅|おく}れました*3*": "Was late (verb, past tense ru-verb): This is the past tense of the verb {遅|おく}れる (okureru), which means \"to be late\". The ます (masu) ending indicates politeness, and the た (ta) ending indicates that it is past tense. Thus, {遅|おく}れました (okuremashita) means \"was late\".||verb",
+            "か*4*": "Question marker (particle): This is a particle used at the end of a sentence to indicate that it is a question. In English, we would generally indicate this with a change in tone or with a question mark at the end of the sentence. In Japanese, the particle か (ka) is used to explicitly mark a question.||particle"
+        },
+        "lesson": "This sentence is a good example of a basic Japanese question structure. In English, we often change the order of words to form a question, such as changing \"He was late\" to \"Was he late?\" In Japanese, however, the word order remains the same, and a question marker (か) is simply added to the end of the sentence. This makes forming questions in Japanese quite straightforward once you know the structure."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どうして その {本|ほん} を {読|よ}んで います か？",
+        "english": "Why are you reading that book?",
+        "literal": "Why that book reading are?",
+        "audio": "どうして その ほん を よんで います か？",
+        "audio_slow": "どうして。その。ほん。を。よんで。います。か？",
+        "breakdown": {
+            "どうして*0*": "Why (adverb): This word is used to ask the reason for something. In this sentence, it's asking for the reason why the action (reading the book) is happening.||adverb",
+            "その*1*": "That (pronoun): This is a demonstrative pronoun used to indicate something that is close to the listener but away from the speaker. Here, it's referring to \"{本|ほん}\" (book).||pronoun",
+            "{本|ほん}*2*": "Book (noun): This is the object that's being read.||noun",
+            "を*3*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this sentence, the object of the action (which is \"{読|よ}んでいます\", reading) is \"その{本|ほん}\" (that book).||particle",
+            "{読|よ}んで*4*": "Read (verb, te-form of the verb {読|よ}む): This is the action that's happening. The te-form is used to indicate an ongoing action or a sequence of actions.||verb",
+            "います*5*": "To exist, to be (auxiliary verb): In this context, it's used after the te-form of a verb to indicate an ongoing action. Here it indicates that the action of reading is currently happening.||auxiliary verb",
+            "か*6*": "Question marker (particle): This particle is placed at the end of a sentence to turn it into a question.||particle"
+        },
+        "lesson": "In Japanese, the verb comes at the end of the sentence. Also, the word order can often be flexible as long as the verb is at the end. This sentence structure, while different from English, is a fundamental aspect of Japanese grammar. Additionally, using います after the te-form of a verb is a common way to express that an action is ongoing, similar to the \"-ing\" form of verbs in English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どうして なん です か？",
+        "english": "Why is that?",
+        "literal": "Why what is?",
+        "audio": "どうして なん です か？",
+        "audio_slow": "どうして。なん。です。か？",
+        "breakdown": {
+            "どうして*0*": "Why (adverb): This adverb is used to inquire about the reason or cause for something. It's similar to the English word \"why.\"||adverb",
+            "なん*1*": "What (pronoun): This is a common interrogative pronoun which means \"what\". In this context, it's used to refer to an unspecified or unidentified thing or event that has been brought up in the conversation.||pronoun",
+            "です*2*": "Is (copula): This is the polite form of the copula verb \"to be\". In Japanese, it is used to indicate the state of being or equivalence.||copula",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to denote that it's a question. It's equivalent to the question mark in English.||particle"
+        },
+        "lesson": "This sentence is a good example of a question in Japanese, which are often formed by simply adding the question marker \"か\" at the end. The copula \"です\" is frequently used in polite speech to indicate states of being or equivalence, similar to the English verb \"is\". When asking for a reason or cause, どうして can be used, which translates to \"why\" in English. Moreover, \"なん\" is a versatile word that usually means \"what\", but in some contexts it can be used as a placeholder for an unidentified object or event that's been mentioned in the conversation."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なんで だった の？",
+        "english": "Why was it like that?",
+        "literal": "Why was it?",
+        "audio": "なんで だった の？",
+        "audio_slow": "なんで。だった。の？",
+        "breakdown": {
+            "なんで*0*": "Why (adverb): This word is a colloquial contraction of {何|なん}, meaning \"why\" or \"how\". It's typically used in casual conversations. It's asking the reason or cause for something.||adverb",
+            "だった*1*": "Was (auxiliary verb): This is the past tense of the copula だ (is). It's used to express that something was a certain way in the past.||auxiliary verb",
+            "の*2*": "Explaining (particle): This is a sentence-ending particle that is often used to seek explanation or clarification. It turns the statement into a question.||particle"
+        },
+        "lesson": "In Japanese, you can make a sentence into a question by adding a question marker at the end, like か. However, in more casual conversation, の can be used as an explanatory tone particle at the end of sentences to seek explanation or make the sentence sound softer or more polite. The word なんで is casual and is often used in everyday conversation to ask \"why\" or \"how\". The past tense of the copula verb だ is だった, and it can be used to express that something was a certain way in the past. This sentence could be used to ask about the reason or cause for a past event or situation."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なぜ この {本|ほん} を {読|よ}みました か？",
+        "english": "Why did you read this book?",
+        "literal": "Why this book read did?",
+        "audio": "なぜ この ほん を よみました か？",
+        "audio_slow": "なぜ。この。ほん。を。よみました。か？",
+        "breakdown": {
+            "なぜ*0*": "Why (Adverb): It's used to ask the reason for something.||adverb",
+            "この*1*": "This (Demonstrative adjective): Refers to a specific item close to the speaker. In this sentence, it is used to specify which book is being talked about.||adjective",
+            "{本|ほん}*2*": "Book (Noun): It's the object that the action (reading) was performed on.||noun",
+            "を*3*": "Object marker (Particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"{読|よ}みました\", read) is \"この{本|ほん}\" (this book).||particle",
+            "{読|よ}みました*4*": "Read (Verb, -masu form): This is the past tense form of the verb {読|よ}む(yomu). \"-ました\" is used to indicate the past tense in formal speech.||verb",
+            "か*5*": "Question marker (Particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the subject of a sentence can often be omitted if it is understood from context. In this case, the \"you\" is implied but not directly stated. This is common in conversation and less formal writing. Additionally, note that the verb typically comes at the end of the sentence in Japanese, which is different from the Subject-Verb-Object (SVO) sentence structure commonly used in English. Finally, the \"-ました\" ending on the verb indicates that the sentence is in the past tense and is also polite, suitable for talking to strangers, people older than you, or in any situation where politeness is required."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どうして {彼女|かのじょ} は そんなに {速|はや}く {走|はし}りました か？",
+        "english": "Why did she run so fast?",
+        "literal": "Why she is so fast ran?",
+        "audio": "どうして かのじょ わ そんなに はやく はしりました か？",
+        "audio_slow": "どうして。かのじょ。は。そんなに。はやく。はしりました。か？",
+        "breakdown": {
+            "どうして*0*": "Why (adverb): It is an interrogative adverb used to ask the reason or cause of something.||adverb",
+            "{彼女|かのじょ}*1*": "She (pronoun): This word is used to refer to a female third person. In this sentence, it refers to the subject who did the action of running.||pronoun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic of the sentence is \"{彼女|かのじょ}\" (she).||particle",
+            "そんなに*3*": "So (adverb): This word is used to emphasize the extent or degree of something. Here, it's being used to emphasize how fast the subject was running.||adverb",
+            "{速|はや}く*4*": "Fast (adverb): This word describes how the action of running was done. It is the adverbial form of the adjective {速|はや}い (fast).||adverb",
+            "{走|はし}りました*5*": "Ran (verb, Godan verb): This is the past tense of the verb \"{走|はし}る\" (to run). It describes the action that \"{彼女|かのじょ}\" (she) did.||verb",
+            "か*6*": "Question marker (particle): This particle is placed at the end of the sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "This sentence structure is very common in Japanese and includes several fundamental elements: an interrogative word (どうして), a subject ({彼女|かのじょ}), a topic marker (は), an adverb (そんなに), another adverb derived from an adjective ({速|はや}く), a verb in past tense ({走|はし}りました), and a question marker (か). \n\nThe way adjectives turn into adverbs in Japanese is something to take note of. In this case, the \"い\" at the end of {速|はや}い (fast) is replaced with \"く\" to form the adverb {速|はや}く (fast). This rule applies to all \"い\" adjectives. \n\nAdditionally, you might notice that Japanese verbs, such as \"{走|はし}りました\", include tense within the verb itself rather than requiring an additional helper verb as in English. In this case, \"{走|はし}りました\" is the past tense form of \"{走|はし}る\" - indicating the action was completed in the past. This is a feature of Godan verbs, one of the two main categories of verbs in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なぜ {食|た}べます か？",
+        "english": "Why do you eat?",
+        "literal": "Why eat is?",
+        "audio": "なぜ たべます か？",
+        "audio_slow": "なぜ。たべます。か？",
+        "breakdown": {
+            "なぜ*0*": "Why (Adverb): This is a basic adverb that asks the reason for something. Here it's used to ask the reason for the action, which is \"{食|た}べます\".||adverb",
+            "{食|た}べます*1*": "eat (Verb, ru-verb): This is the polite present/future tense form of the verb {食|た}べる (to eat). In the sentence, it denotes the action being asked about.||verb",
+            "か*2*": "question marker (Particle): This particle is used at the end of a sentence to indicate a question. It turns \"{食|た}べます\" (eat) into \"{食|た}べますか\" (Do you eat?).||particle"
+        },
+        "lesson": "In Japanese, question sentences can often be formed by simply adding the particle \"か\" at the end of a statement. In this case, \"{食|た}べます\" (eat) becomes \"{食|た}べますか\" (Do you eat?). Also, the word \"なぜ\" is a common adverb used to ask \"why\". It's often placed at the start of the sentence in Japanese. Lastly, \"{食|た}べます\" is a ru-verb, which are verbs that in their dictionary form end in \"-る\". They are called ru-verbs because this \"る\" ending can be replaced with other endings to change the verb's tense or politeness level."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なんで {行|い}く の？",
+        "english": "Why are you going?",
+        "literal": "Why go?",
+        "audio": "なんで いく の？",
+        "audio_slow": "なんで。いく。の？",
+        "breakdown": {
+            "なんで*0*": "Why (adverb): なんで can be used to ask why something is the case or why someone does something.||adverb",
+            "{行|い}く*1*": "to go (godan verb): This is the dictionary form of the verb \"to go\". It can be used in many contexts, and in this case, it's used to ask why someone is going somewhere.||verb",
+            "の*2*": "nominalizer/question particle (particle): This particle has multiple uses, but in this sentence it's used as a nominalizer that turns the verb \"{行|い}く\" into a noun phrase, and then as a question particle to make the sentence into a question. It softens the tone of the question, making it more colloquial and informal.||particle"
+        },
+        "lesson": "In Japanese, question words (like なんで) generally come at the beginning of the sentence, unlike English where they can be placed in the middle or end. The の particle at the end of a sentence can often indicate that it's a question, especially in informal speech. When の is used at the end of a sentence after a verb, it can turn the statement into a question. It's a useful pattern to recognize for asking questions in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "なぜ あの {犬|いぬ} が {吠|ほ}えている の？",
+        "english": "Why is that dog barking?",
+        "literal": "Why that dog is barking?",
+        "audio": "なぜ あの いぬ が ほえている の？",
+        "audio_slow": "なぜ。あの。いぬ。が。ほえている。の？",
+        "breakdown": {
+            "なぜ*0*": "Why (adverb): This is an adverb used to ask about the reason or cause of something.||adverb",
+            "あの*1*": "That (demonstrative adjective): It's a demonstrative adjective (also called a \"distal demonstrative\") that indicates something far from both the speaker and listener. It's used here to describe \"{犬|いぬ}\" (dog).||adjective",
+            "{犬|いぬ}*2*": "Dog (noun): This is a noun meaning \"dog\". The furigana shows how the kanji is pronounced.||noun",
+            "が*3*": "Subject marker (particle): This is a particle that is used to mark the subject of a sentence. In this case, the subject of the action (which is \"{吠|ほ}えている\", barking) is \"{犬|いぬ}\" (dog).||particle",
+            "{吠|ほ}えている*4*": "Barking (verb, Te-iru form): This is the Te-iru form of the verb \"{吠|ほ}える\" which means \"to bark\". The Te-iru form is used to indicate a continuous or ongoing action. Here it means the dog is currently barking.||verb",
+            "の*5*": "Explanation (particle): This particle is often used at the end of a sentence to turn it into a question. It is also used to make explanations or to ask for them. Here it's used to ask why the dog is barking.||particle"
+        },
+        "lesson": "In Japanese, the verb generally comes at the end of the sentence, unlike in English where it usually comes after the subject. This sentence also showcases the use of the ている form, which is used to express ongoing actions, similar to the English \"-ing\" form of verbs. Furthermore, the の particle at the end turns the statement into a question. Understanding these aspects can significantly improve your sentence construction in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どうして それ が {好|す}き な の？",
+        "english": "Why do you like that?",
+        "literal": "Why that like is?",
+        "audio": "どうして それ が すき な の？",
+        "audio_slow": "どうして。それ。が。すき。な。の？",
+        "breakdown": {
+            "どうして*0*": "Why (adverb): It is a common word used to ask for a reason or cause.||adverb",
+            "それ*1*": "That (pronoun): This is a demonstrative pronoun used to refer to something that's not close to the speaker. It corresponds to \"that\" in English.||pronoun",
+            "が*2*": "Subject marker (particle): The が particle is used to identify the subject of the sentence. Here, \"それ\" (that) is the subject of liking.||particle",
+            "{好|す}き*3*": "Likeable, liked (na-adjective): This is a na-adjective meaning \"liked\" or \"likeable\". Japanese expresses liking something a bit differently than English. Instead of saying \"I like that,\" it's more like \"That is liked (by me).\"||adjective",
+            "な*4*": "Linking (auxiliary verb): It is used to connect the na-adjective \"{好|す}き\" with the nominalizer \"の\".||auxiliary verb",
+            "の*5*": "Nominalizer (particle): This is a nominalizer that turns the preceding clause into a noun phrase. It can be used to ask for explanations, which is the case here.||particle"
+        },
+        "lesson": "In Japanese, the sentence structure is different than in English, and it often follows the Subject-Object-Verb (SOV) format. Also, when expressing liking something, Japanese treats the liked object as the subject, hence the use of \"が\" particle. Lastly, \"の\" at the end of a sentence can indicate a question seeking explanation or reason, which is different from how questions are formed in English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} は なぜ {早|はや}く {起|お}きました か？",
+        "english": "Why did she get up early?",
+        "literal": "She, why, early, did get up?",
+        "audio": "かのじょ わ なぜ はやく おきました か？",
+        "audio_slow": "かのじょ。は。なぜ。はやく。おきました。か？",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "She (pronoun): This pronoun is used to refer to a female. In this sentence, it is the subject who performed the action of waking up.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic is \"{彼女|かのじょ}\" (she).||particle",
+            "なぜ*2*": "Why (adverb): This adverb is used to ask the reason or purpose for an action. In this sentence, it's used to ask the reason why \"{彼女|かのじょ}\" (she) woke up early.||adverb",
+            "{早|はや}く*3*": "Early (adverb): This is the adverbial form of the adjective \"{早|はや}い\" (early, fast). It's used to describe the way or time the verb (in this case, \"{起|お}きました\") was performed.||adverb",
+            "{起|お}きました*4*": "Woke up (verb, ru-verb): This is the past tense of the verb \"{起|お}きる\" (to wake up). It is a ru-verb, which in this case has been conjugated into the past tense to indicate that the action was completed in the past.||verb",
+            "か*5*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question. It doesn't have a direct equivalent in English but could be thought of as the question mark.||particle"
+        },
+        "lesson": "In Japanese, the verb typically comes at the end of the sentence. Also, the subject of the sentence often comes first, followed by the particle that signifies its role (in this case, the topic marker \"は\"). When asking questions in Japanese, the question word (like \"なぜ\" for why) usually comes before the verb, and the sentence ends with the question marker \"か\". Remember to look for these markers when trying to understand the structure of a Japanese sentence."
+    },
+    {
+        "type": "information",
+        "content": "## Lesson Overview - {誰|だれ} - Who  \n  \nIn this lesson, we will discuss the usage of {誰|だれ}, which means \"who\" in Japanese. We will also examine the usage of particles は and が when used directly after {誰|だれ}.  \n  \n### Introduction  \n  \n{誰|だれ} is a word used to refer to \"who\" in Japanese. It's a common word and one of the first you'll learn when starting to study Japanese.  \n  \n### Usage of {誰|だれ}  \n  \n{誰|だれ} is used to ask about identity in a question, and can be used both in formal and informal contexts.   \n  \nExamples:  \n  \n- {誰|だれ}が{来|き}ましたか？ - Who came?  \n- それは{誰|だれ}のペンですか？ - Whose pen is that?  \n  \n### Using は and が after {誰|だれ}  \n  \nThe choice between using the は and が particles directly after {誰|だれ} can subtly change the nuance of a sentence.  \n  \n- \"が\": When \"が\" follows {誰|だれ}, it is used to ask \"who\" in a general sense, not specifying any known group of people. For example: {誰|だれ}が{好|す}きですか？ - Who do you like?  \n  \n- \"は\": The \"は\" particle is not typically used directly after {誰|だれ}, as it sounds unnatural. This is similar to the rules discussed in the lesson on \"何\". For example, you wouldn't say \"{誰|だれ}は好きですか？\" to ask \"Who do you like?\". The correct way to phrase this would be \"{誰|だれ}が好きですか？\".  \n  \n## Examples  \n  \nNow, let's practice with some sentences.  \n  \n1. {誰|だれ} が それ を {食|た}べましたか？ - Who ate that?  \n2. {誰|だれ} が {彼|かれ} を {知|し}っていますか？ - Who knows him?  \n3. {誰|だれ} の {本|ほん} を {読|よ}みましたか？ - Whose book did you read?"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} です か？",
+        "english": "Who is it?",
+        "literal": "Who is?",
+        "audio": "だれ です か？",
+        "audio_slow": "だれ。です。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a question pronoun used to ask about people's identity.||pronoun",
+            "です*1*": "Is (copula): This is the Japanese copula, which is used in the same way as \"is\" or \"are\" in English.||copula",
+            "か*2*": "(particle): This is the question marker in Japanese. It's used at the end of a sentence to indicate that the sentence is a question.||particle"
+        },
+        "lesson": "This is a simple sentence structure that's quite common in Japanese. It follows the pattern of [Noun/Pronoun] + [Copula] + [Question marker]. A similar sentence could be \"これは{何|なん}ですか？\" meaning \"What is this?\" Practicing with this structure will help you get a feel for forming simple questions in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {来|き}ました か？",
+        "english": "Who came?",
+        "literal": "Who has come?",
+        "audio": "だれ が きました か？",
+        "audio_slow": "だれ。が。きました。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a question pronoun used to inquire about a person's identity. It's similar to the English word \"who\".||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence. In this case, the subject is \"{誰|だれ}\" (who).||particle",
+            "{来|き}ました*2*": "Came (verb, masu past form): This is the past tense form of the verb \"{来|き}る\" (to come). \"{来|き}ます\" is the present-future tense, and adding \"ました\" turns it into past tense. This is a kuru verb, which is one of the two irregular verb types in Japanese.||verb",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "This sentence is an example of a basic question structure in Japanese. It's important to note the usage of \"が\" as the subject marker. In English, we would typically use the word order to distinguish between the subject and the object (as in \"Who came?\" versus \"Came who?\"), but in Japanese, the particles attached to the words indicate their role in the sentence, regardless of the order in which they appear. The past tense is expressed by \"ました\" at the end of the verb \"{来|き}ます\". Lastly, don't forget the question marker \"か\" at the end of a question!"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が います か？",
+        "english": "Who is there?",
+        "literal": "Who is existing?",
+        "audio": "だれ が います か？",
+        "audio_slow": "だれ。が。います。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a pronoun used to ask about the identity of a person.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence, which in this case is \"{誰|だれ}\" (who). In Japanese, the subject often comes before the verb.||particle",
+            "います*2*": "Exist (verb, iru/aru verb): This verb is used to express the existence of a person or animal. It is used in the non-past, polite form here, and it stands at the end of the sentence, as is standard in Japanese sentence structure.||verb",
+            "か*3*": "Question marker (particle): This particle is used at the end of a sentence to indicate a question. It changes the sentence \"{誰|だれ}がいます\" (someone is existing) into a question \"{誰|だれ}がいますか？\" (who is there?).||particle"
+        },
+        "lesson": "In Japanese, the verb typically comes at the end of the sentence. This differs from English where the verb usually comes after the subject. Additionally, questions in Japanese often look quite similar to their declarative (or statement) counterparts, with the question being indicated by the addition of \"か\" at the end. For example, \"{誰|だれ}がいます\" means \"Someone is there,\" but by adding \"か\" at the end, it becomes a question: \"Who is there?\" This is different from English where question words often move to the beginning of the sentence and the sentence structure can change more drastically."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {食|た}べました か？",
+        "english": "Who ate?",
+        "literal": "Who ate?",
+        "audio": "だれ が たべました か？",
+        "audio_slow": "だれ。が。たべました。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): It is used to ask about a person's identity.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence, which is 'who' in this case.||particle",
+            "{食|た}べました*2*": "Ate (verb, -masu form): This is the past tense of the verb {食|た}べる (taberu), which means 'to eat'. The masu form is often used in formal or polite speech.||verb",
+            "か*3*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the verb generally comes at the end of the sentence. Also, Japanese question sentences do not undergo the inversion seen in English (like \"Did you eat?\" instead of \"You did eat?\"). Instead, simply adding the particle 'か' at the end of the sentence forms a question. The verb {食|た}べる (taberu) is an example of a 'ru' verb, also called ichidan verb. When conjugated to the past tense in the masu form, the 'ru' is replaced with 'mashita'."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {手伝|てつだ}いました か？",
+        "english": "Who helped?",
+        "literal": "Who helped?",
+        "audio": "だれ が てつだいました か？",
+        "audio_slow": "だれ。が。てつだいました。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a pronoun used to refer to an unspecified person. In this sentence, it is the subject of the action (which is \"{手伝|てつだ}いました\", helped).||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of a verb. In this case, the subject of the action (which is \"{手伝|てつだ}いました\", helped) is \"{誰|だれ}\" (who).||particle",
+            "{手伝|てつだ}いました*2*": "Helped (verb, U verb): This is the past tense form of the verb \"{手伝|てつだ}う\" (to help). The \"いました\" ending indicates that the action was completed in the past.||verb",
+            "か*3*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "Japanese sentences often use particles like \"が\" to indicate the grammatical role of the words in the sentence. In this case, \"が\" marks \"{誰|だれ}\" as the subject of the action. \n\nAdditionally, the verb generally comes at the end of a sentence in Japanese. In this case, \"{手伝|てつだ}いました\" is placed at the end of the sentence. \n\nAnother important point is that the tense (past, present, future) of a Japanese sentence is determined by the verb at the end of the sentence. Here, \"{手伝|てつだ}いました\" is in the past tense, so the whole sentence is in the past tense.\n\nLastly, when asking questions in Japanese, you can simply add \"か\" at the end of the sentence. This differs from English, where word order often changes in questions."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {行|い}きます か？",
+        "english": "Who is going?",
+        "literal": "Who will go?",
+        "audio": "だれ が いきます か？",
+        "audio_slow": "だれ。が。いきます。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a pronoun used for asking about someone's identity.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence. In this case, the subject of the action (which is \"{行|い}きます\", going) is \"{誰|だれ}\" (who).||particle",
+            "{行|い}きます*2*": "Will go (verb, ichidan verb): This is the polite future tense of the verb \"{行|い}く\" (to go). The \"ます\" ending is used to make the sentence polite.||verb",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "In Japanese, the subject often comes before the verb, unlike English. The \"が\" particle is used to mark the subject of the sentence, and the verb usually comes at the end. The question marker \"か\" is placed at the end of the sentence to indicate it's a question. In this case, \"{誰|だれ}が{行|い}きますか?\" literally translates to \"Who goes?\", which means \"Who is going?\" in more natural English."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {勝|か}ちました か？",
+        "english": "Who won?",
+        "literal": "Who won?",
+        "audio": "だれ が かちました か？",
+        "audio_slow": "だれ。が。かちました。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is an interrogative pronoun used to ask questions about people. In this case, it's asking about who the winner is.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence. In this case, the subject of the action (which is \"{勝|か}ちました\", won) is \"{誰|だれ}\" (who).||particle",
+            "{勝|か}ちました*2*": "Won (verb, past tense, masu verb): This is the past tense of the verb {勝|か}つ (to win). The masu form is commonly used in formal or polite speech.||verb",
+            "か*3*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "In Japanese, questions can be formed by simply adding か at the end of a sentence. There's no need to change the word order as in English. Also, as seen in this sentence, the subject often comes at the beginning of the sentence, which is different from the English sentence structure. Additionally, verbs always come at the end of the sentence in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が ここに います か？",
+        "english": "Who is here?",
+        "literal": "Who here is?",
+        "audio": "だれ が ここに います か？",
+        "audio_slow": "だれ。が。ここに。います。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a question word used to ask who the subject of the sentence is.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to mark the subject of the sentence, which is \"{誰|だれ}\", or \"who\".||particle",
+            "ここに*2*": "Here (adverb): \"ここ\" means \"here\", and \"に\" is a particle indicating a location or direction. In this context, it's showing the location where the state or action is taking place.||adverb",
+            "います*3*": "Is (verb, iru verb): This is a verb that indicates existence or presence for living beings. It's used here to ask if someone is present or exists in a certain location.||verb",
+            "か*4*": "Question marker (particle): This particle is placed at the end of the sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "This sentence is a great example of how Japanese sentence structure can differ from English. While in English we would say \"Who is here?\", in Japanese, the word order is more like \"Who here is?\". In addition, this sentence introduces the concept of \"iru\" (います in its polite form), which is used to express the existence of a living thing at a place. It's counterpart \"aru\" (あります in its polite form) is used for inanimate objects. Both are very important verbs to know in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} が {分|わ}かります か？",
+        "english": "Who understands?",
+        "literal": "Who is it that understands?",
+        "audio": "だれ が わかります か？",
+        "audio_slow": "だれ。が。わかります。か？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a general-purpose pronoun for asking about people. In this case, it is the subject of the sentence.||pronoun",
+            "が*1*": "Subject marker (particle): This particle is used to identify the subject of a sentence or clause. In this case, the subject is \"{誰|だれ}\" (who), and the action related to it is \"{分|わ}かります\" (understands).||particle",
+            "{分|わ}かります*2*": "Understands (verb, ru-verb): This is the polite present/future tense of the verb \"{分|わ}かる\" which means \"to understand\". In this context, it's used in the question \"Who understands?\", asking about the person who comprehends or grasps something.||verb",
+            "か*3*": "Question marker (particle): This particle is used at the end of a sentence to turn it into a question. Here it marks \"{誰|だれ}が{分|わ}かります\" as a question, changing \"Someone understands\" to \"Who understands?\".||particle"
+        },
+        "lesson": "In Japanese, the verb \"understand\" ({分|わ}かる) is used a bit differently than in English. While in English we might say \"I understand it\", in Japanese it would be more natural to say \"It is understood by me\" ({私|わたし}に{分|わ}かる). In this case, however, the subject is \"who\" ({誰|だれ}), hence the structure \"Who understands?\" ({誰|だれ}が{分|わ}かりますか？).\n\nNote that the subject and object of verbs can often be inferred from context in Japanese. In a conversation, if it's clear what topic or object is being discussed, it doesn't need to be mentioned in the sentence."
+    },
+    {
+        "type": "information",
+        "content": "## Lesson Overview - どこ - Where  \n  \nIn this lesson, we will explore the usage of どこ, which translates to \"where\" in English. We'll dive into examples and learn how to correctly use this term in various contexts.  \n  \n### Introduction  \n  \nどこ is the Japanese term for \"where\". It is often used in questions to ask about a location or place.  \n  \n### Usage of どこ  \n  \nどこ is used to ask about the location or position of something. It can be used both in formal and casual contexts.   \n  \nExamples:  \n  \n- どこ に {住|す}んでいますか？ - Where do you live?  \n- ペン は どこ ですか？ - Where is the pen?  \n  \n### Using Particles with どこ  \n  \nIn Japanese, particles often follow どこ to specify the context of \"where\". Here are the common particles used with どこ:  \n  \n- \"に\": Used to indicate a direction or goal. Example: どこ に {行|い}きますか？ - Where are you going?  \n- \"で\": Used to indicate the location where an action takes place. Example: どこ で {会|あ}いますか？ - Where will we meet?  \n  \n## Examples  \n  \nNow, let's practice with some sentences.  \n  \n1. どこ で {昼食|ひるしょく} を {食|た}べますか？ - Where will you have lunch?  \n2. その {本|ほん} は どこ から {来|き}ましたか？ - Where did that book come from?  \n3. {彼|かれ} は どこ に いますか？ - Where is he?"
+    },
+    {
+        "type": "sentence",
+        "japanese": "どこ です か。",
+        "english": "Where is it?",
+        "literal": "Where is?",
+        "audio": "どこ です か。",
+        "audio_slow": "どこ。です。か。",
+        "breakdown": {
+            "どこ*0*": "Where (interrogative pronoun): An interrogative pronoun that is used to ask about the location of something or someone.||pronoun",
+            "です*1*": "Is (copula): This is the polite form of the copula (linking verb) in Japanese, equivalent to \"is\" in English. It's used to equate the subject with the predicate.||copula",
+            "か*2*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "This sentence is an excellent example of a simple Japanese question. The word どこ is one of the interrogative pronouns in Japanese, similar to \"who,\" \"what,\" \"when,\" \"where,\" \"why,\" and \"how\" in English. The particle か is used to indicate a question. When learning Japanese, it's important to remember that questions often end with か, unlike in English where they typically start with the question word. In this sentence, です is a copula, functioning as the linking verb \"is.\" Remember, the verb typically comes at the end of the sentence in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は どこ です か。",
+        "english": "Where is he?",
+        "literal": "He, where is?",
+        "audio": "かれ わ どこ です か。",
+        "audio_slow": "かれ。は。どこ。です。か。",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): This is a third person singular pronoun, similar to \"he\" in English.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic is \"{彼|かれ}\" (he).||particle",
+            "どこ*2*": "Where (interrogative word): This is an interrogative word used to ask about location.||pronoun",
+            "です*3*": "Is (copula): This is a copula, which is used to link the subject and predicate of a sentence. Here it is used to link \"{彼|かれ}\" (he) with the interrogative word \"どこ\" (where).||copula",
+            "か*4*": "Question marker (particle): This particle is placed at the end of the sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "Particles such as は and か are important in Japanese sentence construction. The は particle is used to mark the topic of a sentence, which may be different from the subject (in English, the subject is typically also the topic). The か particle is used at the end of the sentence to indicate that it's a question, even if the sentence doesn't include a traditional question word like \"who\" or \"what\". It is similar to how in English, the tone of voice changes when asking a question, but in Japanese it is explicitly marked with the か particle."
+    },
+    {
+        "type": "sentence",
+        "japanese": "その {本|ほん} は どこ に あります か。",
+        "english": "Where is that book?",
+        "literal": "That book, where is it?",
+        "audio": "その ほん わ どこ に あります か。",
+        "audio_slow": "その。ほん。は。どこ。に。あります。か。",
+        "breakdown": {
+            "その*0*": "That (pronoun): Refers to a specific item or person that is not close to the speaker. In this case, it is referring to \"{本|ほん}\" (book).||pronoun",
+            "{本|ほん}*1*": "Book (noun): This word refers to a book. It's one of the many objects a beginner might commonly talk about.||noun",
+            "は*2*": "Topic marker (particle): This particle is used to denote the topic of the sentence. Here, it tells us that the sentence is about \"その{本|ほん}\" (that book).||particle",
+            "どこ*3*": "Where (interrogative word): This word is used to ask the location of something.||pronoun",
+            "に*4*": "Destination or direction marker (particle): This particle is used to indicate the direction or the destination of an action. Here, it's used to ask where the book is.||particle",
+            "あります*5*": "Exists (verb, godan verb): This is the polite form of the verb \"ある\" (to exist). It is used for inanimate objects, such as \"{本|ほん}\" (book) in this case.||verb",
+            "か*6*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the order of words in a sentence is quite different from English. Japanese follows the Subject-Object-Verb order, as opposed to the Subject-Verb-Object order of English. So in the sentence \"その{本|ほん}はどこにありますか\", \"その{本|ほん}\" (that book) is the subject, \"どこに\" (where) is the object (or more precisely, the location we're inquiring about), and \"ありますか\" (is it) is the verb. Also, note the use of particles \"は\", \"に\", and \"か\" for denoting the topic, destination, and a question, respectively."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} の {家|いえ} は どこ です か。",
+        "english": "Where is her house?",
+        "literal": "Her house where is?",
+        "audio": "かのじょ の いえ わ どこ です か。",
+        "audio_slow": "かのじょ。の。いえ。は。どこ。です。か。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "She (pronoun): This pronoun is used to refer to a female person. It can translate to \"she\" or \"her\" depending on the context.||pronoun",
+            "の*1*": "Possessive marker (particle): The の particle is used to show possession, similar to 's in English. In this case, it's used to indicate that the house belongs to her.||particle",
+            "{家|いえ}*2*": "House (noun): This noun refers to a house or home.||noun",
+            "は*3*": "Topic marker (particle): The は particle is used to denote the topic of the sentence, which is \"her house\" in this case.||particle",
+            "どこ*4*": "Where (interrogative): This word is used to ask the location of something.||pronoun",
+            "です*5*": "Is (copula): This copula is used to denote existence or state. In this sentence, it is used to link the subject \"her house\" with the location being asked about.||copula",
+            "か*6*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "Particles like の and は are critical to understanding the structure of Japanese sentences. The の particle shows possession, much like 's in English, while the は particle denotes the topic of the sentence. Also, questions in Japanese often end with the particle か, which serves a similar role to the question mark in English.\nThe copula です is often used to connect the subject and predicate of a sentence, and can roughly be translated as \"is\" or \"are\" in English. Here, it helps form the question \"Where is her house?\""
+    },
+    {
+        "type": "sentence",
+        "japanese": "{公園|こうえん} は どこ に あります か。",
+        "english": "Where is the park?",
+        "literal": "Park, where exists, is?",
+        "audio": "こうえん わ どこ に あります か。",
+        "audio_slow": "こうえん。は。どこ。に。あります。か。",
+        "breakdown": {
+            "{公園|こうえん}*0*": "Park (noun): This is a common noun for \"park\". In Japanese, the subject of the sentence is often indicated by the particle は, but here it is more like the topic of the sentence, the thing we're talking about.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. The topic is the overall subject of the sentence, which can be the thing doing the action, or the thing that the rest of the sentence describes or comments on.||particle",
+            "どこ*2*": "Where (interrogative word): An interrogative word used to ask about location.||pronoun",
+            "に*3*": "Direction/destination marker (particle): This particle is used to indicate a direction or a destination. In this context, it indicates the location of existence.||particle",
+            "あります*4*": "Exists (verb, ru-verb): This is a verb that's used to express the existence of an inanimate object or non-living thing. It's the polite form.||verb",
+            "か*5*": "Question marker (particle): This particle is used at the end of the sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, sentences often omit the subject, especially when it's clear from context. This is one of the key differences between English and Japanese sentence structure. Here, the subject of the sentence is not explicitly stated, because it's clear from the context that the speaker is asking about the location of the park.\n\nAnother key point to note is the use of the verb あります. This verb is used to indicate the existence of inanimate or non-living things. For living things, the verb います is used. This distinction is important in Japanese.\n\nThe particle に is used here to indicate location. It's equivalent to \"at\" or \"in\" in English when used with a verb that indicates existence like あります. This differs from で, another particle used to indicate location, which is used with action verbs."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{犬|いぬ} は どこ に いた？",
+        "english": "Where was the dog?",
+        "literal": "Dog where at was?",
+        "audio": "いぬ わ どこ に いた？",
+        "audio_slow": "いぬ。は。どこ。に。いた？",
+        "breakdown": {
+            "{犬|いぬ}*0*": "Dog (noun): This is the subject of the sentence, referring to the animal, dog.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic of the sentence is \"{犬|いぬ}\" (dog).||particle",
+            "どこ*2*": "Where (interrogative word): This word is used to ask about a place or location.||pronoun",
+            "に*3*": "Direction/destination marker (particle): This particle is used to indicate the direction or destination of an action. In this case, it's used to ask about the location of the dog.||particle",
+            "いた*4*": "Was (verb, past tense of いる): This is the past tense of the verb \"いる\", which is used to express the existence of a living thing in a certain location. Here, it refers to the past state of the dog being somewhere.||verb"
+        },
+        "lesson": "In Japanese, sentence structure is often Subject-Object-Verb, which can be different from English's typical Subject-Verb-Object structure. The sentence provided is an example of this. Also, in Japanese, verb tense is expressed at the end of the sentence, as seen with \"いた\" showing the past tense.\n\nParticles are an essential part of Japanese grammar and they function differently from English prepositions. Here we have two particles \"は\" and \"に\". \"は\" marks the topic of the sentence and \"に\" indicates the direction or destination. The verb \"いる\" is used for the existence of animate objects, and its past form \"いた\" indicates that the action happened in the past."
+    },
+    {
+        "type": "sentence",
+        "japanese": "どこ で {昼|ひる}ごはん(ひるごはん) を {食|た}べました か。",
+        "english": "Where did you eat lunch?",
+        "literal": "Where at lunch ate did?",
+        "audio": "どこ で ひるごはん(ひるごはん) を たべました か。",
+        "audio_slow": "どこ。で。ひるごはん(ひるごはん)。を。たべました。か。",
+        "breakdown": {
+            "どこ*0*": "Where (pronoun): This pronoun is used to ask about the location of something. In this case, it's asking about the location where the action (eating lunch) took place.||pronoun",
+            "で*1*": "At (particle): This particle is used to mark the location of an action. In this case, it's indicating the location where the action of eating lunch took place.||particle",
+            "{昼|ひる}ごはん(ひるごはん)*2*": "Lunch (noun): This noun refers to the midday meal.||noun",
+            "を*3*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"{食|た}べました\", ate) is \"{昼|ひる}ごはん\" (lunch).||particle",
+            "{食|た}べました*4*": "Ate (verb, godan verb): This is the past tense of the verb \"{食|た}べる\" (to eat). It's used here to describe the action of eating that has already been completed.||verb",
+            "か*5*": "Question marker (particle): This particle is used at the end of a sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "In Japanese, the particle \"で\" is used to mark the location where an action takes place. When asking about the location of an action, the pronoun \"どこ\" (where) is used. The verb usually comes at the end of the sentence, and if it's a question, the sentence ends with the question marker \"か\". This sentence is a good example of how these elements work together to form a question about the location of an action. Also note that the verb \"{食|た}べました\" is in the past tense, which is indicated by the \"ました\" ending. To make the present tense, you would use \"{食|た}べます\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "あの {店|みせ} は どこ に あります か。",
+        "english": "Where is that store?",
+        "literal": "That store, where is it?",
+        "audio": "あの みせ わ どこ に あります か。",
+        "audio_slow": "あの。みせ。は。どこ。に。あります。か。",
+        "breakdown": {
+            "あの*0*": "That (pronoun): This is a demonstrative pronoun used to refer to something that is distant from both the speaker and the listener.||pronoun",
+            "{店|みせ}*1*": "Store (noun): This is a noun that refers to a place where goods are sold, a shop or a store.||noun",
+            "は*2*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic of the sentence is \"あの{店|みせ}\" (that store).||particle",
+            "どこ*3*": "Where (pronoun): This is an interrogative pronoun used to ask about the location of something.||pronoun",
+            "に*4*": "Direction/Location marker (particle): This particle is used to indicate the direction or location of an action. In this case, it indicates the location of the store.||particle",
+            "あります*5*": "To exist, to be (verb, ru verb): This is the polite form of the verb \"ある\", which means \"to exist\" or \"to be\". It's used for inanimate objects or things.||verb",
+            "か*6*": "Question marker (particle): This is a particle used at the end of a sentence to indicate that it is a question.||particle"
+        },
+        "lesson": "In Japanese, the verb generally comes at the end of the sentence. The particle \"は\" (wa) is used to mark the topic of the sentence, which is what the sentence is about. In this case, the topic is \"あの{店|みせ}\" (that store). The particle \"に\" (ni) is often used to indicate direction or location. When asking a question in Japanese, the particle \"か\" (ka) is used at the end of the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{猫|ねこ} は どこ に いる？",
+        "english": "Where is the cat?",
+        "literal": "Cat where is?",
+        "audio": "ねこ わ どこ に いる？",
+        "audio_slow": "ねこ。は。どこ。に。いる？",
+        "breakdown": {
+            "{猫|ねこ}*0*": "Cat (noun): The subject of the sentence, referring to a cat.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence, in this case \"{猫|ねこ}\" (cat).||particle",
+            "どこ*2*": "Where (interrogative word): An interrogative word asking about location.||pronoun",
+            "に*3*": "Direction/destination marker (particle): This particle is used to indicate the direction or destination, in this case, of the cat's location.||particle",
+            "いる*4*": "To be, to exist (for a living thing) (verb): This is a ru-verb used to express the existence of a living being or animate object. In this context, it is used to ask if the cat is in a certain location.||verb"
+        },
+        "lesson": "In Japanese, the verb usually comes at the end of the sentence, unlike English where it often comes near the beginning. This can make Japanese sentences seem inverted when compared to English.\n\nThe particle \"は\" (wa) is used as the topic marker. It does not have a direct equivalent in English, but it could be thought of as saying \"As for...\" at the start of a sentence.\n\nThe particle \"に\" (ni) has many uses but in this context, it's used to indicate the direction or destination, marking the place where the cat is (or should be).\n\nThe verb \"いる\" (iru) is used for animate objects (like people or animals) to indicate their existence or presence at a location. For inanimate objects, the verb \"ある\" (aru) is used instead.\n\nFinally, \"どこ\" (doko) is used to ask \"where\" about something. It's similar to \"where\" in English. Notice how it appears in the sentence before the verb, not at the beginning like in English. Japanese sentences often put the information being asked about before the verb."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} の {鞄|かばん} は どこに あった の？",
+        "english": "Where was his bag?",
+        "literal": "His bag, where was?",
+        "audio": "かれ の かばん わ どこに あった の？",
+        "audio_slow": "かれ。の。かばん。は。どこに。あった。の？",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): Refers to a third person male, similar to 'he' in English.||pronoun",
+            "の*1*": "Possessive marker (particle): It's used to show possession or attribution. Here, it is showing that the \"{鞄|かばん}\" (bag) belongs to \"{彼|かれ}\" (he).||particle",
+            "{鞄|かばん}*2*": "Bag (noun): A general term for all types of bags.||noun",
+            "は*3*": "Topic marker (particle): This particle marks the topic of the sentence. Here, \"{彼|かれ}の{鞄|かばん}\" (his bag) is the topic.||particle",
+            "どこに*4*": "Where (adverb): 'どこ' means 'where', and 'に' is a particle that indicates direction or target of an action. Together they ask to what place or location something pertains.||adverb",
+            "あった*5*": "Was (verb, past tense of ある): It is a u-verb and its past form is used here. 'ある' means to exist for inanimate objects or to have.||verb",
+            "の*6*": "Explanation seeking (particle): This particle at the end of the sentence indicates that the speaker is seeking an explanation. It's like asking 'is it?' or 'right?' in English.||particle"
+        },
+        "lesson": "In Japanese, questions are typically formed by changing the intonation of a sentence rather than changing the word order or using auxiliary verbs, like in English. Also, note the use of の at the end of the sentence to show that the speaker is seeking an explanation. In casual speech, it's a common way to ask questions."
+    },
+    {
+        "type": "information",
+        "content": "## Lesson Overview: いつ - When  \n  \nIn this lesson, we will explore the usage of いつ, the Japanese word for \"when\". We will examine how it's used in different contexts and in combination with other words.  \n  \n### Introduction  \n  \nいつ is the Japanese word used to ask \"when\". It's used in both formal and informal settings, and can refer to the past, present, or future.  \n  \n### Usage of いつ  \n  \nいつ is used to ask about the timing of an event, action, or situation.   \n  \nExamples:  \n  \n- いつ {帰|かえ}りますか？ - When will you return?  \n- テスト は いつ ですか？ - When is the test?  \n  \n### Using いつ with other words  \n  \nIn Japanese, いつ is often used in combination with other words to express specific periods of time. For example:  \n  \n- \"いつでも\": This translates to \"anytime\" or \"whenever\". Example: いつでも {遊|あそ}びに{来|き}てね！ - Come play anytime!  \n- \"いつか\": This means \"someday\" or \"one day\". Example: いつか {日本|にほん}に{行|い}きます。 - I will go to Japan someday.  \n  \n## Examples  \n  \nNow, let's put いつ into practice with some sentences.  \n  \n1. いつ {昼食|ひるしょく} を {食|た}べますか？ - When will you have lunch?  \n2. いつ その {本|ほん} を {買|か}いましたか？ - When did you buy that book?  \n3. いつ {彼|かれ} に {会|あ}いましたか？ - When did you meet him?"
+    },
+    {
+        "type": "sentence",
+        "japanese": "いつ です か？",
+        "english": "When is it?",
+        "literal": "When is?",
+        "audio": "いつ です か？",
+        "audio_slow": "いつ。です。か？",
+        "breakdown": {
+            "いつ*0*": "When (noun): This is an interrogative word used to ask about a specific time or occasion.||noun",
+            "です*1*": "is (copula): This is a Japanese copula. It's a word used to link the subject of a sentence with a predicate. It's somewhat similar to the English word \"is\", but it doesn't express tense by itself.||copula",
+            "か*2*": "Question marker (particle): This particle is used at the end of a sentence to indicate a question. Unlike in English, where the word order of a sentence often changes to form a question, in Japanese, adding this particle at the end of a statement can turn it into a question.||particle"
+        },
+        "lesson": "In Japanese, forming a question can be as simple as adding the particle \"か\" at the end of a sentence. It's also important to note that Japanese questions don't usually require a change in word order as in English. The structure of the sentence \"いつですか？\" remains the same as if it were a statement, with the particle \"か\" transforming it into a question."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{昨日|きのう}、 いつ {帰|かえ}りました か？",
+        "english": "When did you return yesterday?",
+        "literal": "Yesterday, when did return is?",
+        "audio": "きのう いつ かえりました か？",
+        "audio_slow": "きのう。いつ。かえりました。か？",
+        "breakdown": {
+            "{昨日|きのう}*0*": "Yesterday (noun): This is a word that refers to the previous day. In Japanese, time-related words often come at the beginning of a sentence, unlike in English.||noun",
+            "いつ*1*": "When (interrogative adverb): An interrogative adverb used to ask about time. In this sentence, it is used to inquire about the specific time of an action.||pronoun",
+            "{帰|かえ}りました*2*": "Returned (verb, ru-verb): The past tense of the verb \"{帰|かえ}る\", meaning \"to return\". The polite past form \"りました\" is used here because the speaker is speaking politely or formally.||verb",
+            "か*3*": "Question marker (particle): This particle is used at the end of a sentence to indicate a question. In English, we usually use intonation to indicate questions, but in Japanese, we use this question marker.||particle"
+        },
+        "lesson": "This is a simple sentence, but it demonstrates some key aspects of Japanese grammar. It's an example of how time expressions like {昨日|きのう} usually come at the beginning of the sentence in Japanese. Also, note how いつ is used to ask about the specific time of an event. Lastly, pay attention to the か question marker - its presence at the end of a sentence indicates that it's a question. The polite verb form (in this case, りました for past tense) is also important for showing respect or formality in your speech."
+    },
+    {
+        "type": "sentence",
+        "japanese": "あなた は いつ {学校|がっこう} に {行|い}きます か？",
+        "english": "When do you go to school?",
+        "literal": "You when school to will go?",
+        "audio": "あなた わ いつ がっこう に いきます か？",
+        "audio_slow": "あなた。は。いつ。がっこう。に。いきます。か？",
+        "breakdown": {
+            "あなた*0*": "You (pronoun): This is the word for \"you\" in Japanese.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence, which is \"あなた\" (you).||particle",
+            "いつ*2*": "When (adverb): This is an adverb used to ask when something happens.||adverb",
+            "{学校|がっこう}*3*": "School (noun): This is the word for \"school\" in Japanese.||noun",
+            "に*4*": "Direction marker (particle): This particle is used to indicate the direction or goal of the action. In this case, it shows that \"school\" is the destination of the action \"go\".||particle",
+            "{行|い}きます*5*": "Will go (verb, ichidan verb): This is the future tense of the verb \"{行|い}く\" (go). \"{行|い}きます\" is more polite and typically used in formal conversations.||verb",
+            "か*6*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "In Japanese, the sentence structure is subject-object-verb, unlike English which is subject-verb-object. So, in this sentence \"あなたはいつ{学校|がっこう}に{行|い}きますか？\", it is literally translated as \"You when school to will go?\" which is hard to understand in English. But the contextual translation, \"When do you go to school?\", gives the correct meaning. Also, notice the use of particles (は, に, か) which play a vital role in conveying the meaning."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は いつ {起|お}きました か？",
+        "english": "When did he wake up?",
+        "literal": "He when woke up?",
+        "audio": "かれ わ いつ おきました か？",
+        "audio_slow": "かれ。は。いつ。おきました。か？",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): This pronoun is used to refer to a male individual. In this context, it refers to the person who has performed the action of waking up.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic of the sentence is \"{彼|かれ}\" (he).||particle",
+            "いつ*2*": "When (adverb): This word is an interrogative adverb, it is used to ask about the time something happened.||adverb",
+            "{起|お}きました*3*": "Woke up (verb, godan verb): This is the past tense of the verb \"{起|お}きる\" (to wake up). It is a godan verb, which means its stem changes to form different tenses and forms.||verb",
+            "か*4*": "Question marker (particle): This particle is used at the end of a sentence to indicate that the sentence is a question.||particle"
+        },
+        "lesson": "This sentence provides a good example of a simple question in Japanese. The structure of the sentence is typical for a question - it begins with the subject ({彼|かれ}), followed by the question word (いつ), then the verb ({起|お}きました), and ends with the question marker (か). \n\nAlso note the use of は as the topic marker. The topic of a sentence is what the sentence is about. Here, it's about \"{彼|かれ}\" (he). \n\nThe verb {起|お}きました is a past tense verb. In Japanese, verbs come at the end of the sentence, and the tense of the verb can change the meaning of the entire sentence. In this case, {起|お}きる (to wake up) becomes {起|お}きました to indicate a completed action - he woke up.\n\nJapanese sentences often leave out subjects if they are clear from the context. Here, \"{彼|かれ}\" (he) is specified, but in conversation, if it's clear who we're talking about, the sentence could simply be \"いつ{起|お}きましたか？\""
+    },
+    {
+        "type": "sentence",
+        "japanese": "{明日|あした}、 いつ {出発|しゅっぱつ} します か？",
+        "english": "When are you departing tomorrow?",
+        "literal": "Tomorrow, when depart is?",
+        "audio": "あした いつ しゅっぱつ します か？",
+        "audio_slow": "あした。いつ。しゅっぱつ。します。か？",
+        "breakdown": {
+            "{明日|あした}*0*": "Tomorrow (noun): It refers to the day after the current day.||noun",
+            "いつ*1*": "When (adverb): It is used to ask about the time of an event. In this case, the event is \"{出発|しゅっぱつ}します\" (depart).||adverb",
+            "{出発|しゅっぱつ}*2*": "Departure (noun): Refers to the act of leaving or starting a journey. This is the action in question in the sentence.||noun",
+            "します*3*": "Do (verb, shimasu verb): The base form is \"する\" (to do), and it is used here in the polite form \"します\". In combination with \"{出発|しゅっぱつ}\", it translates as \"depart\" or \"will depart\".||verb",
+            "か*4*": "Question marker (particle): It's placed at the end of the sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "This sentence is a good example of how in Japanese, the subject of a sentence can be left out if it's clear from the context. In English, we'd usually include the subject – in this case, probably \"you\". But in Japanese, it's not necessary to include \"あなた\" (you) in this sentence.\n\nIn addition, the verb \"する\" is a very common and versatile verb in Japanese, and when combined with certain nouns, it can create many other verbs. In this case, \"{出発|しゅっぱつ}\" (departure) and \"する\" (do) are combined to mean \"to depart\". This is a great example of how to form verb phrases using \"する\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "いつ {彼女|かのじょ} は {帰|かえ}りました か？",
+        "english": "When did she come home?",
+        "literal": "When she home returned is?",
+        "audio": "いつ かのじょ わ かえりました か？",
+        "audio_slow": "いつ。かのじょ。は。かえりました。か？",
+        "breakdown": {
+            "いつ*0*": "When (adverb): This is an adverb that's used to ask the time when an event occurred.||adverb",
+            "{彼女|かのじょ}*1*": "She (pronoun): This is a third-person singular pronoun that's used to refer to a female. In English, this would translate to \"she.\"||pronoun",
+            "は*2*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. In this case, the topic is \"{彼女|かのじょ}\" (she). It tells us what we're talking about or asking about.||particle",
+            "{帰|かえ}りました*3*": "Returned (verb, u-verb): This is the past tense of the verb \"{帰|かえ}る\", which means \"to return\" or \"to come home\". In this case, it's indicating that the action of returning home has already happened.||verb",
+            "か*4*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it's a question. In English, we would use a question mark for this purpose.||particle"
+        },
+        "lesson": "In Japanese, the verb comes at the end of the sentence, which is different from English sentence structure. Also, in Japanese, we use particles like \"は\" and \"か\" to indicate the function of the words in the sentence. For instance, \"は\" tells us the topic of the sentence, and \"か\" tells us that the sentence is a question. Moreover, to ask about time of occurrence of an event, we use \"いつ\"."
+    },
+    {
+        "type": "sentence",
+        "japanese": "いつ {昼|ひる}ごはん(ひるごはん) を {食|た}べます か？",
+        "english": "When will you eat lunch?",
+        "literal": "When lunch eat will?",
+        "audio": "いつ ひるごはん(ひるごはん) を たべます か？",
+        "audio_slow": "いつ。ひるごはん(ひるごはん)。を。たべます。か？",
+        "breakdown": {
+            "いつ*0*": "When (adverb): This is an adverb used to ask about a specific time or occasion.||adverb",
+            "{昼|ひる}ごはん(ひるごはん)*1*": "Lunch (noun): A compound noun made of \"{昼|ひる}\", meaning \"noon\" or \"daytime\", and \"ごはん\", which usually means \"rice\" but in this context means \"meal\". So \"{昼|ひる}ごはん(ひるごはん)\" literally means \"daytime meal\" but is commonly used to refer to lunch.||noun",
+            "を*2*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"{食|た}べます\", will eat) is \"{昼|ひる}ごはん(ひるごはん)\" (lunch).||particle",
+            "{食|た}べます*3*": "Will eat (verb, ru-verb): This is the polite future tense form of the verb \"{食|た}べる\" (to eat).||verb",
+            "か*4*": "Question marker (particle): This particle is placed at the end of a sentence to indicate that it's a question.||particle"
+        },
+        "lesson": "In Japanese, the word order is different than in English. A typical Japanese sentence structure is Subject-Object-Verb, while in English it is Subject-Verb-Object. Therefore, you might see the verb at the end of the sentence in Japanese. In this case, \"{食|た}べます\" (will eat) is at the end of the sentence. Also, remember that particles like \"を\" and \"か\" have crucial roles in indicating the function of the words in a sentence. \"を\" indicates the direct object of an action, and \"か\" is used at the end of a sentence to turn it into a question."
+    },
+    {
+        "type": "sentence",
+        "japanese": "いつ テスト が あります か？",
+        "english": "When is the test?",
+        "literal": "When test exists?",
+        "audio": "いつ テスト が あります か？",
+        "audio_slow": "いつ。テスト。が。あります。か？",
+        "breakdown": {
+            "いつ*0*": "When (adverb): This word is used to ask about a time or date. In this sentence, it's used to ask when the test is taking place.||adverb",
+            "テスト*1*": "Test (noun): This is a loanword from English and is used exactly the same way. In this case, it's referring to an examination of some sort.||noun",
+            "が*2*": "Subject marker (particle): This particle is used to mark the subject of a sentence or a clause. It's similar to the English words \"is\" or \"are\" but comes after the noun it modifies. In this case, it indicates that \"テスト\" (test) is what the sentence is about.||particle",
+            "あります*3*": "Exists, there is/are (verb, ru-verb): This verb is used to express the existence of an inanimate object or event. In this context, it's used to indicate that the test exists or, in other words, is happening.||verb",
+            "か*4*": "Question marker (particle): This particle is placed at the end of the sentence to indicate that it's a question. It's like the English question mark.||particle"
+        },
+        "lesson": "In Japanese, the verb generally comes at the end of the sentence. In this case, \"あります\" is at the end, indicating that the sentence is about the existence of something. The question word \"いつ\" comes at the beginning, similar to how we structure \"when\" questions in English. \n\nNote that the verb \"あります\" is used for inanimate objects or events. When talking about the existence of living things, \"います\" is used instead. Also, the particle \"が\" can sometimes be replaced with \"は\" depending on the context and what you want to emphasize in the sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{妹|いもうと} は いつ {誕生日|たんじょうび} です か？",
+        "english": "When is your younger sister's birthday?",
+        "literal": "Younger sister when birthday is?",
+        "audio": "いもうと わ いつ たんじょうび です か？",
+        "audio_slow": "いもうと。は。いつ。たんじょうび。です。か？",
+        "breakdown": {
+            "{妹|いもうと}*0*": "younger sister (noun): This refers to one's younger sister. Japanese has specific words for older brother, younger brother, older sister, and younger sister, unlike English where \"brother\" or \"sister\" can refer to either older or younger siblings.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to indicate the topic of the sentence. Here, the topic is \"{妹|いもうと}\" or \"younger sister\".||particle",
+            "いつ*2*": "when (adverb): This is a question word asking about time.||adverb",
+            "{誕生日|たんじょうび}*3*": "birthday (noun): This is made of two parts, \"{誕生|たんじょう}\" meaning \"birth\" and \"{日|び}\" meaning \"day\".||noun",
+            "です*4*": "is (copula): This is the polite form of the copula verb \"be\". It's often used at the end of sentences and can be used to denote state of being or equivalence.||copula",
+            "か*5*": "Question marker (particle): This particle is used at the end of the sentence to indicate a question.||particle"
+        },
+        "lesson": "In Japanese, the subject or topic of a sentence is often placed at the beginning, followed by relevant information about the topic. The particle は is often used after the subject or topic to denote what the sentence will be about. The copula です is used to indicate a state of being, and the particle か at the end of a sentence marks it as a question. Therefore, in order to ask about someone's birthday, we would structure the sentence as \"[Person]は {誕生日|たんじょうび} は いつですか？\" or \"[Person]'s birthday, when is it?\". The same pattern can be used to ask other questions about someone or something."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{父|ちち} は いつ {東京|とうきょう} に {行|い}った の？",
+        "english": "When did Dad go to Tokyo?",
+        "literal": "Father, when Tokyo to went of?",
+        "audio": "ちち わ いつ とうきょう に いった の？",
+        "audio_slow": "ちち。は。いつ。とうきょう。に。いった。の？",
+        "breakdown": {
+            "{父|ちち}*0*": "Father (noun): This is a common word for father in Japanese. In this case, it's the subject of the sentence.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. Here, the topic is \"{父|ちち}\" (Father).||particle",
+            "いつ*2*": "When (adverb): This word is used to ask about the time of an event. In this case, it's asking about the time when the father went to Tokyo.||adverb",
+            "{東京|とうきょう}*3*": "Tokyo (noun): This is the name of the capital city of Japan.||noun",
+            "に*4*": "Direction marker (particle): This particle is used to indicate the direction or goal of a verb. In this sentence, it's indicating the place where the father went, which is Tokyo.||particle",
+            "{行|い}った*5*": "Went (verb, past form of the verb \"{行|い}く\"): This is a verb that indicates movement from one place to another. The past tense is used here because it's asking about a past event.||verb",
+            "の*6*": "Explanatory tone (particle): This particle is often used at the end of a sentence to add an explanatory tone. When used in a question, it gives a nuance of seeking an explanation about something. Here, it's asking for an explanation about when the father went to Tokyo.||particle"
+        },
+        "lesson": "This sentence uses a common question structure: \"Who/What/When/Where/Why + は + verb?\" In this case, the verb is {行|い}った, the past tense of \"{行|い}く\", which means \"to go\". This tense is used to ask about past events. Note also the use of \"の\" at the end of the sentence - this is a common way to add an explanatory tone to questions, somewhat equivalent to the \"is\" that we sometimes add to the end of questions in informal English, like \"Where is he going, is?\""
+    },
+    {
+        "type": "sentence",
+        "japanese": "いつ {彼女|かのじょ} は {帰|かえ}る の？",
+        "english": "When is she coming home?",
+        "literal": "When she home return?",
+        "audio": "いつ かのじょ わ かえる の？",
+        "audio_slow": "いつ。かのじょ。は。かえる。の？",
+        "breakdown": {
+            "いつ*0*": "When (adverb): It's used to ask about a time or date. It does not require a particle to connect with the rest of the sentence.||adverb",
+            "{彼女|かのじょ}*1*": "She (pronoun): This word is used to refer to a third person female.||pronoun",
+            "は*2*": "Topic marker (particle): This particle is used to denote the topic of the sentence. In this case, \"{彼女|かのじょ}\" (she) is the topic.||particle",
+            "{帰|かえ}る*3*": "Return, come home (verb, godan verb): This is a verb that indicates the action of returning or coming home. Verbs in Japanese typically come at the end of the sentence.||verb",
+            "の*4*": "Nominalizer/question marker (particle): When の comes at the end of a sentence, it can act as a nominalizer which turns the preceding clause into a noun phrase. However, when の is used with a rising intonation, it functions as a question marker. Here it is used as a question marker, giving the sentence an informal, conversational feel.||particle"
+        },
+        "lesson": "In Japanese, the verb typically comes at the end of the sentence, which is different from English. The particle \"は\" is a topic marker, not a subject marker, which means it denotes what the sentence is about, not necessarily who is doing the action. The particle \"の\" can serve various functions, one of which is to turn a statement into a question in informal speech."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{犬|いぬ} は いつ {散歩|さんぽ} に {行|い}く の？",
+        "english": "When will the dog go for a walk?",
+        "literal": "Dog when walk to go is?",
+        "audio": "いぬ わ いつ さんぽ に いく の？",
+        "audio_slow": "いぬ。は。いつ。さんぽ。に。いく。の？",
+        "breakdown": {
+            "{犬|いぬ}*0*": "Dog (noun): The subject of the sentence. This is the entity that is going to perform the action.||noun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic is \"{犬|いぬ}\" (dog).||particle",
+            "いつ*2*": "When (adverb): This word is used to ask about the time of an event. Here, it is asking about the time the dog is going for a walk.||adverb",
+            "{散歩|さんぽ}*3*": "Walk (noun): This is the action that the dog is going to do. It can be a leisure walk or exercise, typically refers to walking outside.||noun",
+            "に*4*": "Direction or goal marker (particle): This particle is used to indicate the direction or goal of an action. Here, it indicates that the action (walking) is what the dog is going towards.||particle",
+            "{行|い}く*5*": "Go (verb, Godan verb): This is the main action of the sentence. It indicates movement or direction. In this context, it means the dog is going to go for a walk.||verb",
+            "の*6*": "Nominalizer/question marker (particle): As a question marker, \"の\" at the end of a sentence makes it a question in a more casual or intimate context.||particle"
+        },
+        "lesson": "In this sentence, you can see how particles are used to indicate the roles of different words in the sentence. The は particle marks the topic of the sentence, while the に particle shows the direction or goal of the action. The use of \"の\" at the end of the sentence indicates that it's a question. Also, pay attention to the word \"いつ\" which is used to ask about time. It's an important word for forming questions in Japanese."
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "type": "sentence",
+        "japanese": "…{今日|きょう} から、 この {新|あたら}しい {部屋|へや} で {新|あたら}しい {生活|せいかつ} が {始|はじ}まる。",
+        "english": "...From today, a new life begins in this new room.",
+        "literal": "...Today from, this new room in, new life begins.",
+        "audio": "きょう から この あたらしい へや で あたらしい せいかつ が はじまる。",
+        "audio_slow": "きょう。から。この。あたらしい。へや。で。あたらしい。せいかつ。が。はじまる。",
+        "breakdown": {
+            "{今日|きょう}*0*": "Today (noun): This word represents the current day. It's the starting point in this context.||noun",
+            "から*1*": "From (particle): This particle is used to indicate a starting point in time or space. Here it signifies that something will start \"from\" today.||particle",
+            "この*2*": "This (pronoun): \"この\" is a demonstrative pronoun, used to indicate something that is close to the speaker. Here it's used to refer to the new room.||pronoun",
+            "{新|あたら}しい*3*": "New (i-adjective): This is an i-adjective used to describe something that is new or fresh. Here it describes the \"room\".||adjective",
+            "{部屋|へや}*4*": "Room (noun): This refers to a particular space meant for living in a house or building.||noun",
+            "で*5*": "In/at (particle): This particle is used to indicate the place where an action occurs. Here it shows the location where the new life begins, which is the new room.||particle",
+            "{新|あたら}しい*6*": "New (i-adjective): This is an i-adjective used to describe something that is new or fresh. In this context, it's describing the \"life\" that's about to start.||adjective",
+            "{生活|せいかつ}*7*": "Life/Lifestyle (noun): This refers to the way a person lives.||noun",
+            "が*8*": "Subject marker (particle): This particle is used to mark the subject of a sentence or clause. Here, it's indicating that the \"new life\" is the subject that will begin.||particle",
+            "{始|はじ}まる*9*": "To begin/start (godan verb): This is a godan verb that means to begin or start. Here, it refers to the beginning of the new life in the new room.||verb"
+        },
+        "lesson": "The particle \"から\" is used to mark the starting point of an action or a period of time. Similarly, \"で\" is a particle that indicates the location where an action takes place. The particle \"が\" often acts as the subject marker in a sentence. Japanese adjectives can be split into two types: i-adjectives and na-adjectives. Here, \"{新|あたら}しい\" is an i-adjective and ends with \"い\". These adjectives can directly modify a noun, as in \"{新|あたら}しい{部屋|へや}\" (new room) and \"{新|あたら}しい{生活|せいかつ}\" (new life). The verb \"{始|はじ}まる\" is a godan verb, one of the two main groups of verbs in Japanese. Remembering the pattern of godan verbs can be very helpful when it comes to conjugating them."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{引|ひ}っ{越|こ}し の {荷物|にもつ} の {片|かた}づけ も、 もう{少|すこ}し で {終|お}わる し。",
+        "english": "I'm also almost done cleaning up the moving boxes.",
+        "literal": "Move's stuff's tidying too, with a little more ends.",
+        "audio": "ひっこし の にもつ の かたづけ も もうすこし で おわる し。",
+        "audio_slow": "ひっこし。の。にもつ。の。かたづけ。も。もうすこし。で。おわる。し。",
+        "breakdown": {
+            "{引|ひ}っ{越|こ}し*0*": "Move (noun): This is a compound noun made up of {引|ひ}く (to pull) and {越|こ}す (to move), so together they mean \"move\" or \"relocation\". This is often used to refer to moving residences.||noun",
+            "の*1*": "Possessive marker (particle): This particle is used to indicate possession or attribute. Here, it's connecting \"move\" with \"stuff\" to create the compound \"move's stuff\" or \"stuff from the move\".||particle",
+            "{荷物|にもつ}*2*": "Stuff (noun): This is a general term for things, stuff, or luggage. Here, it's used to refer to the stuff or belongings associated with moving.||noun",
+            "の*3*": "Possessive marker (particle): This particle is used to indicate possession or attribute. Here, it's connecting \"stuff\" with \"tidying\" to create the compound \"stuff's tidying\" or \"tidying up the stuff\".||particle",
+            "{片|かた}づけ*4*": "Tidying (noun): This is a noun form of the verb {片|かた}づける (to tidy up or to put away). Here, it's used to refer to the act of cleaning up or organizing the stuff from the move.||noun",
+            "も*5*": "Also (particle): This particle is used to include the action or item it follows in the context of the sentence. Here, it implies that tidying up the stuff from the move is among other things that are being done or discussed.||particle",
+            "もう{少|すこ}し(すこし)*6*": "A little more (adverb + noun): もう (already) and {少|すこ}し (a little) are combined to mean \"a little more\" or \"almost\". This is used to express that the action of tidying up is nearly completed.||adverb",
+            "で*7*": "With (particle): This particle is used here to indicate the means or condition for the action to take place. Here, it implies the condition under which the tidying up will end.||particle",
+            "{終|お}わる*8*": "End (verb, godan verb): This verb is used to indicate the completion or ending of an action. Here, it refers to the action of tidying up ending.||verb",
+            "し*9*": "And, etc. (conjunction): This particle is used at the end of a clause to imply there are other reasons or factors not explicitly stated. It's a softer, more casual way of listing reasons or causes.||conjunction"
+        },
+        "lesson": "In this sentence, the use of の particle is a good example of how it can be used to link nouns together to give more detailed descriptions, like \"moving stuff\" or \"tidying of moving stuff\". \n\nAlso, the particle で is used here to show the condition under which an action takes place. In English, this might translate to \"with\" or \"by\". This is a flexible particle with many uses depending on the context.\n\nFinally, し at the end of the sentence is a casual conjunction often used in informal speech. It indicates that the preceding clause is one of several reasons or factors. It can also give a sentence a casual, conversational tone."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{親|おや} の {気|き}まぐれ とはいえ、 どうして {大学|だいがく} {一|いち}{年|ねん} の {秋|あき} に {引|ひ}っ{越|ひっこ}し なんか しなきゃいけない のか、 まったく {理不尽|りふじん} な {話|はなし} だ…。",
+        "english": "Even if it's just my parents' whim, why do I have to move in the autumn of my first year at university? It's completely unreasonable...",
+        "literal": "Parents' whim though it is, why in university first year's autumn, something like moving have to do, totally unreasonable talk is...",
+        "audio": "おや の きまぐれ とはいえ どうして だいがく いちねん の あき に ひっひっこし なんか しなきゃいけない のか まったく りふじん な はなし だ。",
+        "audio_slow": "おや。の。きまぐれ。とはいえ。どうして。だいがく。いちねん。の。あき。に。ひっひっこし。なんか。しなきゃいけない。のか。まったく。りふじん。な。はなし。だ。",
+        "breakdown": {
+            "{親|おや}*0*": "parents (noun): Refers to one's parents.||noun",
+            "の*1*": "possessive marker (particle): Connects a noun to another word, showing possession or modification. Here, it links \"parents\" to \"whim.\"||particle",
+            "{気|き}まぐれ*2*": "whim (noun): A sudden desire or change of mind. Here it implies the parents made a decision on a whim.||noun",
+            "とはいえ*3*": "although, even though (conjunction): This phrase is used to present a contrasting or conflicting idea. In this case, it introduces a statement that might contradict the following part of the sentence.||conjunction",
+            "どうして*4*": "why (adverb): It is used to ask the reason for something.||adverb",
+            "{大学|だいがく}*5*": "university (noun): An institution for higher education.||noun",
+            "{一|いち}{年|ねん}*6*": "first year (noun): The first academic year of school or university.||noun",
+            "の*7*": "possessive marker (particle): Connects a noun to another word, showing possession or modification. Here, it connects \"university\" and \"first year.\"||particle",
+            "{秋|あき}*8*": "autumn, fall (noun): One of the four seasons of the year.||noun",
+            "に*9*": "in, at (particle): It is used to indicate a specific time or place. Here, it is indicating the time when the speaker has to move.||particle",
+            "{引|ひ}っ{越|ひっこ}し*10*": "moving (verb, nai form): The act of changing residence.||verb",
+            "なんか*11*": "something like (particle): This particle expresses a derogatory or dismissive tone. It belittles the preceding word, in this case, \"moving.\"||particle",
+            "しなきゃいけない*12*": "have to do (auxiliary verb): A phrase used to express obligation or necessity. The literal translation is \"if not do, it is no good.\"||auxiliary verb",
+            "のか*13*": "question marker (particle): This particle is used at the end of a sentence to ask a question, expressing doubt or seeking confirmation.||particle",
+            "まったく*14*": "completely, totally (adverb): It is used for emphasis. Here, it is emphasizing the unreasonableness of the situation.||adverb",
+            "{理不尽|りふじん}*15*": "unreasonable (na-adjective): Describes something that is not fair or just.||adjective",
+            "な*16*": "linking (particle): It is used to modify a noun with an adjective or verb. Here, it is linking the adjective \"unreasonable\" to \"story.\"||particle",
+            "{話|はなし}*17*": "talk, story (noun): Refers to a narrative or account of events.||noun",
+            "だ*18*": "is (copula): This is the plain form of \"です\" and it is used to state or declare something.||copula"
+        },
+        "lesson": "One key point for beginners here is the use of \"なんか\" to express a dismissive tone, often used in informal speech. Additionally, note the use of \"しなきゃいけない\" for expressing necessity. The literal translation is \"if not do, it is no good,\" but it is often used to mean \"have to do.\" This is an essential phrase when expressing obligations in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "まあ、 {早|はや}い ところ {済|す}ませ ちゃおう。",
+        "english": "Well, let's just get it over with quickly.",
+        "literal": "Well, quickly finish let's do.",
+        "audio": "まあ はやい ところ すませ ちゃおう。",
+        "audio_slow": "まあ。はやい。ところ。すませ。ちゃおう。",
+        "breakdown": {
+            "まあ*0*": "Well (interjection): This is an interjection often used at the beginning of a sentence to show mild surprise or to casually introduce a topic. Here it adds a casual tone to the sentence.||interjection",
+            "{早|はや}い*1*": "fast, quick (i-adjective): It's an i-adjective that describes something as being fast or quick. Here, it is describing how the speaker wants to finish something.||adjective",
+            "ところ*2*": "place, point in time (noun): While \"ところ\" often means \"place\", in this context it is used to refer to a point in time. When used together with an adjective like \"{早|はや}い\", it refers to \"an early point in time\" or \"quickly\".||noun",
+            "{済|す}ませ*3*": "to finish, to get it over with (transitive verb, stem form): This is the causative form of \"{済|す}む\", which means \"to finish\" or \"to be over\". The causative form is used when someone makes or lets something happen. Here, the speaker wants to make something finish or get it over with.||verb",
+            "ちゃおう*4*": "let's do (auxiliary verb): This is the volitional form of \"てしまう\", often shortened to \"ちゃう\" in casual speech. It's used to express a strong intention or resolve to do something, or to express an action that one regrets. In this case, it shows the speaker's determination to finish something.||auxiliary verb"
+        },
+        "lesson": "The auxiliary verb \"てしまう\" (and its colloquial form \"ちゃう\") is used when an action is completely finished, and it sometimes carries a sense of regret. However, it can also be used to emphasize the speaker's intention to complete an action, as in this case. Learning this expression can be very helpful in understanding and conveying nuance in Japanese. It's often used in casual speech."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} か {来|き}た。 {部屋|へや}、 {散|ち}らかり まくって る ん だ けど な。",
+        "english": "Someone came. But the room is totally messy.",
+        "literal": "Someone came. Room, scattering all over it is though.",
+        "audio": "だれ か きた。 へや ちらかり まくって る ん だ けど な。",
+        "audio_slow": "だれ。か。きた。。へや。ちらかり。まくって。る。ん。だ。けど。な。",
+        "breakdown": {
+            "{誰|だれ}*0*": "who (pronoun): It is a question word used when you want to ask about a person.||pronoun",
+            "か*1*": "a particle that makes \"だれ\" into \"someone\" (particle): When it's added after a noun, it indicates one of the many, i.e., \"someone\" in this case.||particle",
+            "{来|き}た*2*": "came (verb, past tense of a godan verb): It is the past tense of \"くる\" which means \"to come\".||verb",
+            "{部屋|へや}*3*": "room (noun): It is a common word used to refer to a room in a house or building.||noun",
+            "{散|ち}らかり*4*": "to scatter, to be in disorder (verb, -ます stem of a godan verb): It indicates the state of something being messy or disordered.||verb",
+            "まくって*5*": "heavily, all over, a lot (auxiliary verb, te-form of -まくる): It is added to verbs to emphasize the action, showing the action is done to a great extent or repeatedly.||auxiliary verb",
+            "る*6*": "indicates the verb is in the present tense, or more specifically, a dictionary form (auxiliary verb).||verb",
+            "ん*7*": "contraction of の, which is a nominalizer (particle): It can turn a verb into a noun phrase, and here it emphasizes an explanatory tone.||particle",
+            "だ*8*": "is (copula): It indicates that what precedes it is the subject. Here, it's used for assertion.||copula",
+            "けど*9*": "but, however (conjunction): It connects two sentences and indicates contrast.||conjunction",
+            "な*10*": "a sentence-ending particle that shows the speaker's emotional involvement or seeks the listener's agreement (particle).||particle"
+        },
+        "lesson": "The particle か usually forms a question when placed at the end of a sentence, but when it's used in the middle of a sentence after a noun or a pronoun, it means \"someone\" or \"something\". It's a useful particle to learn.\n\nThe te-form of verbs in Japanese is versatile and can be used for many things, like chaining actions together, making requests, or expressing conditionals. In this case, the te-form is used together with -まくる to emphasize the extent of the action (messiness in this case).\n\nThe explanatory の (ん in casual speech) is used when providing an explanation or emphasis to the situation or action. It is a very common feature in spoken Japanese.\n\nFinally, the sentence-ending particle な often seeks the listener's agreement or sympathy, similar to \"right?\" or \"you know?\" in English. It gives the sentence a conversational tone."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{俺|おれ} は {返事|へんじ} を して {玄関|げんかん} に {向|む}かった。",
+        "english": "I replied and headed towards the entrance.",
+        "literal": "I, reply did, towards the entrance headed.",
+        "audio": "おれ わ へんじ を して げんかん に むかった。",
+        "audio_slow": "おれ。は。へんじ。を。して。げんかん。に。むかった。",
+        "breakdown": {
+            "{俺|おれ}*0*": "I (pronoun): This is a very informal way to refer to oneself, commonly used by males. It's typically used in casual or informal contexts.||pronoun",
+            "は*1*": "Topic marker (particle): This particle marks the topic of the sentence, which in this case is \"{俺|おれ}\" (I). The action or state described in the sentence typically applies to the topic.||particle",
+            "{返事|へんじ}*2*": "Reply (noun): This word refers to a response or answer to a question or statement.||noun",
+            "を*3*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"して\", did) is \"{返事|へんじ}\" (reply).||particle",
+            "して*4*": "Doing (verb, te-form of する): This is the te-form of the verb \"する\" (to do). In this context, it's used to link two actions together. It's like saying \"did X and...\" in English.||verb",
+            "{玄関|げんかん}*5*": "Entrance (noun): This refers to the entryway or entrance of a building or house.||noun",
+            "に*6*": "Directional marker (particle): This particle indicates the direction or target of an action. In this case, it indicates that the action \"{向|む}かった\" (headed) is directed towards \"{玄関|げんかん}\" (entrance).||particle",
+            "{向|む}かった*7*": "Headed (verb, past tense of {向|む}かう): This is the past tense of the verb \"{向|む}かう\" (to head). It indicates that the action of heading towards the entrance has already been completed.||verb"
+        },
+        "lesson": "This sentence is a good example of how actions can be linked together in Japanese using the te-form of verbs. In this case, the speaker replies and then heads towards the entrance. The te-form of the verb \"する\" (to do) is used to link these actions together. \n\nAlso note the use of the particles は and を. The は particle is used to mark the topic of the sentence (the person or thing about which something is said), and the を particle is used to mark the direct object of a verb (the thing that is acted upon). In Japanese, particles play a crucial role in indicating the relationships between different words in a sentence."
+    },
+    {
+        "type": "sentence",
+        "japanese": "{誰|だれ} だ ろう…？",
+        "english": "Who could it be...?",
+        "literal": "Who is I wonder...?",
+        "audio": "だれ だ ろう？",
+        "audio_slow": "だれ。だ。ろう？",
+        "breakdown": {
+            "{誰|だれ}*0*": "Who (pronoun): This is a question word that's used to ask about a person's identity.||pronoun",
+            "だ*1*": "Is (copula): This is the declarative form of the copula \"です\". It's used to connect the subject and predicate of a sentence. Here, it connects \"{誰|だれ}\" (who) with the conjecture expressed by \"ろう\".||copula",
+            "ろう*2*": "I wonder / might (auxiliary verb): \"ろう\" expresses conjecture, uncertainty, or supposition. When attached to the copula \"だ\", it forms \"だろう\", which can be translated as \"might be\" or \"I wonder if\".||auxiliary verb"
+        },
+        "lesson": "In Japanese, you can express uncertainty or supposition by using \"だろう\" or \"でしょう\" at the end of a sentence. \"だろう\" is more casual and \"でしょう\" is more formal. This can be a useful tool when you want to make a guess or assumption about something, or when you want to express that you are wondering about something."
+    },
+    {
+        "type": "sentence",
+        "japanese": "「ちょっと… お{話|はなし} が ある ん だ けど… いい？」",
+        "english": "\"I have something to talk about... is that okay?\"",
+        "literal": "\"A little...talk there is but...okay?\"",
+        "audio": "「ちょっと おはなし が ある ん だ けど いい？」",
+        "audio_slow": "「ちょっと。おはなし。が。ある。ん。だ。けど。いい？」",
+        "breakdown": {
+            "ちょっと*0*": "a little (adverb): This word is often used in casual speech to imply a mild or indirect request. Here, it's used to soften the following statement.||adverb",
+            "お{話|はなし}*1*": "talk, story (noun): The \"お\" (o) before \"{話|はなし}\" is an honorific prefix that adds a level of politeness to the word it precedes. \"{話|はなし}\" means \"talk\" or \"story\".||noun",
+            "が*2*": "Subject marker (particle): It marks \"お{話|はなし}\" as the subject of the sentence.||particle",
+            "ある*3*": "Exist (verb, u-verb): It indicates that something exists. In this context, it means \"there is\".||verb",
+            "ん*4*": "Explanation tone (auxiliary verb): Also written as \"の\", it adds an explanatory tone to the sentence. When it is used at the end of a sentence, it's used to provide an explanation or seek one.||auxiliary verb",
+            "だ*5*": "Be (auxiliary verb, plain form copula): It's used to indicate a state of being. In this context, it's part of \"あるんだ\", a common phrase meaning \"it is that\".||auxiliary verb",
+            "けど*6*": "But (conjunction): It's used to connect two thoughts where the second thought contrasts with the first. Here, it's used to lead into the question \"いい？\", creating the nuance of asking for permission or checking for agreement.||conjunction",
+            "いい*7*": "Good (i-adjective): It is used in various contexts and can mean good, okay, or fine. In this case, it's used to ask if it's okay.||adjective"
+        },
+        "lesson": "The phrase \"んだけど\" is quite common in Japanese conversation. It's often used when someone wants to imply a question or suggestion. The nuance is \"it's that ..., but ...\", and it's often used to tactfully introduce a topic or request. It makes the speaker's intention sound more indirect, therefore it's often perceived as more polite. Similarly, \"ちょっと\" (chotto) is often used to soften the tone of a statement or request, making it sound less direct or abrupt. Learning these expressions will help you to converse more naturally and politely in Japanese."
+    },
+    {
+        "type": "sentence",
+        "japanese": "「{中|なか} に {入|はい}って。 …{散|ち}らかってる けど さ」",
+        "english": "\"Come on in... It's a bit messy, though.\"",
+        "literal": "\"Inside enter... is messy but.\"",
+        "audio": "「なか に はいって。 ちらかってる けど さ」",
+        "audio_slow": "「なか。に。はいって。。ちらかってる。けど。さ」",
+        "breakdown": {
+            "{中|なか}*0*": "Inside (noun): This word refers to the inside of a space. In this context, it's used to refer to the inside of a house or room.||noun",
+            "に*1*": "To (particle): This particle indicates the direction or target of the action. Here, it indicates that the action (entering) is directed towards the inside.||particle",
+            "{入|はい}って*2*": "Enter (te-form verb): The verb \"{入|はい}る\" means \"to enter.\" It's in the te-form here which is often used to connect verbs in a sentence. In this case, it's used to give an informal command - \"enter\" or \"come in\".||verb",
+            "{散|ち}らかってる*3*": "is messy (progressive form of a ru-verb): \"{散|ち}らかる\" means \"to be messy.\" The \"-ってる\" form is the short form of the progressive \"-ている,\" indicating an ongoing state - in this case, that the place is (and continues to be) messy.||verb",
+            "けど*4*": "but (conjunction): This word is used to connect contrasting ideas or sentences. Here, it's used to contrast the invitation to enter with the admission that the place is messy.||conjunction",
+            "さ*5*": "(sentence-ending particle): This particle is often used in casual speech to add a nuance of explanation or emphasis. It doesn't have a direct English equivalent, but it gives the sentence a conversational, friendly tone.||particle"
+        },
+        "lesson": "This sentence is a good example of the use of te-form to give an informal command (「{中|なか}に{入|はい}って」). It also shows how the progressive form (\"-ている\", contracted here to \"-ってる\") can be used to describe an ongoing state (「{散|ち}らかってる」, the place is messy). The sentence-ending particle 「さ」 is often used in casual speech and doesn't have a direct English equivalent, but it can add a sense of explanation or emphasis to the sentence. Remember, Japanese is heavily context-dependent, so understanding the nuances of these words and particles can help in understanding and forming natural sentences."
+    }
+]

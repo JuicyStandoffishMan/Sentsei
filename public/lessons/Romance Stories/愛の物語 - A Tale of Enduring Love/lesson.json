@@ -1,0 +1,214 @@
+[
+    {
+        "type": "information",
+        "content": "# {愛|あい}の{物語|ものがたり} - A Tale of Enduring Love  \n  \n## Summary:  \n  \nThis is a beautiful tale of love and friendship. A man loves the heart of people and has a friend who he meets every day. As years pass by, their affection towards each other grows. The man confesses his love, and their hearts grow even larger. Together they walk down the streets, visit a small park, sit on a bench, and share laughter. They deeply enjoy the time they spend together, hand in hand, talking, laughing. Their story is a wonderful romance that fills their hearts with joy and their love, enduring.  \n  \n---  \n  \n## Kanji and Definitions:  \n  \n- {彼|かれ}: He, Him  \n- {人|ひと}: Person  \n- {心|こころ}: Heart  \n- {愛|あい}: Love  \n- {彼女|かのじょ}: She, Her  \n- {友達|ともだち}: Friend  \n- {毎日|まいにち}: Every day  \n- {会|あ}: Meet  \n- {一年|いちねん}: One Year  \n- {二年|にねん}: Two Years  \n- {月日|つきひ}: Time, Date  \n- {経|けい}: Pass (time)  \n- {笑顔|えがお}: Smile  \n- {大|おお}き: Big, Large  \n- {目|め}: Eye  \n- {明|あか}る: Bright  \n- {手|て}: Hand  \n- {握|にぎ}: Grasp  \n- {道|みち}: Road, Path  \n- {行|い}: Go  \n- {小|ちい}さ: Small  \n- {公園|こうえん}: Park  \n- ベンチ: Bench (Katakana)  \n- {座|すわ}: Sit  \n- {一緒|いっしょ}: Together  \n- {話|はな}: Talk, Story  \n- {長|なが}い: Long  \n- {感|かん}じ: Feel, Sense  \n- {間|あいだ}: Between, During  \n- {過|す}ご: Spend (time)  \n- {素晴|すば}らしい: Wonderful  \n- ロマンス: Romance (Katakana)  \n- {永遠|えいえん}: Eternal  \n  \n---  \n  \n## Particles Used:  \n  \n- は: Topic marker  \n- の: Possessive particle  \n- を: Object marker  \n- と: Quotation particle, With  \n- に: Direction particle, To  \n- が: Subject marker  \n- で: At, In  \n  \n---  \n  \n## Words Used:  \n  \n- 会いました: Met  \n- 経ちました: Passed  \n- 見る: See  \n- なりました: Became  \n- 言いました: Said  \n- 取りました: Took  \n- 握りました: Grasped  \n- 行きました: Went  \n- 座りました: Sat  \n- 話しました: Talked  \n- 笑いました: Laughed  \n- 一緒にいました: Were together  \n- 愛を感じました: Felt love  \n- 過ごしました: Spent (time)  \n- 手をつなぎました: Held hands  \n- 大きな愛: Big love  \n- 素晴らしいロマンスの話: Wonderful romance story  \n- 永遠でした: Was eternal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {人|ひと} の {心|こころ} を {愛|あい}しました。",
+        "english": "He loved the hearts of people.",
+        "literal": "",
+        "audio": "かれ わ ひと の こころ を あいしました。",
+        "audio_slow": "かれ。は。ひと。の。こころ。を。あいしました。",
+        "breakdown": {
+            "{彼|かれ}*0*": "He: This is a pronoun used to refer to a male person. In this case, it refers to the man in the story.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, the topic is \"彼\" (he).||particle",
+            "{人|ひと}*2*": "Person/people: It's a noun and in this context, it means 'people'.||noun",
+            "の*3*": "Possessive particle: It's used to show possession or modification. In this context, it's used to connect \"人\" (people) and \"心\" (hearts) to mean \"people's hearts\".||particle",
+            "{心|こころ}*4*": "Heart: It's a noun that represents the metaphorical heart, meaning feelings or spirit, not the physical organ.||noun",
+            "を*5*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"愛しました\", loved) is \"人の心\" (people's hearts).||particle",
+            "{愛|あい}しました*6*": "Loved: This is the past tense of the verb \"愛する\" (to love). It denotes the action that \"彼\" (he) performed, that is, he loved.||verb"
+        },
+        "lesson": "In this sentence, we see the usage of the particles \"は\", \"の\", and \"を\". Particles play a key role in the Japanese language, serving to indicate the relationship of the word (or words) they follow with the rest of the sentence. Understanding particles is critical for grasping Japanese sentence structure.\nAlso, Japanese verbs generally come at the end of the sentence, and in this case, \"愛しました\" (loved) is placed at the end. The verb also carries the tense of the sentence, showing that the action was done in the past.\n\nLastly, the concept of \"心\" (heart) being a metaphor for feelings is common in many languages, including both Japanese and English, where we might say someone has a \"big heart\" or a \"kind heart\" to mean they are kind or generous.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} は {彼|かれ} の {友達|ともだち} でした。",
+        "english": "She was his friend.",
+        "literal": "",
+        "audio": "かのじょ わ かれ の ともだち でした。",
+        "audio_slow": "かのじょ。は。かれ。の。ともだち。でした。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Pronoun: It translates to \"she\" or \"her.\" In this sentence, it is the subject, denoted by the particle は that follows it.||pronoun",
+            "は*1*": "Topic marker particle: This particle is used to mark the topic of the sentence. Here, the topic is \"彼女\" (she).||particle",
+            "{彼|かれ}*2*": "Noun: It translates to \"he\" or \"him\". In this sentence, it is used to indicate possession, i.e., his friend. This is denoted by the particle の that follows it.||noun",
+            "の*3*": "Possessive particle: This particle is used to indicate possession or attribution. Here, it shows that the friend belongs to \"彼\" (he).||particle",
+            "{友達|ともだち}*4*": "Noun: It translates to \"friend\". This noun is being described by the copula でした that follows it.||noun",
+            "でした*5*": "Copula: This is the past tense of the copula です, which translates to \"was\" or \"were\". It is used to link the subject with the complement of the sentence. Here, it links \"彼女\" (she) with \"彼の友達\" (his friend).||copula"
+        },
+        "lesson": "This sentence uses the structure [Subject] + は + [Modifier] + [Modified Noun] + でした, which is commonly used in Japanese to make statements about the past state of something or someone.\n\nNote that the order of words is different from English. The subject comes first (彼女), followed by the topic marker (は). Then comes the possessor (彼), the possessive marker (の), the thing possessed (友達), and finally the copula in past form (でした). \n\nThis sentence structure, and the way possession is expressed in Japanese, is an essential part of basic Japanese grammar and is very commonly used. Understanding this structure will help you greatly in learning Japanese.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {毎日|まいにち} {彼女|かのじょ} に {会|あ}いました。",
+        "english": "He met her every day.",
+        "literal": "",
+        "audio": "かれ わ まいにち かのじょ に あいました。",
+        "audio_slow": "かれ。は。まいにち。かのじょ。に。あいました。",
+        "breakdown": {
+            "{彼|かれ}*0*": "He: This is a pronoun used to refer to a male individual, in this case, the main character of the story.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to denote the topic of the sentence. Here, it indicates that the following action (meeting her) is done by \"彼\" (he).||particle",
+            "{毎日|まいにち}*2*": "Every day (noun): This is a time expression. It sets the frequency of the action (meeting her) taking place.||noun",
+            "{彼女|かのじょ}*3*": "Her: This is a pronoun used to refer to a female individual. Here, it refers to the woman he met.||pronoun",
+            "に*4*": "Direction marker (particle): This particle shows the direction or target of an action. Here, it shows that the action (meeting) is directed towards \"彼女\" (her).||particle",
+            "{会|あ}いました*5*": "Met: This is the past form of the verb \"会う\", which means \"to meet\". Here, it tells us that the action of meeting has already occurred.||verb"
+        },
+        "lesson": "The particle \"は\" is commonly used in Japanese sentences to mark the topic. The topic is the thing that the rest of the sentence describes or acts upon.\nThe particle \"に\" is used to indicate the direction or target of a verb. In the case of this sentence, \"彼女に\" means \"to her\" or \"towards her\", indicating the person who the protagonist met.\n\"毎日\" (every day) is an example of a time-related adverb. It describes the frequency of the action verb, in this case, \"meeting\". These types of words typically come before the verb they modify.\nThe verb \"会う\" (to meet) is in its past form here, \"会いました\". In Japanese, the past form of a verb is used to express actions that have already been completed. To create the past form for most verbs, replace the \"u\" ending with \"imashita\". So \"あう\" becomes \"あいました\".@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{一年|いちねん}、 {二年|にねん} と {月日|つきひ} が {経|た}ちました。",
+        "english": "A year or two have passed.",
+        "literal": "",
+        "audio": "いちねん にねん と つきひ が たちました。",
+        "audio_slow": "いちねん。にねん。と。つきひ。が。たちました。",
+        "breakdown": {
+            "{一年|いちねん}*0*": "Noun: This means \"one year\". \"一\" means one and \"年\" means year.||noun",
+            "{二年|にねん}*1*": "Noun: This means \"two years\". \"二\" means two and \"年\" means year.||noun",
+            "と*2*": "Particle: This particle is often used to list things or indicate a natural consequence or a condition. In this case, it's used to show the passing of time in a sequential way, almost like saying \"and then\" in English.||particle",
+            "{月日|つきひ}*3*": "Noun: This is an idiomatic expression meaning \"time\", often used to indicate the passing of days and months. \"月\" means moon or month and \"日\" means sun or day, so the expression uses a metonymy to represent the concept of time.||noun",
+            "が*4*": "Particle: This is the subject marker. It is used to denote the subject of a sentence. In this case, \"月日\" (time) is the subject.||particle",
+            "{経|た}ちました*5*": "Verb: This is the past tense of the verb \"経つ\" which means \"to pass\" (referring to time). It's a godan verb, ending with \"つ\". Since the sentence is in the past, the verb changes to \"経ちました\" (passed).||verb"
+        },
+        "lesson": "This sentence is a great example of how Japanese often uses idiomatic expressions to convey meanings. \"月日が経つ\", literally \"moon and sun pass\", is used to denote the passing of time. The particle と is used in this sentence to list things in a sequential manner (one year, two years, and then time passed), illustrating a unique way of showing the passage of time in Japanese narrative. Moreover, this sentence showcases the use of past tense in verbs, as shown in \"経ちました\". The verb \"経つ\" (to pass) is a godan verb, which is one of the two main classifications of Japanese verbs, along with ichidan verbs. The past tense of godan verbs is formed by replacing the final \"u\" syllable with an \"i\" syllable and adding \"ました\".@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {彼女|かのじょ} の {笑顔|えがお} を {見|み}ると、 {心|こころ} が {大|おお}きく なりました。",
+        "english": "When he saw her smile, his heart grew.",
+        "literal": "",
+        "audio": "かれ わ かのじょ の えがお を みると こころ が おおきく なりました。",
+        "audio_slow": "かれ。は。かのじょ。の。えがお。を。みると。こころ。が。おおきく。なりました。",
+        "breakdown": {
+            "{彼|かれ}*0*": "Pronoun: It translates to \"he\". It's the subject of the sentence.||pronoun",
+            "は*1*": "Particle: This is the topic marker in Japanese. It indicates what we're talking about in the sentence, which is \"he\".||particle",
+            "{彼女|かのじょ}*2*": "Pronoun: It translates to \"she\" or \"her\". In this context, it's used to show possession (\"her smile\").||pronoun",
+            "の*3*": "Particle: This is the possessive particle in Japanese. It's used to show that the noun that comes after it (\"smile\") belongs to the noun that comes before it (\"she\").||particle",
+            "{笑顔|えがお}*4*": "Noun: It translates to \"smile\".||noun",
+            "を*5*": "Particle: This is the direct object marker in Japanese. It's marking \"smile\" as the direct object of the verb \"to see\".||particle",
+            "{見|み}ると*6*": "Verb: It's an Ichidan verb, which ends in ~る in dictionary form. It translates to \"to see\". The \"と\" after the verb is a conditional form, which means \"when\" or \"if\".||verb",
+            "{心|こころ}*7*": "Noun: It translates to \"heart\" or \"mind\".||noun",
+            "が*8*": "Particle: This is the subject marker in Japanese. In this context, it's marking \"heart\" as the subject of the sentence.||particle",
+            "{大|おお}きく*9*": "Adverb: It's the adverbial form of the adjective 大きい (large, big). Adverbs in Japanese often describe how a verb is done. In this case, it's describing how the heart became, which is \"large\" or \"bigger\".||adverb",
+            "なりました*10*": "Verb: This is the past tense of the verb なる (to become). It's a Godan verb, which has different ending forms based on the context.||verb"
+        },
+        "lesson": "In Japanese, it's common to use the structure \"Verb + と\" to express a conditional meaning like \"if\" or \"when\". In this sentence, \"見ると\" (\"when [he] sees\") is used to show the condition that triggers the main action of the sentence, which is the heart becoming bigger. \n\nAlso, note the use of が to indicate the subject of a sentence. In English, the subject is usually the \"doer\" of the action, but in Japanese, it can also be the thing undergoing an action or change, which in this case is the \"heart\" becoming bigger.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} も {彼|かれ} の {笑顔|えがお} を {見|み}て、 {心|こころ} が {大|おお}きくなりました。",
+        "english": "She, too, upon seeing his smile, her heart grew.",
+        "literal": "",
+        "audio": "かのじょ も かれ の えがお を みて こころ が おおきくなりました。",
+        "audio_slow": "かのじょ。も。かれ。の。えがお。を。みて。こころ。が。おおきくなりました。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Pronoun: This is a pronoun that means \"she\".||pronoun",
+            "も*1*": "Particle: This is a particle that adds the meaning of \"also\" or \"too\". Here, it indicates that \"she\" is also doing the action, just like someone else mentioned before.||particle",
+            "彼*2*": "Pronoun: This is a pronoun that means \"he\".||pronoun",
+            "の*3*": "Particle: This is a possessive particle that links the following noun \"笑顔\" (smile) to \"彼\" (he). It creates the meaning of \"his smile\".||particle",
+            "{笑顔|えがお}*4*": "Noun: This is a noun that means \"smile\".||noun",
+            "を*5*": "Particle: This is the direct object marker. It indicates that \"his smile\" is the object of the verb \"見て\" (seeing).||particle",
+            "{見|み}て*6*": "Verb (te-form of the u-verb 見る, to see): This is the te-form of the verb \"見る\" which means \"to see\". The te-form is used here to connect actions in a chronological order or cause and effect.||verb",
+            "{心|こころ}*7*": "Noun: This is a noun that means \"heart\". In this context, it's used metaphorically to mean \"feelings\" or \"emotions\".||noun",
+            "が*8*": "Particle: This is the subject marker. It indicates that \"心\" (heart) is the subject of the verb \"{大|おお}きくなりました\" (became bigger/grew).||particle",
+            "{大|おお}きくなりました*9*": "Verb (past form of the i-adjective {大|おお}きい (big) + the auxiliary verb なる (to become)): This phrase means \"became bigger\" or \"grew\". Here, it is used metaphorically to mean her feelings grew or intensified.||verb"
+        },
+        "lesson": "In this sentence, we can see the use of the te-form to indicate that actions happen in sequence or as a result of each other. We also see the use of the \"も\" particle to mean \"also\" or \"too\", indicating that the subject is doing something in addition to someone else. Additionally, we have the particle \"の\" to show possession, similar to \"'s\" in English. Furthermore, this sentence shows how Japanese uses metaphorical expressions like \"心が大きくなりました\" (the heart grew/became bigger) to express emotional changes.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {彼女|かのじょ} に {言|い}いました、 「{私|わたし} は あなた を {愛|あい}しています。」",
+        "english": "He said to her, \"I love you.\"",
+        "literal": "",
+        "audio": "かれ わ かのじょ に いいました 「わたし わ あなた を あいしています。」",
+        "audio_slow": "かれ。は。かのじょ。に。いいました。「わたし。は。あなた。を。あいしています。」",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): Refers to the male subject of the story. This is used often to refer to someone already mentioned or known.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the main topic of the sentence. In this case, the topic of the sentence is \"彼\" (he).||particle",
+            "{彼女|かのじょ}*2*": "She (pronoun): Refers to the female character in the story. Just like \"彼\", \"彼女\" is used to refer to someone already mentioned or known.||pronoun",
+            "に*3*": "Direction marker (particle): This particle is often used to indicate direction or target of an action. In this case, it's indicating the recipient of the saying action (\"言いました\") is \"彼女\" (she).||particle",
+            "{言|い}いました*4*": "Said (verb, godan verb): This is the past tense form of the verb \"言う\" (to say). It indicates that the action was completed in the past.||verb",
+            "{私|わたし}*5*": "I (pronoun): This is a common first person pronoun, used by the speaker to refer to themselves.||pronoun",
+            "は*6*": "Topic marker (particle): As before, this particle is used to mark the main topic within the quoted statement. Here, \"私\" (I) is the topic of the clause within the quotation marks.||particle",
+            "あなた*7*": "You (pronoun): This is a common second person pronoun. It is used by the speaker to directly address the person they are speaking to.||pronoun",
+            "を*8*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"愛しています\", love) is \"あなた\" (you).||particle",
+            "{愛|あい}しています*9*": "Loving/love (verb, te-iru form of suru verb): This is the present progressive form of the verb \"愛する\" (to love). In this context, it can be translated as \"I love\" or \"I am loving\".||verb"
+        },
+        "lesson": "One important point to note here is the use of て-form verb with います. The te-iru form of a verb indicates an ongoing action (like English \"-ing\"), or a state resulting from a change. For verbs expressing emotion or desire (like 愛する), the te-iru form often denotes a state rather than an ongoing action. Thus, \"愛しています\" doesn't mean \"I am loving you\" in the sense of an ongoing action, but rather \"I love you\" in the sense of an existing emotional state. It's also important to note that \"言いました\" is in the past tense. This tense is often used for direct reports of speech, even if the speech act refers to the present or future.@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} は {彼|かれ} の {目|め} を {見|み}ました。",
+        "english": "She looked into his eyes.",
+        "literal": "",
+        "audio": "かのじょ わ かれ の め を みました。",
+        "audio_slow": "かのじょ。は。かれ。の。め。を。みました。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Noun: This means \"she\" or \"her\". It's used to refer to a female person, in this case, the woman in the story.||noun",
+            "は*1*": "Particle: This is the topic marker particle. It's used to show what the subject or topic of the sentence is. Here, the topic of the sentence is \"彼女\" (she).||particle",
+            "{彼|かれ}*2*": "Noun: This means \"he\" or \"him\". It's used to refer to a male person, in this case, the man in the story.||noun",
+            "の*3*": "Particle: This is the possessive particle, similar to \"of\" or \"'s\" in English. It shows that what follows (in this case, \"目\") belongs to or is associated with what comes before (in this case, \"彼\").||particle",
+            "{目|め}*4*": "Noun: This means \"eye\" or \"eyes\". In this sentence, it refers to the man's eyes.||noun",
+            "を*5*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"見ました\", saw/looked) is \"彼の目\" (his eyes).||particle",
+            "{見|み}ました*6*": "Verb: This is the past tense of the verb \"見る\" (miru), which means \"to see\" or \"to look at\". It's a ru-verb. In this context, it's translated as \"looked\".||verb"
+        },
+        "lesson": "In Japanese, the subject often comes at the beginning of the sentence, followed by the topic particle は (wa). The object of the verb is usually marked with the particle を (wo). The verb typically comes at the end of the sentence. Note the possessive の (no) particle, which shows a relationship of possession or belonging between two nouns. For instance, \"彼の目\" translates to \"his eyes\".@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} の {目|め} は {明|あか}るくて、 {彼|かれ} の {心|こころ} は {大|おお}きくなりました。",
+        "english": "Her eyes were bright, and his heart grew larger.",
+        "literal": "",
+        "audio": "かのじょ の め わ あかるくて かれ の こころ わ おおきくなりました。",
+        "audio_slow": "かのじょ。の。め。は。あかるくて。かれ。の。こころ。は。おおきくなりました。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "Noun: She/her. This is the subject of the first part of the sentence.||noun",
+            "の*1*": "Particle: It's a possessive particle, which is used to indicate ownership or affiliation.||particle",
+            "{目|め}*2*": "Noun: Eyes. It is owned by \"彼女\" (she/her).||noun",
+            "は*3*": "Particle: It's a topic marker. In this case, the topic of the first part of the sentence is \"彼女の目\" (her eyes).||particle",
+            "{明|あか}るくて*4*": "Adjective: Bright. This is an i-adjective (形容詞) in te-form, used for linking it with the next clause.||adjective",
+            "{彼|かれ}*5*": "Noun: He/him. This is the subject of the second part of the sentence.||noun",
+            "の*6*": "Particle: This is a possessive particle, which is used to indicate ownership or affiliation.||particle",
+            "{心|こころ}*7*": "Noun: Heart. It is owned by \"彼\" (he/him).||noun",
+            "は*8*": "Particle: This is a topic marker. In this case, the topic of the second part of the sentence is \"彼の心\" (his heart).||particle",
+            "{大|おお}きくなりました*9*": "Verb: Became larger. This is a combination of an i-adjective 大きい (large) in ku-form and the verb なる (to become) in past tense.||verb"
+        },
+        "lesson": "In this sentence, we have encountered the te-form of an i-adjective. This form is used to connect two sentences or clauses. The i-adjective 明るい (bright) was changed to 明るくて, allowing it to connect with the next part of the sentence. \n\nWe've also seen the use of なる (to become) in combination with an i-adjective. By using the ku-form of the adjective (大きい becomes 大きく) before なる, it means \"to become [adjective]\". In this case, 大きくなりました translates as \"became larger\". \n\nLastly, the particle の is used to indicate possession, similar to \"'s\" in English. It can connect two nouns together, with the first noun possessing the second. For example, in \"彼女の目\" (her eyes), \"彼女\" (she/her) possesses \"目\" (eyes), thus it translates as \"her eyes\".@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼女|かのじょ} は {彼|かれ} の {手|て} を {取|と}りました。",
+        "english": "She took his hand.",
+        "literal": "",
+        "audio": "かのじょ わ かれ の て を とりました。",
+        "audio_slow": "かのじょ。は。かれ。の。て。を。とりました。",
+        "breakdown": {
+            "{彼女|かのじょ}*0*": "She (pronoun): In this sentence, it refers to the subject of the sentence.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence. In this case, \"彼女\" (she) is the topic of the sentence.||particle",
+            "{彼|かれ}*2*": "He (pronoun): Here it is used to refer to the male character in the story. The \"の\" after \"彼\" indicates possession, so \"彼の手\" means \"his hand\".||pronoun",
+            "の*3*": "Possessive marker (particle): This particle is used to indicate possession or attribution. In this case, \"彼の手\" means \"his hand\".||particle",
+            "{手|て}*4*": "Hand (noun): This is what \"彼女\" (she) is taking in the sentence.||noun",
+            "を*5*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"取りました\", took) is \"手\" (hand).||particle",
+            "{取|と}りました*6*": "Took (verb): This is the past tense of the verb \"取る\" (to take). In Japanese, verb tense is indicated at the end of the verb. Here, \"りました\" indicates that the action took place in the past.||verb"
+        },
+        "lesson": "This sentence offers a good example of the structure of a basic Japanese sentence, which often goes Subject-Object-Verb (SOV). In this case, the subject is \"彼女\" (she), the object is \"彼の手\" (his hand), and the verb is \"取りました\" (took). Remember that the topic of the sentence is marked by \"は\" and the direct object by \"を\". \n\nThe verb \"取る\" (to take) is a Godan verb, one of the two main groups of verbs in Japanese. To form the past tense of Godan verbs, you generally replace the \"u\" ending with an \"i\" ending, and then add \"ました\" to show respect or politeness. So \"取る\" (toru) becomes \"取りました\" (torimashita).@Literal"
+    },
+    {
+        "type": "sentence",
+        "japanese": "{彼|かれ} は {彼女|かのじょ} の {手|て} を {握|にぎ}りました。",
+        "english": "He held her hand.",
+        "literal": "",
+        "audio": "かれ わ かのじょ の て を にぎりました。",
+        "audio_slow": "かれ。は。かのじょ。の。て。を。にぎりました。",
+        "breakdown": {
+            "{彼|かれ}*0*": "He (pronoun): Refers to the male character in the story.||pronoun",
+            "は*1*": "Topic marker (particle): This particle is used to mark the topic of the sentence, which in this case is \"彼\" (he).||particle",
+            "{彼女|かのじょ}*2*": "She/her (pronoun): Refers to the female character in the story. Here it shows possession (her) because of the following noun \"手\" (hand).||pronoun",
+            "の*3*": "Possession particle (particle): This particle is used to indicate that the noun before it (彼女, her) possesses the noun after it (手, hand).||particle",
+            "{手|て}*4*": "Hand (noun): This is the thing that is being held.||noun",
+            "を*5*": "Object marker (particle): This particle is used to mark the direct object of a verb. In this case, the object of the action (which is \"握りました\", held) is \"彼女の手\" (her hand).||particle",
+            "{握|にぎ}りました*6*": "Held (verb, past tense): This is a godan verb ending in 'ru'. The past tense is used to indicate that the action (holding her hand) has been completed.||verb"
+        },
+        "lesson": "In Japanese, possession is shown using the particle \"の\". So \"彼女の手\" means \"her hand\". Note that in Japanese, the object of a verb is marked by the particle \"を\". This can be thought of as similar to the English \"the\" in the sentence \"He held the hand\", though it isn't a perfect translation. In addition, verbs usually come at the end of a sentence in Japanese. This structure is different from English, where the verb typically comes in the middle of a sentence.@Literal"
+    }
+]

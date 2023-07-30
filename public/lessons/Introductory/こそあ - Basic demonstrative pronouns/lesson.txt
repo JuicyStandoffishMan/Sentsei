@@ -1,0 +1,59 @@
+@Information
+# Lesson on Japanese Demonstratives: Part 1
+
+## Introduction
+
+In this lesson, we will introduce the Japanese demonstrative pronouns, which include: 
+
+- これ (kore)
+- それ (sore)
+- あれ (are)
+- この (kono)
+- その (sono)
+- あの (ano)
+
+These demonstratives are often used to indicate or replace items based on their physical or conceptual distance from the speaker and listener. They help to clarify communication and avoid repetition of nouns in sentences.
+
+## 1. これ (kore), それ (sore), and あれ (are)
+
+These words are pronouns that can be used to replace nouns. They can be used alone without needing to attach to a noun.
+
+- **これ (kore)**: this or these (near the speaker)
+- **それ (sore)**: that or those (near the listener)
+- **あれ (are)**: that or those (far from both speaker and listener)
+
+Let's see some examples:
+
+1. **これ** は 何(なん) です か。(What is this?)
+   
+   `これ (kore)` is used here because the object is close to the speaker.
+
+2. 彼が **それ** を 読(よ)んでいます。(He is reading that.)
+
+   `それ (sore)` is used here because the object is close to the listener.
+
+3. **あれ** は 私(わたし) の 本(ほん) でした。(That was my book.)
+
+   `あれ (are)` is used here because the object is far from both the speaker and the listener.
+
+## 2. この (kono), その (sono), and あの (ano)
+
+These are demonstrative adjectives and are always followed by a noun.
+
+- **この (kono)**: this or these (noun) (near the speaker)
+- **その (sono)**: that or those (noun) (near the listener)
+- **あの (ano)**: that or those (noun) (far from both speaker and listener)
+
+Here are some examples:
+
+1. **この** 本(ほん) は 面白(おもしろ)い です。(This book is interesting.)
+   
+   `この (kono)` is used here because the object (book) is close to the speaker.
+
+2. **その** 車(くるま) は 速(はや)い です ね。(That car is fast, isn't it?)
+
+   `その (sono)` is used here because the object (car) is close to the listener.
+
+3. **あの** ビル は 高(たか)かった。(That building was tall.)
+
+   `あの (ano)` is used here because the object (building) is far from both the speaker and the listener.

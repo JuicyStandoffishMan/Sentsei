@@ -1,0 +1,115 @@
+@Information
+# Grammatical Elements
+---
+This lesson covers the following 12 grammatical elements:
+
+- 名詞(めいし): Noun
+- 代名詞(だいめいし): Pronoun
+- 動詞(どうし): Verb
+- 副詞(ふくし): Adverb
+- 形容詞(けいようし)/形容動詞(けいようどうし): Adjective
+- 助詞(じょし): Particle
+- 感動詞(かんどうし): Interjection
+- 接続詞(せつぞくし): Conjunction
+- 助動詞(じょどうし): Auxiliary Verb
+- 助数詞(じょすうし): Counter
+- 連語(れんご): Copula
+
+@Sentence
+名詞(めいし)
+@Translation
+@Breakdown
+名詞 - Noun
+@Lesson
+Like English, Japanese has nouns that represent people, places, things, and ideas.
+One significant difference is that Japanese nouns do not have grammatical number, gender or article.
+
+@Sentence
+代名詞(だいめいし)
+@Translation
+@Breakdown
+代名詞(だいめいし) - Pronoun
+@Lesson
+Japanese has pronouns, but they are used less frequently than in English. It's common in Japanese to drop the subject of the sentence if it's understood from context.
+
+@Sentence
+動詞(どうし)
+@Translation
+@Breakdown
+動詞(どうし) - Verb
+@Lesson
+Verbs in Japanese are conjugated, but differently from English. They are altered based on tense, mood, voice, and politeness level. They always come at the end of a sentence or clause.
+
+@Sentence
+副詞(ふくし)
+@Translation
+@Breakdown
+副詞(ふくし) - Adverb
+@Lesson
+Like English, Japanese has adverbs that modify verbs, adjectives, and other adverbs.
+
+@Sentence
+形容詞(けいようし) 形容動詞(けいようどうし)
+@Translation
+@Breakdown
+形容詞(けいようし) - Adjective
+形容動詞(けいようどうし) - Adjective
+@Lesson
+Japanese has two types of adjectives. One behaves similarly to English adjectives, while the other, known as 'na-adjectives' or 'adjectival nouns,' behaves more like nouns and requires a form of the copula to connect it to a noun.
+
+@Sentence
+助詞(じょし)
+@Translation
+@Breakdown
+助詞(じょし) - Particle
+@Lesson
+Particles are small words that indicate the relationship of a word, a phrase, or a clause to the rest of the sentence. They often signify case, direction, time, location, manner, reason, or degree. They are a unique and critical aspect of Japanese grammar.
+
+@Sentence
+感動詞(かんどうし)
+@Translation
+@Breakdown
+感動詞(かんどうし) - Interjection
+@Lesson
+These are words or expressions that represent emotion or sudden bursts of feelings.
+
+@Sentence
+接続詞(せつぞくし)
+@Translation
+@Breakdown
+接続詞(せつぞくし) - Conjunction
+@Lesson
+These words connect words, phrases, or sentences.
+
+@Sentence
+助動詞(じょどうし)
+@Translation
+@Breakdown
+助動詞(じょどうし) - Auxiliary Verb
+@Lesson
+These are used in conjunction with the main verb to express various states or to add nuance to the sentence.
+
+@Sentence
+助数詞(じょすうし)
+@Translation
+@Breakdown
+助数詞(じょすうし) - Counter
+@Lesson
+Japanese uses specific counter words when counting different types of objects, actions, or events. The type of counter that is used depends on the characteristics of the thing being counted (for example, flat objects, round objects, animals, people, and time all have different counters).
+
+@Sentence
+連語(れんご)
+@Translation
+@Breakdown
+連語(れんご) - Copula
+@Lesson
+A copula is a word used to link the subject of a sentence with a predicate. The most common Japanese copula is です (desu), but there are others, each with its own nuances.
+
+@Sentence
+擬音語(ぎおんご) 擬態語(ぎたいご)
+@Translation
+@Breakdown
+擬音語(ぎおんご) - Onomatopoeia word
+擬態語(ぎたいご) - Mimetic word
+@Lesson
+Japanese has a rich collection of sound symbolism or onomatopoeic expressions that represent sounds or states/conditions. These are often used to add expressiveness to speech or writing.

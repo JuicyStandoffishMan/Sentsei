@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Introductory",
+      "color": "#DDFFDD",
+      "lessons": [
+        { "id": "です and だ - An introduction to X is Y sentences", "title": "です and だ - An introduction to X is Y sentences" },
+        { "id": "可愛い - Adjectives", "title": "{可愛|かわい}い - Adjectives"},
+        { "id": "何何 - Who, What, Where, Why, When", "title": "何何 - Who, What, Where, Why, When" }
+      ]
+    },
+    {
+      "name": "White Album",
+      "color": "#00A5FF",
+      "lessons": [
+        { "id": "White Album - Intro", "title": "Intro" }
+      ]
+    }
+  ]
+}
