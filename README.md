@@ -6,7 +6,7 @@ This is a web application that visualizes Japanese sentence breakdowns for helpi
 
 ## Features
 - Normal, slow, and individual word audio playback
-- Splitting and highlighting words
+- Splitting and highlighting words with breakdowns and supplemental information
 - Color coded type labeling (noun, verb, etc.)
 - Furigana
 - Markdown informational pages for lessons/info
