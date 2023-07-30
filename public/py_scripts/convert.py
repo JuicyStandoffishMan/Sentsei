@@ -62,7 +62,7 @@ def get_type(data):
     return ''
 
 def parse_sentence_block(japanese_block, english_block, literal_block, breakdown_block, lesson_block):
-    japanese = japanese_block[0].strip()
+    japanese = re.sub(' +', ' ', japanese_block[0].replace('、', '、 ').strip())
     english = english_block.strip()
     literal = literal_block.strip() if literal_block else ''
     breakdown = breakdown_block.split('\n')
@@ -93,6 +93,8 @@ def parse_sentence_block(japanese_block, english_block, literal_block, breakdown
             new_japanese = new_japanese + '。'
         elif japanese.endswith('？') and not new_japanese.endswith('？'):
             new_japanese = new_japanese + '？'
+        elif japanese.endswith('！') and not new_japanese.endswith('！'):
+            new_japanese = new_japanese + '！'
         
         if '、' in japanese:
             print(f'Warning: Mismatch for sentence {japanese}/{english}')
