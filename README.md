@@ -12,7 +12,7 @@ This is a web application that visualizes Japanese sentence breakdowns for helpi
 - Markdown informational pages for lessons/info
 - Multiple lessons
 - Spoilery proper and literal translation
-- Support for loading in local lessons via the [File System API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
+- Support for loading in local lessons
 - Layout optimized for both desktop and mobile
 
 ## What is this?
@@ -24,9 +24,9 @@ This project doesn't solve that - it's merely a set of tools to enable a rich in
 
 ## Creating your own lessons
 ### Loading lessons locally
-On the homepage, just click "Select Local" at the top and open &lt;lesson&gt;.zip. Make sure it contains lesson.json and optionally an Audio folder with the selected works. There's more info in the tutorial.
+On the homepage, just click "Upload Local Lesson" at the top and open &lt;lesson&gt;.zip. Make sure it contains lesson.json and optionally an Audio folder with the selected works. There's more info in the tutorial.
 
-**Note**: This uses the [File System API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API), which is not supported by Firefox or on Android. There's probably a better solution out there.
+**Note:** The file is just extracted and read locally; nothing is sent remotely.
 
 ### Contributing lessons
 If you want to contribute one that you've made, please open a pull request.
