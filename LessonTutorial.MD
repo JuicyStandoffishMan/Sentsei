@@ -254,7 +254,7 @@ Break the Japanese sentence into words and spaces. For kanji, provide its furiga
 A contextual English translation of the sentence.
 
 @Literal
-A literal broken-English translation of the sentence. For example, "まあ、 早(はや)い ところ 済(す)ませ ちゃおう。" would be "Well, quickly finish let's do."
+A literal broken-English translation of the sentence. For example, "まあ、 早(はや)い ところ 済(す)ませ ちゃおう。" would be "Well, early place finish let's do."
 
 @Breakdown
 A thorough breakdown of each word that's structured like this:
