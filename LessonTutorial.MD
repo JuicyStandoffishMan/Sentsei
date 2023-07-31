@@ -62,7 +62,7 @@ Japanese word A - Translation (type): Description
 Japanese word B - Translation (type): Description
 
 **@Lesson**  
-Markdown text goes here until end-of-file or @Lesson.
+Markdown text goes here until end-of-file or the next @Information or @Sentence.
 
 #### Example
 
@@ -133,7 +133,9 @@ python convert.py
 This will produce `lesson.json`.
 
 ## 6. Test the lesson
-Now it's time to make sure everything is working okay. 
+Now it's time to make sure everything is working okay.
+
+**Note:** If during testing you don't notice your updates, your browser could be caching the `lesson.json` file. A cacheless refresh should fix this (On Chrome it's Ctrl+F5).
 
 ### Add to the homepage lessons
 If you're running a local host, we'll add it to the lessons on the homepage.
