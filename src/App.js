@@ -65,13 +65,12 @@ function TitleScreen() {
     return (
       <div className="lesson_grid">
         {lessons.map((category) => (
-          <div style={{ flex: '1', maxWidth: '700px' }}>
+          <div className='lesson_category' style={{ flex: '1', maxWidth: '700px' }}>
             <h2>{category.name}</h2>
             {category.lessons.map((lesson) => (
-              <p><a 
+              <div class="lesson_item"
                 href={`${basename}lessons/${category.name}/${lesson.id}/1`}
                 key={lesson.id}
-                className="lesson_link"
                 onClick={(e) => {
                   e.preventDefault();
                   selectLesson(category.name, lesson.id, lesson.title);
@@ -79,7 +78,7 @@ function TitleScreen() {
                 style={{ color:category.color }}
               >
                 {renderWithFurigana(lesson.title)}
-              </a></p>
+              </div>
             ))}
           </div>
         ))}
@@ -89,6 +88,10 @@ function TitleScreen() {
 
   return (
     <div className="title-screen">
+      <div className="title-screen-header">
+        <a href={basename}><h1>Sentsei</h1></a>
+        <a href="https://github.com/JuicyStandoffishMan/Sentsei"><img className="github" src="github.png" /></a>
+      </div>
       <label for="upload_file" className="upload">Upload Local Lesson</label>
       <input id="upload_file" type="file" onChange={uploadFile} accept=".zip" className="upload"/>
       <LessonList lessons={lessons} />
