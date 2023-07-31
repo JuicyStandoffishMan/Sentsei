@@ -27,7 +27,9 @@ def find_and_fill_kanji_without_furigana(file_path):
                 filled_entries.append((line_num, kanji, kanji_to_furigana[kanji]))
                 return f"{kanji}({kanji_to_furigana[kanji]})"  # Add furigana if it's missing
             else:
-                bad_entries.append((line_num, kanji))
+                # Only append to bad entries if the kanji appears before " - "
+                if " - " in line and kanji in line.split(" - ")[0]:
+                    bad_entries.append((line_num, kanji))
                 return kanji  # Keep the original kanji if there's no furigana
 
         line = kanji_pattern.sub(repl, line)

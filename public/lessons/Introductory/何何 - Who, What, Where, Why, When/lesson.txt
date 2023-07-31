@@ -23,14 +23,8 @@ In this lesson, we will delve into the Japanese word 何(なに) and its usage. 
 
 One important point to remember is that 何(なに) cannot directly follow the topic particle "は". In this case, the "は" would need to be replaced by "が". For example:
 
-- Correct: 何(なん)が好(す)きですか？ (What it is that you like?)
-- Incorrect: 何(なん)は好(す)きですか？  (Speaking of what, you like?)
-
-This rule, however, is not limited to 何(なに) alone, and applies to other interrogative words like "誰(だれ)" (who), "どこ" (where), and "いつ" (when). 
-
-- 誰(だれ) (Who)
-- どこ (Where)
-- いつ (When)
+- Correct: 何(なに)が好(す)きですか？ (What it is that you like?)
+- Incorrect: 何(なに)は好(す)きですか？  (Speaking of what, you like?)
 
 These rules might seem tricky at first, but with enough practice, they will start to feel more natural.
 
